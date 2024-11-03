@@ -35,25 +35,17 @@ relativeURLs = true
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "Website"
     url = "https://stultus.in"
     weight = 1
   [[menu.main]]
     name = "Digital Garden"
-    url = "/garden/"
+    url = "https://stultus.in/notes/garden/"
     weight = 2
-  [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-    weight = 3
-  [[menu.main]]
-    name = "Library"
-    url = "/library/"
-    weight = 4
   [[menu.main]]
     name = "About"
     url = "https://stultus.in/about"
-    weight = 5
+    weight = 3
 
 
 [taxonomies]

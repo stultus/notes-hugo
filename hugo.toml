@@ -55,17 +55,6 @@ relativeURLs = true
 
 
 [markup]
-  defaultMarkdownHandler = 'goldmark'
-  [markup.goldmark.renderer]
-    unsafe = true
-  [markup.goldmark.extensions]
-    definitionList = true
-    footnote = true
-    linkify = true
-    strikethrough = true
-    table = true
-    taskList = true
-    typographer = true
   [markup.highlight]
-    # Choose from https://xyproto.github.io/splash/docs/all.html
-    style = 'monokailight'
+    noClasses = false
+    style = 'monokai' # You can choose any built-in style or leave it blank

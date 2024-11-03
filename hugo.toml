@@ -1,14 +1,14 @@
-baseURL = "https://stultus.in/notes/"
+baseURL = "https://stultus.in/"
 languageCode = "en-us"
 title = "stultus notes"
 theme = "hugo-digital-garden-theme"
-#themesdir = "../../"
+themesdir = "./themes"
 copyright = "Hrishikesh Bhaskaran ♥"
 relativeURLs = true
 
 [params]
   name = "Hrishikesh Bhaskaran"
-  description = "Red panda living in the eastern Himalayas."
+  description = "“I wasn't going to eat it, I was just going to taste it.” - Winnie the Pooh"
   initials = "stultus notes"
   googleAnalytics = ""
 
@@ -40,7 +40,7 @@ relativeURLs = true
     weight = 1
   [[menu.main]]
     name = "Digital Garden"
-    url = "/notes/"
+    url = "/garden/"
     weight = 2
   [[menu.main]]
     name = "Projects"
@@ -66,13 +66,6 @@ relativeURLs = true
   defaultMarkdownHandler = 'goldmark'
   [markup.goldmark.renderer]
     unsafe = true
-  [markup.goldmark.parser]
-    autoHeadingID = true
-    autoHeadingIDType = 'github'
-    wrapStandAloneImageWithinParagraph = true
-    [markup.goldmark.parser.attribute]
-      block = false
-      title = true
   [markup.goldmark.extensions]
     definitionList = true
     footnote = true

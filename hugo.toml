@@ -1,4 +1,4 @@
-baseURL = "https://notes.stultus.in"
+baseURL = "https://stultus.in/notes/"
 languageCode = "en-us"
 title = "stultus notes"
 theme = "hugo-digital-garden-theme"

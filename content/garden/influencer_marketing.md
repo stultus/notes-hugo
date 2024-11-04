@@ -3,7 +3,7 @@ title = "Influencer Marketing"
 date = 2024-11-03T19:01:27+05:30
 lastmod = 2024-11-03T19:01:27+05:30
 draft = false
-garden_tags = ["note", "influencer marketing", "influencer", "marketing"]
+garden_tags = ["note", "influencer-marketing", "influencer", "marketing"]
 summary = "Notes about influencer marketing - Data, recommendations and ideas"
 status = "seeding"
 +++

@@ -3,7 +3,7 @@ date = 2024-11-03
 title = "Digital Garden"
 lastmod = 2024-11-03
 draft = false
-garden_tags = ["digital garden", "note taking", "zettelkasten", "process"]
+garden_tags = ["digital-garden", "note-taking", "zettelkasten", "process"]
 summary = "A Digital Garden/Zettelkasten is a personal tool for thinking and writing. It has hypertextual features to make a web of thought possible."
 status = "evergreen"
 +++

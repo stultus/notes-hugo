@@ -5,7 +5,7 @@ lastmod = 2024-11-03T20:26:05+05:30
 draft = false
 garden_tags = ["note", "markdown", "syntax"]
 summary = "Syntax to create footnotes in Markdown"
-status = "seeding"
+status = "evergreen"
 +++
 
 - The basic syntax is to append square brackets *without a space* to the end of the sentence you are footnoting.

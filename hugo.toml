@@ -5,6 +5,7 @@ theme = "hugo-digital-garden-theme"
 themesdir = "./themes"
 copyright = "Hrishikesh Bhaskaran ♥"
 relativeURLs = true
+canonifyURLs = false
 
 [params]
   name = "Hrishikesh Bhaskaran"

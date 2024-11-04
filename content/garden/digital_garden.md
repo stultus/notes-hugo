@@ -4,7 +4,7 @@ title = "Digital Garden"
 lastmod = 2024-11-03
 draft = false
 garden_tags = ["digital garden", "note taking", "zettelkasten", "process"]
-summary = "A Digital Garden/Zettelkasten is a personal tool for thinking and writing. It has hypertextual features to make a web of thought possible. The difference to other systems is that you create a web of thoughts instead of notes of arbitrary size and form, and emphasize connection, not a collection."
+summary = "A Digital Garden/Zettelkasten is a personal tool for thinking and writing. It has hypertextual features to make a web of thought possible."
 status = "evergreen"
 +++
 

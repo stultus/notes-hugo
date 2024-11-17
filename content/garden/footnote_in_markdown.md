@@ -1,9 +1,9 @@
 +++
 title = "Footnotes in Markdown"
-date = 2024-11-03T20:26:05+05:30
-lastmod = 2024-11-03T20:26:05+05:30
+date = 2024-11-03T14:56:05.000Z
+lastmod = 2024-11-03T14:56:05.000Z
 draft = false
-garden_tags = ["note", "markdown", "syntax"]
+garden_tags = [ "markdown", "syntax" ]
 summary = "Syntax to create footnotes in Markdown"
 status = "evergreen"
 +++

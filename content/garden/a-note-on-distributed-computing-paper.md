@@ -1,12 +1,12 @@
-+++
-title = "[Academic Paper] A Note on Distributed Computing"
-date = 2024-11-05T02:58:24+05:30
-lastmod = 2024-11-05T02:58:24+05:30
-draft = false
-garden_tags = ["academic-paper", "distributed-computing", "computer-science"]
-summary = "Notes from the paper by Jim Waldo, Geoff Wyant, Ann Wollrath and Sam Kendall about Distributed computing"
-status = "seeding"
-+++
+---
+title: A Note on Distributed Computing
+date : 2024-11-05T02:58:24+05:30
+lastmod : 2024-11-17T02:58:24+05:30
+draft : false
+garden_tags : ["academic-paper", "distributed-computing", "computer-science"]
+summary : "Notes from the paper by Jim Waldo, Geoff Wyant, Ann Wollrath and Sam Kendall about Distributed computing"
+status : "seeding"
+---
 
 #### The actual paper
 

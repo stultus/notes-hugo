@@ -1,9 +1,9 @@
 +++
 title = "Document layout engine"
-date = 2024-11-05T01:21:44+05:30
-lastmod = 2024-11-05T01:21:44+05:30
+date = 2024-11-04T19:51:44.000Z
+lastmod = 2024-11-04T19:51:44.000Z
 draft = false
-garden_tags = ["note", "computer-science", ]
+garden_tags = [ "computer-science" ]
 summary = "A document layout engine is a software program or library that is used to render and format the layout of a document."
 status = "seeding"
 +++

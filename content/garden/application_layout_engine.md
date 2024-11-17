@@ -1,9 +1,9 @@
 +++
 title = "Application layout engine"
-date = 2024-11-05T01:28:44+05:30
-lastmod = 2024-11-05T01:28:44+05:30
+date = 2024-11-04T19:58:44.000Z
+lastmod = 2024-11-04T19:58:44.000Z
 draft = false
-garden_tags = ["note", "computer-science"]
+garden_tags = [ "computer-science" ]
 summary = "Application layout engines manage the arrangement of user interface (UI) components within software applications, ensuring that elements are displayed correctly across different devices and screen sizes."
 status = "seeding"
 +++

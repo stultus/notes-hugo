@@ -1,13 +1,13 @@
-+++
-date = '2023-10-23T16:33:15+05:30'
-title = "stultus"
-description = "Genius has limits. Stupidity doesn’t"
-lastmod = 2024-11-03
-draft = false
-garden_tags = ["pseudonym", "personal"]
-summary = "'Stultus' is a Latin word and it means 'Stupid/Foolish'. And I use this as my pseudonym"
-status = "evergreen"
-+++
+---
+date : '2023-10-23T16:33:15+05:30'
+title : "stultus"
+description : "Genius has limits. Stupidity doesn’t"
+lastmod : 2024-11-03
+draft : false
+garden_tags : ["pseudonym", "personal"]
+summary : "'Stultus' is a Latin word and it means 'Stupid/Foolish'. And I use this as my pseudonym"
+status : "evergreen"
+---
 
 # Stultus
 

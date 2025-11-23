@@ -39,5 +39,5 @@ jobs:
           keep_files: false
           user_name: stultus
           user_email: stultus@stultus.in
-          commit_message: ${{ github.event.head_commit.message }}
+          commit_message: ${{ github.event.commits[0].message }}
 

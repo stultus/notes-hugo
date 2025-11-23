@@ -31,9 +31,9 @@ jobs:
           # You need to create a Personal Access Token (PAT) with `repo` scope and add it to your repository secrets as PERSONAL_TOKEN
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           
-          # UPDATE THIS to your public repository (e.g. stultus/notes-public)
-          # If you are deploying to the same repo's gh-pages branch, you can use github_token: ${{ secrets.GITHUB_TOKEN }} and remove external_repository
-          external_repository: stultus/notes
+          # Deploying to stultus.github.io repository (main website)
+          # The built site goes to the /notes subdirectory
+          external_repository: stultus/stultus.github.io
           
           publish_branch: main # or gh-pages, or master depending on where you host
           publish_dir: ./public

@@ -1,0 +1,44 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Set a branch name to trigger deployment
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          # You need to create a Personal Access Token (PAT) with `repo` scope and add it to your repository secrets as PERSONAL_TOKEN
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          
+          # UPDATE THIS to your public repository (e.g. stultus/notes-public)
+          # If you are deploying to the same repo's gh-pages branch, you can use github_token: ${{ secrets.GITHUB_TOKEN }} and remove external_repository
+          external_repository: stultus/notes
+          
+          publish_branch: main # or gh-pages, or master depending on where you host
+          publish_dir: ./public
+          keep_files: false
+          user_name: stultus
+          user_email: stultus@stultus.in
+          commit_message: ${{ github.event.head_commit.message }}
+

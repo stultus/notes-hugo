@@ -16,7 +16,8 @@ summary: "Parody of Tolkien's Ring Verse celebrating Linux and open source."
 - **Author**: J. Scott Thayer (with apologies to J.R.R. Tolkien)
 - **Type**: Parody poem
 - **Original**: "One Ring to Rule Them All" from J.R.R. Tolkien's *The Lord of the Rings*
-- **Used as**: Email signature (circa 2012)
+- **Circulation**: Already in circulation before 2012
+- **Personal Use**: Used as email signature circa 2012
 
 ## The Verse
 

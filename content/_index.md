@@ -1,5 +1,5 @@
 ---
-title: Garden
+title: Notes
 type: moc
 status: evergreen
 summary: "The entrance to my digital garden."

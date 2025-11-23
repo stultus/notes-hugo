@@ -40,8 +40,8 @@ canonifyURLs = false
     url = "https://stultus.in"
     weight = 1
   [[menu.main]]
-    name = "Digital Garden"
-    url = "https://stultus.in/notes/garden/"
+    name = "Notes"
+    url = "https://stultus.in/notes/"
     weight = 2
   [[menu.main]]
     name = "About"

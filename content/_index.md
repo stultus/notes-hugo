@@ -30,5 +30,9 @@ Here are the main entry points to explore:
 - [[Story]] - The structure of narrative.
 - [[Influencer Marketing]] - Modern media dynamics.
 
+### 📚 Library / Sources
+*Inputs: Courses, Books, and Articles being processed.*
+- [[Screenwriting Storytelling Blueprint]] (Course)
+
 ---
 *Use the tags or search to find specific topics.*

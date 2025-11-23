@@ -12,51 +12,51 @@ Welcome to my digital garden. This is a collection of living notes, interconnect
 Here are the main entry points to explore:
 
 ### 🧠 Concepts & Thinking
-- [Digital Garden]({{< ref "digital_garden.md" >}}) - The philosophy behind this site.
-- [Polymath]({{< ref "polymath.md" >}}) - Exploring multidisciplinary learning.
+- [Digital Garden](/notes/digital_garden/) - The philosophy behind this site.
+- [Polymath](/notes/polymath/) - Exploring multidisciplinary learning.
 
 ### 💻 Engineering & Tech
-- [Engineering Strategy]({{< ref "engineering-strategy.md" >}}) - How to think about technical leadership.
-  - [Wardley Maps]({{< ref "wardley-maps.md" >}}) - Strategic visualization tool.
-  - [Proof of Concept (POC)]({{< ref "proof-of-concept.md" >}}) - Validating feasibility.
-  - [Prototype]({{< ref "prototype.md" >}}) - Testing design and UX.
-  - [Minimum Viable Product (MVP)]({{< ref "minimum-viable-product.md" >}}) - First market release.
-- [Application Layout Engine]({{< ref "application_layout_engine.md" >}}) - UI rendering systems.
-- [Document Layout Engine]({{< ref "document_layout_engine.md" >}}) - Document formatting systems.
-- [Layout Engine]({{< ref "layout-engine.md" >}}) - General layout concepts.
-- [Widget Toolkit]({{< ref "widget-toolkit.md" >}}) - UI component libraries.
-- [User Interface Markup Language]({{< ref "user-interface-markup-language.md" >}}) - Declarative UI languages.
-- [A Note on Distributed Computing]({{< ref "a-note-on-distributed-computing-paper.md" >}}) - Seminal paper analysis.
-  - [Local vs Distributed Objects]({{< ref "local-vs-distributed-objects.md" >}}) - Core concept from the paper.
+- [Engineering Strategy](/notes/engineering-strategy/) - How to think about technical leadership.
+  - [Wardley Maps](/notes/wardley-maps/) - Strategic visualization tool.
+  - [Proof of Concept (POC)](/notes/proof-of-concept/) - Validating feasibility.
+  - [Prototype](/notes/prototype/) - Testing design and UX.
+  - [Minimum Viable Product (MVP)](/notes/minimum-viable-product/) - First market release.
+- [Application Layout Engine](/notes/application_layout_engine/) - UI rendering systems.
+- [Document Layout Engine](/notes/document_layout_engine/) - Document formatting systems.
+- [Layout Engine](/notes/layout-engine/) - General layout concepts.
+- [Widget Toolkit](/notes/widget-toolkit/) - UI component libraries.
+- [User Interface Markup Language](/notes/user-interface-markup-language/) - Declarative UI languages.
+- [A Note on Distributed Computing](/notes/a-note-on-distributed-computing-paper/) - Seminal paper analysis.
+  - [Local vs Distributed Objects](/notes/local-vs-distributed-objects/) - Core concept from the paper.
 
 ### ⚖️ Law & Society
-- [Cyber Crime]({{< ref "cyber-crime.md" >}}) - Understanding digital offenses.
-  - [Cyber Crime Laws in India]({{< ref "cyber-crime-laws-india.md" >}}) - Indian legal framework.
-- [Cyber Bullying]({{< ref "cyber-bullying.md" >}}) - Legal and social perspectives.
-  - [Cyber Bullying Laws in India]({{< ref "cyber-bullying-laws-india.md" >}}) - Indian legislation.
-  - [Cyber Bullying Laws International]({{< ref "cyber-bullying-laws-international.md" >}}) - Global laws.
-- [Online Violence]({{< ref "online-violence.md" >}}) - Forms of digital abuse.
-  - [Doxxing]({{< ref "doxxing.md" >}}) - Privacy violation.
-- [Constitution of India - Article 21]({{< ref "constitution-article-21.md" >}}) - Right to life and privacy.
-- [Plaintiff]({{< ref "plaintiff.md" >}}) - Legal definitions.
+- [Cyber Crime](/notes/cyber-crime/) - Understanding digital offenses.
+  - [Cyber Crime Laws in India](/notes/cyber-crime-laws-india/) - Indian legal framework.
+- [Cyber Bullying](/notes/cyber-bullying/) - Legal and social perspectives.
+  - [Cyber Bullying Laws in India](/notes/cyber-bullying-laws-india/) - Indian legislation.
+  - [Cyber Bullying Laws International](/notes/cyber-bullying-laws-international/) - Global laws.
+- [Online Violence](/notes/online-violence/) - Forms of digital abuse.
+  - [Doxxing](/notes/doxxing/) - Privacy violation.
+- [Constitution of India - Article 21](/notes/constitution-article-21/) - Right to life and privacy.
+- [Plaintiff](/notes/plaintiff/) - Legal definitions.
 
 ### 🎨 Creativity & Story
-- [Story]({{< ref "story.md" >}}) - The structure of narrative.
-  - [Character (Story Element)]({{< ref "character-story-element.md" >}}) - The protagonist's role.
-  - [Desire (Story Element)]({{< ref "desire-story-element.md" >}}) - The goal driving the plot.
-  - [Conflict (Story Element)]({{< ref "conflict-story-element.md" >}}) - The obstacles creating emotion.
-- [Influencer Marketing]({{< ref "influencer_marketing.md" >}}) - Modern media dynamics.
-  - [Nano Influencers vs Macro Influencers]({{< ref "nano-vs-macro-influencers.md" >}}) - Scale comparison.
-  - [Influencer Marketing Funnel]({{< ref "influencer-marketing-funnel.md" >}}) - Customer journey.
+- [Story](/notes/story/) - The structure of narrative.
+  - [Character (Story Element)](/notes/character-story-element/) - The protagonist's role.
+  - [Desire (Story Element)](/notes/desire-story-element/) - The goal driving the plot.
+  - [Conflict (Story Element)](/notes/conflict-story-element/) - The obstacles creating emotion.
+- [Influencer Marketing](/notes/influencer_marketing/) - Modern media dynamics.
+  - [Nano Influencers vs Macro Influencers](/notes/nano-vs-macro-influencers/) - Scale comparison.
+  - [Influencer Marketing Funnel](/notes/influencer-marketing-funnel/) - Customer journey.
 
 ### 📚 Library / Sources
 *Inputs: Courses, Books, and Articles being processed.*
-- [Screenwriting Storytelling Blueprint]({{< ref "sources/course-storytelling-blueprint.md" >}}) (Course)
-- [HBR: When It Comes to Influencers, Smaller Can Be Better]({{< ref "sources/hbr-influencers-smaller-better.md" >}}) (Article)
-- [Paper: A Note On Distributed Computing]({{< ref "sources/a-note-on-distributed-computing.md" >}}) (Paper)
+- [Screenwriting Storytelling Blueprint](/notes/sources/course-storytelling-blueprint/) (Course)
+- [HBR: When It Comes to Influencers, Smaller Can Be Better](/notes/sources/hbr-influencers-smaller-better/) (Article)
+- [Paper: A Note On Distributed Computing](/notes/sources/a-note-on-distributed-computing/) (Paper)
 
 ### 📖 Guides
-- [Digital Garden Workflow]({{< ref "digital-garden-workflow.md" >}}) - How to maintain this garden.
+- [Digital Garden Workflow](/notes/digital-garden-workflow/) - How to maintain this garden.
 
 ---
 *Use the tags or search to find specific topics.*

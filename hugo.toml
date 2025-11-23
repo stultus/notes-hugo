@@ -4,7 +4,7 @@ title = "stultus notes"
 theme = "hugo-digital-garden-theme"
 themesdir = "./themes"
 copyright = "Hrishikesh Bhaskaran ♥"
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = false
 
 [params]

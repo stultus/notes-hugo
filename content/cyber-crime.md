@@ -15,12 +15,12 @@ status: "growing"
 It is increasingly felt that action must be taken to prevent cyber-bullying and trolling in order to make platforms safer for marginalized communities.
 
 ## Key Concepts
-- [Online Violence](Online Violence)
-- [Doxxing](Doxxing)
-- [Cyber Bullying](Cyber Bullying)
+- [Online Violence](online-violence)
+- [Doxxing](doxxing)
+- [Cyber Bullying](cyber-bullying)
 
 ## Legal Framework
-- [Cyber Crime Laws in India](Cyber Crime Laws in India)
-- [Constitution of India - Article 21](Constitution of India - Article 21) (Right to Life and Privacy)
+- [Cyber Crime Laws in India](cyber-crime-laws-in-india)
+- [Constitution of India - Article 21](constitution-of-india---article-21) (Right to Life and Privacy)
 
 > **Please note:** This document has not been updated since the Bharatiya Nyaya Samhita was implemented. Therefore, the IPC sections referenced here may be outdated.

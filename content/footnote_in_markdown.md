@@ -19,5 +19,5 @@ This is a sentence with a footnote.[^1]
 [^1]: This is the footnote content.
 ```
 
-This is particularly useful in [Digital Garden](Digital Garden) notes for citing sources.
+This is particularly useful in [Digital Garden](digital-garden) notes for citing sources.
 

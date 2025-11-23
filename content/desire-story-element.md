@@ -12,5 +12,5 @@ status: seeding
 This visible goal allows the audience to understand the stakes of the journey and anticipate the outcome (or fear it). Without clear desire, the story wanders.
 
 ---
-*Source: [Screenwriting Storytelling Blueprint](Screenwriting Storytelling Blueprint)*
+*Source: [Screenwriting Storytelling Blueprint](screenwriting-storytelling-blueprint)*
 

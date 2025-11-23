@@ -15,9 +15,9 @@ At its core, a story is more than just a sequence of events; it is a vehicle for
 
 ### Core Elements
 A story relies on three fundamental elements to function:
-1. [Character (Story Element)](Character (Story Element))
-2. [Desire (Story Element)](Desire (Story Element))
-3. [Conflict (Story Element)](Conflict (Story Element))
+1. [Character (Story Element)](character-story-element)
+2. [Desire (Story Element)](desire-story-element)
+3. [Conflict (Story Element)](conflict-story-element)
 
 ---
-*Source: [Screenwriting Storytelling Blueprint](Screenwriting Storytelling Blueprint)*
+*Source: [Screenwriting Storytelling Blueprint](screenwriting-storytelling-blueprint)*

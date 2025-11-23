@@ -20,8 +20,8 @@ summary: "Notes from the course 'Screenwriting & Storytelling Blueprint: Hero's 
 > Core concepts and definitions of Story, focusing on structure, emotion, and transformation.
 
 ## Atomic Notes
-- [Story](Story) - The definition and core purpose.
-- [Character (Story Element)](Character (Story Element)) - The protagonist's role.
-- [Desire (Story Element)](Desire (Story Element)) - The goal driving the plot.
-- [Conflict (Story Element)](Conflict (Story Element)) - The obstacles creating emotion.
+- [Story](story) - The definition and core purpose.
+- [Character (Story Element)](character-story-element) - The protagonist's role.
+- [Desire (Story Element)](desire-story-element) - The goal driving the plot.
+- [Conflict (Story Element)](conflict-story-element) - The obstacles creating emotion.
 

@@ -10,7 +10,7 @@ summary: "Forms of harassment and abuse faced on the internet."
 **Online Violence** (or online abuse) can take many forms, including:
 
 * **Threats of violence**: Direct and indirect threats of physical or sexual violence.
-* **Violations of privacy**: Sharing private images without consent, or [Doxxing](Doxxing).
+* **Violations of privacy**: Sharing private images without consent, or [Doxxing](doxxing).
 * **Discrimination**: Targeted content based on identity (sexist, racist, etc.).
 * **Online harassment**: Sustained, coordinated attacks aimed at humiliation.
 

@@ -15,5 +15,5 @@ The **Influencer Marketing Funnel** consists of four distinct tiers for measurem
 4. **Revenue**: Sales generated directly by the post.
 
 ---
-*Source: [HBR: When It Comes to Influencers, Smaller Can Be Better](HBR: When It Comes to Influencers, Smaller Can Be Better)*
+*Source: [HBR: When It Comes to Influencers, Smaller Can Be Better](hbr-when-it-comes-to-influencers-smaller-can-be-better)*
 

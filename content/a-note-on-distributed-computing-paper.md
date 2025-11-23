@@ -1,25 +1,21 @@
 ---
 title: A Note on Distributed Computing
-date : 2024-11-05T02:58:24+05:30
-lastmod : 2024-11-17T02:58:24+05:30
-draft : false
-garden_tags : ["academic-paper", "distributed-computing", "computer-science"]
-summary : "Notes from the paper by Jim Waldo, Geoff Wyant, Ann Wollrath and Sam Kendall about Distributed computing"
-status : "seeding"
+summary: "The thesis that local and distributed objects are fundamentally different."
+date: 2024-11-05T02:58:24+05:30
+lastmod: 2024-11-17T02:58:24+05:30
+draft: false
+tags: ["computer-science", "distributed-systems", "software-architecture"]
+status: "growing"
 ---
 
-#### The actual paper
+**A Note on Distributed Computing** is a seminal paper arguing against the "unified view" of objects in distributed systems.
 
-- [A Note On Distributed Computing](https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf)
+The unified view assumes that objects (local or remote) form a single ontological class defined only by their interfaces. The paper asserts this is mistaken: there are fundamental differences between local and distributed interactions that cannot be abstracted away.
 
-#### What is in it?
+> "Work in distributed object-oriented systems that is based on a model that ignores or denies these differences is doomed to failure."
 
-Much of the current work in distributed, object-oriented systems is based on the assumption that objects form a single ontological class. This class consists of all entities that can be fully described by the specification of the set of interfaces supported by the object and the semantics of the operations in those interfaces. The class includes objects that share a single address space, objects that are in separate address spaces on the same machine, and objects that are in separate address spaces on different machines (with, perhaps, different architectures). On the view that all objects are essentially the same kind of entity, these differences in relative location are merely an aspect of the implementation of the object. Indeed, the location of an object may change over time, as an object migrates from one machine to another or the implementation of the object changes.
+## Concepts
+- [[Local vs Distributed Objects]]
 
-It is the thesis of this note that this unified view of objects is mistaken. There are fundamental differences between the interactions of distributed objects and the interactions of non-distributed objects. Further, work in distributed object-oriented systems that is based on a model that ignores or denies these differences is doomed to failure, and could easily lead to an industry-wide rejection of the notion of distributed object-based systems.
-
-Quoting  [Michael Feathers](https://michaelfeathers.silvrback.com/bio),
-
-> Abstraction is great but it can only go so far. In this paper, the authors lay to rest what was once a pervasive myth – that we could design a distributed system and make distribution transparent. Ever wonder why you had to implement specific interfaces to do remoting in Java? This is why.
->
-> In the aftermath it might seem hard to believe that people thought this was possible. I think we can we partially thank this paper for that.
+---
+*Source: [[Paper: A Note On Distributed Computing]]*

@@ -19,12 +19,14 @@ Here are the main entry points to explore:
 ### 💻 Engineering & Tech
 - [[Engineering Strategy]] - How to think about technical leadership.
 - [[Application Layout Engine]] & [[Document Layout Engine]] - Deep dives into UI/UX systems.
-- [[Distributed Computing]] - Notes on papers and systems.
+- [[A Note on Distributed Computing]] - Seminal paper analysis.
+- [[Wardley Maps]] - Strategic visualization.
 
 ### ⚖️ Law & Society
 - [[Cyber Crime]] - Understanding digital offenses.
 - [[Cyber Bullying]] - Legal and social perspectives.
 - [[Plaintiff]] - Legal definitions.
+- [[Online Violence]] - Forms of digital abuse.
 
 ### 🎨 Creativity & Story
 - [[Story]] - The structure of narrative.
@@ -33,6 +35,8 @@ Here are the main entry points to explore:
 ### 📚 Library / Sources
 *Inputs: Courses, Books, and Articles being processed.*
 - [[Screenwriting Storytelling Blueprint]] (Course)
+- [[HBR: When It Comes to Influencers, Smaller Can Be Better]] (Article)
+- [[Paper: A Note On Distributed Computing]] (Paper)
 
 ---
 *Use the tags or search to find specific topics.*

@@ -23,4 +23,4 @@ This is an example sentence.[^label]
 This is mentioned earlier.[^1] This refers to the same footnote.[^1]
 ```
 ---
-- This is useful while creating [Digital gardens]({{<ref "garden/digital_garden.md">}})
+- This is useful while creating [Digital gardens]({{<ref "digital_garden.md">}})

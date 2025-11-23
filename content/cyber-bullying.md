@@ -4,7 +4,7 @@ summary: "The use of electronic communication to bully a person, typically by se
 date: 2023-10-13T06:04:23.464Z
 preview: ""
 draft: false
-garden_tags: ["law", "cybercrime"]
+tags: ["law", "cybercrime"]
 categories: []
 status: "seeding"
 ---
@@ -20,9 +20,9 @@ Cyberbullying can have serious and long-lasting effects on the victim, including
 
 ## How Indian law defines it?
 
-In India, cyberbullying is generally covered under the provisions of the Information Technology Act, 2000 (IT Act). The IT Act is a comprehensive legislation that deals with various aspects of the use of information technology in India, including [cybercrime]({{<ref "garden/cyber-crime.md">}}).
+In India, cyberbullying is generally covered under the provisions of the Information Technology Act, 2000 (IT Act). The IT Act is a comprehensive legislation that deals with various aspects of the use of information technology in India, including [cybercrime]({{<ref "cyber-crime.md">}}).
 
-Under the IT Act, cyberbullying is considered a form of [cybercrime]({{<ref "garden/cyber-crime.md">}}) and is punishable by law.In addition to the IT Act, several states in India have enacted their own legislation to address cyberbullying and other forms of [cybercrime](({{<ref "garden/cyber-crime.md">}})). For example, the Tamil Nadu Prohibition of Harassment of Women Act, 1998 specifically criminalizes cyberbullying and other forms of online harassment of women.
+Under the IT Act, cyberbullying is considered a form of [cybercrime]({{<ref "cyber-crime.md">}}) and is punishable by law.In addition to the IT Act, several states in India have enacted their own legislation to address cyberbullying and other forms of [cybercrime](({{<ref "cyber-crime.md">}})). For example, the Tamil Nadu Prohibition of Harassment of Women Act, 1998 specifically criminalizes cyberbullying and other forms of online harassment of women.
 
 ## Cyber Bullying laws in other countries
 

@@ -4,7 +4,7 @@ summary: "How to write good engineering strategies"
 date: 2024-11-19T07:54:28.396Z
 preview: ""
 draft: false
-garden_tags: ["engineering", "strategy", "leadership"]
+tags: ["engineering", "strategy", "leadership"]
 categories: []
 status: "seeding"
 ---

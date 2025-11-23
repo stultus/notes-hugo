@@ -3,7 +3,7 @@ title: Story
 date: 2025-11-23
 lastmod: 2025-11-23
 draft: false
-garden_tags: ["storytelling", "screenwriting", "creative-writing", "concepts"]
+tags: ["storytelling", "screenwriting", "creative-writing", "concepts"]
 summary: "Core concepts and definitions of Story, focusing on structure, emotion, and transformation."
 status: seeding
 ---

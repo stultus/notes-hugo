@@ -24,4 +24,4 @@ Application layout engines manage the arrangement of user interface (UI) compone
   * [User Interface Markup Language](https://en.wikipedia.org/wiki/User\_interface\_markup\_language) | [List](https://en.wikipedia.org/wiki/List\_of\_user\_interface\_markup\_languages) | [Comparison](https://en.wikipedia.org/wiki/Comparison\_of\_user\_interface\_markup\_languages)
 
   ### Also see 
-  - [Document Layout engine]({{<ref "garden/document_layout_engine.md">}})
+  - [Document Layout engine]({{<ref "document_layout_engine.md">}})

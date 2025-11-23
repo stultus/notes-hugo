@@ -4,7 +4,7 @@ summary: "A Person who knows a lot about different subjects"
 date: 2024-11-17T04:59:46.148Z
 preview: ""
 draft: false
-garden_tags: ["creativity", "learning"]
+tags: ["creativity", "learning"]
 status: "seeding"
 ---
 - A polymath is a person who knows a lot about many different subjects.[^1]

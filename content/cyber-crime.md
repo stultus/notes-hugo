@@ -7,7 +7,7 @@ date: 2023-10-13T05:43:20.416Z
 lastmod : 2024-11-13
 preview: ""
 draft: false
-garden_tags: ["law", "cybercrime"]
+tags: ["law", "cybercrime"]
 categories: []
 status: "growing"
 ---

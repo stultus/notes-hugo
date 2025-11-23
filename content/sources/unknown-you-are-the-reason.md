@@ -17,7 +17,7 @@ summary: "Quote about how love brings light to sadness, understanding to confusi
 
 ## Quote
 
-"You are the reason why even at the saddest part of my life, I smile. Even at confusion, I understand. Even in betrayal, I trust. Even in fear of pain, I love...."
+"You are the reason why even in the saddest part of my life, I smile. Even in confusion, I understand. Even in betrayal, I trust. Even in fear of pain, I love...."
 
 ― Unknown
 

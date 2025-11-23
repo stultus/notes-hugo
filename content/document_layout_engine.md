@@ -16,6 +16,10 @@ They are crucial for rendering documents across various mediums, including:
 - **Presentation Layout**: Slideshows and visual aids.
 - **E-book Layout**: Electronic books (adaptable to device size).
 
+## Related Concepts
+- [Application Layout Engine](application_layout_engine) - For interactive UI layouts
+- [Layout Engine](layout-engine) - General rendering concept
+
 ## Resources
 - [PostScript Language Tutorial and Cookbook](https://www.goodreads.com/book/show/1611082.PostScript_Language_Tutorial_and_Cookbook)
 - [The TeXBook](https://www.goodreads.com/book/show/1190262.Computers_Typesetting_Volume_A)

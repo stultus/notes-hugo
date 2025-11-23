@@ -33,6 +33,11 @@ The youth paused briefly to consider my words, bent to pick up a starfish and th
 
 I left the boy and went home, deep in thought of what the boy had said. I returned to the beach and spent the rest of the day helping the boy throw starfish in to the sea.
 
+## Related Concepts
+
+- [Hope Is a Good Thing](shawshank-hope-quote) - Hope and making a difference
+- [Passion Not Spent](caleb-madrigal-passion-not-spent) - Taking action, not staying passive
+
 ---
 *Based on "The Star Thrower" by Loren Eiseley*
 

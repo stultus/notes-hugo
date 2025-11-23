@@ -22,6 +22,11 @@ summary: "Quote about birds too bright to be caged and missing friends who fly a
 
 ― Stephen King, *Rita Hayworth and Shawshank Redemption*
 
+## Related Concepts
+
+- [Hope Is a Good Thing](shawshank-hope-quote) - Another quote from Shawshank
+- [Flexibility Over Rigidity](../flexibility-over-rigidity) - Freedom and adaptability
+
 ---
 *Quote from "Rita Hayworth and Shawshank Redemption" by Stephen King*
 

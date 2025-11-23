@@ -25,6 +25,11 @@ summary: "The Eleventh Doctor's farewell about being stories in the end."
 
 ― Steven Moffat, *Doctor Who*
 
+## Related Concepts
+
+- [Do Not Stand at My Grave and Weep](mary-frye-do-not-stand-at-my-grave) - Living on in memory and stories
+- [Passion Not Spent](caleb-madrigal-passion-not-spent) - Making your story a good one
+
 ---
 *Quote from Doctor Who, written by Steven Moffat*
 

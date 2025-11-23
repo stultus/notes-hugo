@@ -21,6 +21,11 @@ summary: "Quote about accepting someone's flaws along with their strengths."
 
 ― Marilyn Monroe
 
+## Related Concepts
+
+- [Imperfection Is Beauty](marilyn-monroe-imperfection-beauty) - Another Marilyn Monroe quote on authenticity
+- [Passion Not Spent](caleb-madrigal-passion-not-spent) - Being truly yourself
+
 ---
 *Quote by Marilyn Monroe*
 

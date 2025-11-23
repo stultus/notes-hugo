@@ -57,6 +57,12 @@ And to pass in the night
 
 With an unfelt "goodbye".
 
+## Related Concepts
+
+- [Tell The People You Love That You Love Them](rachel-lewis-tell-people-you-love-them) - Living authentically and expressing love
+- [Listen to Your Instincts](judith-mcnaught-instincts) - Following your heart despite logic
+- [Imperfection Is Beauty](marilyn-monroe-imperfection-beauty) - Being ridiculous rather than boring
+
 ---
 *Poem by Caleb Madrigal, written March 7, 2014*
 

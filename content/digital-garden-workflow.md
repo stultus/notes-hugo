@@ -27,14 +27,14 @@ Refactor the Source Note into **Atomic Notes**.
 1. Identify a single, distinct concept in your source notes.
 2. Create a new note in the root `content/` directory: `hugo new my-concept.md`.
 3. Write the concept in your own words.
-4. Link back to the source: `*Source: [[My Book Title]]*`.
-5. Link the source to the concept: Update the Source Note's "Atomic Notes" section with `[[My Concept]]`.
+4. Link back to the source: `*Source: [My Book Title](My Book Title)*`.
+5. Link the source to the concept: Update the Source Note's "Atomic Notes" section with `[My Concept](My Concept)`.
 
 ## 3. Link (The Web)
 Connect the new Atomic Note to other existing notes.
 
 - Ask: "How does this relate to what I already know?"
-- Add `[[Wikilinks]]` within the text.
+- Add `[Wikilinks](Wikilinks)` within the text.
 - Add the note to the Map of Content (`content/_index.md`) if it's a major entry point.
 
 ## 4. Status

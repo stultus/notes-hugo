@@ -12,7 +12,7 @@ A **Digital Garden** (or Zettelkasten / Second Brain) is a personal tool for thi
 
 Unlike a blog (chronological), a garden is:
 - **Interlinked**: Notes are connected by context, not just date.
-- **Living**: Notes are constantly edited and refined ([[Digital Garden Workflow]]).
+- **Living**: Notes are constantly edited and refined ([Digital Garden Workflow](Digital Garden Workflow)).
 - **Exploratory**: Designed for wandering and discovery.
 
 ## Resources

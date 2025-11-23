@@ -20,7 +20,7 @@ summary: "Research on the ROI of nano vs macro influencers."
 Research suggests that on a cost basis, nano influencers consistently outperform macro influencers in terms of engagement and revenue generation.
 
 ## Atomic Notes
-- [[Influencer Marketing]]
-- [[Nano Influencers vs Macro Influencers]]
-- [[Influencer Marketing Funnel]]
+- [Influencer Marketing](Influencer Marketing)
+- [Nano Influencers vs Macro Influencers](Nano Influencers vs Macro Influencers)
+- [Influencer Marketing Funnel](Influencer Marketing Funnel)
 

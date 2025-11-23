@@ -18,5 +18,5 @@ Key differences typically include:
 Attempts to make distribution transparent (hiding these differences) often lead to fragile and inefficient systems.
 
 ---
-*Source: [[Paper: A Note On Distributed Computing]]*
+*Source: [Paper: A Note On Distributed Computing](Paper: A Note On Distributed Computing)*
 

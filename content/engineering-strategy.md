@@ -21,12 +21,12 @@ Good **Engineering Strategy** should:
 3. Organization
 
 ## Tools
-- [[Wardley Maps]]
+- [Wardley Maps](Wardley Maps)
 
 ## Concepts
-- [[Proof of Concept (POC)]]
-- [[Prototype]]
-- [[Minimum Viable Product (MVP)]]
+- [Proof of Concept (POC)](Proof of Concept (POC))
+- [Prototype](Prototype)
+- [Minimum Viable Product (MVP)](Minimum Viable Product (MVP))
 
 ## References
 - [Will Larson’s Guidelines](https://lethain.com/eng-strategies/)

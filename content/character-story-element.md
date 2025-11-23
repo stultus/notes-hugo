@@ -16,5 +16,5 @@ Empathy is achieved by making the character:
 - Or by placing them in jeopardy
 
 ---
-*Source: [[Screenwriting Storytelling Blueprint]]*
+*Source: [Screenwriting Storytelling Blueprint](Screenwriting Storytelling Blueprint)*
 

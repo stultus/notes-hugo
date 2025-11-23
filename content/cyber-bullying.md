@@ -14,8 +14,8 @@ status: "growing"
 It can have serious and long-lasting effects on the victim, including feelings of isolation, depression, and anxiety. It can also lead to problems with self-esteem, concentration, and academic performance. In severe cases, cyberbullying can even result in physical harm or even suicide.
 
 ## Legal Frameworks
-- [[Cyber Bullying Laws in India]]
-- [[Cyber Bullying Laws International]]
+- [Cyber Bullying Laws in India](Cyber Bullying Laws in India)
+- [Cyber Bullying Laws International](Cyber Bullying Laws International)
 
 ## Related Concepts
-- [[Cyber Crime]]
+- [Cyber Crime](Cyber Crime)

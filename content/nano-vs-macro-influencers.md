@@ -21,5 +21,5 @@ Research indicates a divergence in ROI between influencer types:
 On a cost basis, nano influencers consistently outperform macro influencers in engagement and revenue generation.
 
 ---
-*Source: [[HBR: When It Comes to Influencers, Smaller Can Be Better]]*
+*Source: [HBR: When It Comes to Influencers, Smaller Can Be Better](HBR: When It Comes to Influencers, Smaller Can Be Better)*
 

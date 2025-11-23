@@ -5,6 +5,7 @@ draft: false
 type: "source"
 author: "Ravi Menon"
 source_type: "social-media"
+source_date: "2023-01-23"
 language: "malayalam"
 tags: ["source", "malayalam-cinema", "film-history", "investigation", "kerala", "malayalam"]
 status: "evergreen"
@@ -16,6 +17,7 @@ summary: "Investigation debunking the myth that Bhargavee Nilayam was shot at Ni
 - **Author**: Ravi Menon
 - **Platform**: Facebook
 - **Type**: Investigative post
+- **Original Post Date**: January 23, 2023 (edited)
 - **Date Accessed**: 2025-01-19
 
 ## Key Investigation Findings

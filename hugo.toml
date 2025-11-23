@@ -57,3 +57,12 @@ canonifyURLs = false
   [markup.highlight]
     noClasses = false
     style = 'monokai' # You can choose any built-in style or leave it blank
+
+[outputFormats.JSON]
+  mediaType = "application/json"
+  baseName = "index"
+  isPlainText = true
+  notAlternative = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

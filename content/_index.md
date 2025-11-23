@@ -3,9 +3,15 @@ title: Notes
 summary: "A digital garden of interconnected ideas"
 ---
 
-# Digital Garden
+# Digital Garden 🌱
+
+> "I wasn't going to eat it, I was just going to taste it." — Winnie the Pooh
 
 Welcome. This is my digital garden—a collection of notes, ideas, and explorations that grow over time.
+
+My name is **Hrishikesh Bhaskaran** and I am a Software Engineer, currently working as the VP of Engineering at [Entri](https://entri.app).
+
+This is a [digital garden](digital_garden) where I share things I know about this world. Unlike blog posts ordered by dates, this is an interlinked web of living documents that evolve as I learn.
 
 ## Browse by Topic
 

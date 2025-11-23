@@ -137,6 +137,13 @@ Someone with strong skills but weak intrinsic qualities will:
 - Spiritual awakening
 - Therapy and deep personal work
 
+### Specific Techniques and Frameworks
+Some argue that intrinsic qualities can be adjusted with the right approaches:
+
+**"The Attributes" by Rich Divine**: Recommended in the LinkedIn discussion by Andrey F., this book apparently provides techniques for adjusting attributes traditionally considered intrinsic. Claims that we can teach our brains to be more curious and adjust levels of drive, care, and other qualities.
+
+*To explore: Whether structured techniques can meaningfully shift intrinsic qualities in reasonable timeframes.*
+
 ### Long Time Horizons
 - Not months or years
 - Decades of sustained effort

@@ -100,7 +100,11 @@ Some intrinsic qualities are binary rather than gradual:
 Some argue that even "intrinsic" qualities can be developed with:
 - Right techniques and frameworks
 - Sustained effort over time
-- Specific interventions (e.g., Rich Divine's "The Attributes")
+- Specific interventions
+
+**Note**: Andrey F. in the LinkedIn comments recommends **"The Attributes" by Rich Divine**, which apparently provides techniques for adjusting what are typically considered "intrinsic" qualities (including curiosity, drive, and care). The book suggests we can teach our brains to be more curious and adjust other attributes with the right approach.
+
+*To explore: Read "The Attributes" by Rich Divine to understand techniques for developing intrinsic qualities.*
 
 ### Context Matters
 The same quality might be more or less developable depending on:

@@ -67,9 +67,14 @@ While framed for Product Managers, this framework applies broadly to:
 ## Discussion Points
 
 From the comments:
-- **Andrey F.** notes that some "intrinsic" attributes can be adjusted with the right techniques (references Rich Divine's book "The Attributes")
+- **Andrey F.** notes that some "intrinsic" attributes can be adjusted with the right techniques and recommends **"The Attributes" by Rich Divine**. The book apparently shows how to adjust attributes like curiosity, drive, and care, suggesting these aren't as fixed as commonly believed.
 - **Kiran Somanchi** suggests a broader CAR framework: Capacity, Achievements, Relationships
 - **Raheem Ashrafi** questions how to demonstrate soft skills in early interview stages
+
+### Book Recommendation
+**"The Attributes" by Rich Divine** - Recommended for understanding techniques to develop what are traditionally considered "intrinsic" qualities. Claims we can teach our brains to be more curious and adjust other fundamental attributes.
+
+*To read: Explore whether this book provides practical techniques for developing intrinsic qualities.*
 
 ## Atomic Notes
 

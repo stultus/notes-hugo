@@ -11,9 +11,16 @@ Welcome. This is my digital garden—a collection of notes, ideas, and explorati
 
 **Engineering & Systems**
 - [Engineering Strategy](/notes/engineering-strategy/)
+- [Platform Engineering](/notes/platform-engineering/)
+- [Internal Platform](/notes/internal-platform/)
+- [Value Stream Mapping](/notes/value-stream-mapping/)
 - [Application Layout Engine](/notes/application_layout_engine/)
 - [Document Layout Engine](/notes/document_layout_engine/)
 - [A Note on Distributed Computing](/notes/a-note-on-distributed-computing-paper/)
+
+**AI & Technology**
+- [AI Adoption](/notes/ai-adoption/)
+- [DORA](/notes/dora/)
 
 **Law & Digital Rights**
 - [Cyber Crime](/notes/cyber-crime/)

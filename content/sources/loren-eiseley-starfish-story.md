@@ -35,8 +35,8 @@ I left the boy and went home, deep in thought of what the boy had said. I return
 
 ## Related Concepts
 
-- [Hope Is a Good Thing](shawshank-hope-quote) - Hope and making a difference
-- [Passion Not Spent](caleb-madrigal-passion-not-spent) - Taking action, not staying passive
+- [Hope Is a Good Thing](../sources/shawshank-hope-quote) - Hope and making a difference
+- [Passion Not Spent](../sources/caleb-madrigal-passion-not-spent) - Taking action, not staying passive
 
 ---
 *Based on "The Star Thrower" by Loren Eiseley*

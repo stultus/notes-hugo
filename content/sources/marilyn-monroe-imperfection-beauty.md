@@ -23,8 +23,8 @@ summary: "Quote about embracing imperfection, madness, and being ridiculous over
 
 ## Related Concepts
 
-- [Handle Me at My Worst](marilyn-monroe-worst-best) - Another Marilyn Monroe quote on authenticity
-- [Passion Not Spent](caleb-madrigal-passion-not-spent) - Being ridiculous rather than boring
+- [Handle Me at My Worst](../sources/marilyn-monroe-worst-best) - Another Marilyn Monroe quote on authenticity
+- [Passion Not Spent](../sources/caleb-madrigal-passion-not-spent) - Being ridiculous rather than boring
 
 ---
 *Quote by Marilyn Monroe*

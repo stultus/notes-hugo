@@ -25,8 +25,8 @@ summary: "Quote about following your instincts when they defy logic."
 ## Related Concepts
 
 - [Right No vs Wrong Yes](../right-no-vs-wrong-yes) - Decision-making and following intuition
-- [Passion Not Spent](caleb-madrigal-passion-not-spent) - Living from the heart
-- [Tell The People You Love That You Love Them](rachel-lewis-tell-people-you-love-them) - Being straightforward
+- [Passion Not Spent](../sources/caleb-madrigal-passion-not-spent) - Living from the heart
+- [Tell The People You Love That You Love Them](../sources/rachel-lewis-tell-people-you-love-them) - Being straightforward
 
 ---
 *Quote from "Remember When" by Judith McNaught*

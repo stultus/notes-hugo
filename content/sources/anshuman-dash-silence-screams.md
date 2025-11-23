@@ -25,8 +25,8 @@ summary: "Quote about unspoken words and the gap between what we feel and what w
 
 ## Related Concepts
 
-- [Tell The People You Love That You Love Them](rachel-lewis-tell-people-you-love-them) - The importance of speaking up
-- [Passion Not Spent](caleb-madrigal-passion-not-spent) - Not dying with words unspoken
+- [Tell The People You Love That You Love Them](../sources/rachel-lewis-tell-people-you-love-them) - The importance of speaking up
+- [Passion Not Spent](../sources/caleb-madrigal-passion-not-spent) - Not dying with words unspoken
 
 ---
 *From "Confessions of a Social Zombie" by Anshuman Dash*

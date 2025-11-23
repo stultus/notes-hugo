@@ -25,8 +25,8 @@ summary: "Quote about hope being the best of things that never dies."
 
 ## Related Concepts
 
-- [Some Birds Aren't Meant to Be Caged](stephen-king-birds-not-caged) - Another quote from Shawshank about freedom
-- [The Star Thrower](loren-eiseley-starfish-story) - Making a difference despite odds
+- [Some Birds Aren't Meant to Be Caged](../sources/stephen-king-birds-not-caged) - Another quote from Shawshank about freedom
+- [The Star Thrower](../sources/loren-eiseley-starfish-story) - Making a difference despite odds
 - [Flexibility Over Rigidity](../flexibility-over-rigidity) - Resilience and hope
 
 ---

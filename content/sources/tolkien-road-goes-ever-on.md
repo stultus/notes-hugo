@@ -106,7 +106,7 @@ The poem describes an endless journey through diverse landscapes and challenges,
 ## Related Concepts
 
 - [Flexibility Over Rigidity](../flexibility-over-rigidity) - Adapting through the journey
-- [Passion Not Spent](caleb-madrigal-passion-not-spent) - The journey from eager to weary feet
+- [Passion Not Spent](../sources/caleb-madrigal-passion-not-spent) - The journey from eager to weary feet
 
 ---
 *Poem by J.R.R. Tolkien from Middle-earth legendarium*

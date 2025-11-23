@@ -2,10 +2,13 @@
 title: "Petition Against Ayyankali - 1914"
 date: 2025-01-19
 draft: false
-tags: ["source", "history", "kerala", "social-justice", "ayyankali", "malayalam"]
-status: "evergreen"
+type: "source"
+author: "Nair landlords (compiled by Kunnukuzhi S. Mani)"
 source_type: "historical-document"
 language: "malayalam"
+tags: ["source", "history", "kerala", "social-justice", "ayyankali", "malayalam"]
+status: "evergreen"
+summary: "Historical petition from 1914 showing resistance faced by social reformer Ayyankali."
 ---
 
 ## Source Information
@@ -33,10 +36,20 @@ language: "malayalam"
 
 This is a historical document showing the resistance faced by Ayyankali, a social reformer and leader of the Pulaya community in Kerala, as he organized his community for social justice and rights.
 
+## Atomic Notes
+
+This document could inform notes on:
+- Ayyankali and social reform movements
+- Caste system in Kerala
+- Historical resistance to social justice movements
+
 ## Related Concepts
 
 - Social justice movements
 - Kerala history
 - Caste system
 - Social reform
+
+---
+*Source: Historical document from December 12, 1914 (compiled by Kunnukuzhi S. Mani)*
 

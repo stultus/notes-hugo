@@ -2,10 +2,12 @@
 title: "Bazel BUILD Style Guide"
 date: 2025-01-19
 draft: false
-tags: ["source", "bazel", "build-systems", "configuration", "style-guide"]
-status: "evergreen"
+type: "source"
 source_url: "https://bazel.build/build/style-guide"
 source_type: "documentation"
+tags: ["source", "bazel", "build-systems", "configuration", "style-guide"]
+status: "evergreen"
+summary: "Official Bazel style guide recommending DAMP over DRY for BUILD files."
 ---
 
 ## Source Information
@@ -26,7 +28,7 @@ The DRY principle encourages uniqueness by introducing abstractions such as vari
 
 In contrast, the DAMP principle encourages readability over uniqueness to make files easier to understand and maintain.
 
-## Atomic Notes Derived
+## Atomic Notes
 
 - [DRY Principle](dry-principle) - Don't Repeat Yourself
 - [DAMP Principle](damp-principle) - Descriptive and Meaningful Phrases
@@ -37,4 +39,7 @@ In contrast, the DAMP principle encourages readability over uniqueness to make f
 - Configuration management
 - Code maintainability
 - [Engineering Strategy](engineering-strategy)
+
+---
+*Source: [Bazel BUILD Style Guide](https://bazel.build/build/style-guide)*
 

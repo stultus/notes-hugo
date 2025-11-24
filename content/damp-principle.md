@@ -39,7 +39,7 @@ DAMP accepts some repetition in exchange for:
 ## Related Concepts
 
 - [DRY Principle](dry-principle) - Alternative approach for application code
-- [Source: Bazel BUILD Style Guide](sources/bazel-build-style-guide)
+- [Source: Bazel BUILD Style Guide](../sources/bazel-build-style-guide)
 - Code readability
 - Configuration management
 

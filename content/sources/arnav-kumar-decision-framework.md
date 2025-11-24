@@ -59,22 +59,23 @@ According to Kumar, this framework delivers:
 ## Context
 
 This is one of many frameworks for decision documentation. Other notable approaches include:
-- [Amazon's 6-Pager](amazon-6-pager) - Narrative-driven decision documents
-- [RACI Matrix](raci-matrix) - Responsibility assignment frameworks
-- [Architecture Decision Records](architecture-decision-records) - Technical decision documentation
-- [Request for Comments](request-for-comments) - Collaborative decision-making process
+- [Amazon's 6-Pager](../../amazon-6-pager/) - Narrative-driven decision documents
+- [RACI Matrix](../../raci-matrix/) - Responsibility assignment frameworks
+- [Architecture Decision Records](../../architecture-decision-records/) - Technical decision documentation
+- [Request for Comments](../../request-for-comments/) - Collaborative decision-making process
 
 ## Atomic Notes
 
-This framework could inform notes on:
+- [Pre-Mortem Analysis](../../pre-mortem-analysis/)
+
+This framework could also inform notes on:
 - Decision-making processes
 - Leadership communication
 - Documentation best practices
-- Pre-mortem analysis
 
 ## Related Concepts
-- [Engineering Strategy](engineering-strategy)
-- [Value Stream Mapping](value-stream-mapping)
+- [Engineering Strategy](../../engineering-strategy/)
+- [Value Stream Mapping](../../value-stream-mapping/)
 
 ---
 *Source: [LinkedIn Post by Arnav Kumar](https://www.linkedin.com/posts/arnavk_not-an-ai-post-because-some-things-never-activity-7312735474001879040-xv9z/)*

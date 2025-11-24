@@ -65,10 +65,9 @@ Flexibility doesn't mean lacking principles:
 
 ## Related Concepts
 
-- Growth mindset
-- Resilience
-- Agile methodologies
+- [Resilience](resilience)
+- [Adaptability](adaptability)
+- [Growth Mindset vs Fixed Mindset](growth-mindset-vs-fixed-mindset)
 - [Platform Engineering](platform-engineering) - Adaptive systems
-- Antifragility
-- [Source: 9-1-1 TV Series](sources/911-tv-series)
+- [Source: 9-1-1 TV Series](../sources/911-tv-series/)
 

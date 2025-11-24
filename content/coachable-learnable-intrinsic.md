@@ -114,10 +114,8 @@ The same quality might be more or less developable depending on:
 
 ## Related Concepts
 
+- [Growth Mindset vs Fixed Mindset](growth-mindset-vs-fixed-mindset)
 - [Right No vs Wrong Yes](right-no-vs-wrong-yes) - Judgment and boundaries
 - [Flexibility Over Rigidity](flexibility-over-rigidity) - Adaptability
-- Growth mindset vs fixed mindset
-- [Source: Shreyas Doshi Hiring Framework](sources/shreyas-doshi-hiring-framework)
-- Talent development
-- Leadership development
+- [Source: Shreyas Doshi Hiring Framework](../sources/shreyas-doshi-hiring-framework/)
 

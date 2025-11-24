@@ -30,16 +30,16 @@ summary: "Wisdom and insights from the 9-1-1 TV series on decision-making and re
 
 ## Atomic Notes
 
-- [Right No vs Wrong Yes](right-no-vs-wrong-yes) - Decision-making wisdom
-- [Flexibility Over Rigidity](flexibility-over-rigidity) - Resilience through adaptability
+- [Right No vs Wrong Yes](../../right-no-vs-wrong-yes/) - Decision-making wisdom
+- [Flexibility Over Rigidity](../../flexibility-over-rigidity/) - Resilience through adaptability
+- [Resilience](../../resilience/)
+- [Adaptability](../../adaptability/)
+- [Boundary Setting](../../boundary-setting/)
 
 ## Related Concepts
 
-- [Decision Document Framework](arnav-kumar-decision-framework)
+- [Decision Document Framework](../arnav-kumar-decision-framework/)
 - Decision-making
-- Resilience
-- Adaptability
-- Boundary setting
 
 ---
 *Source: 9-1-1 TV Series (Netflix)*

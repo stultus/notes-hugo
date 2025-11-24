@@ -80,8 +80,9 @@ The post suggests the TV channel may have confused two ghost films:
 
 ## Atomic Notes
 
-This investigation could inform notes on:
-- Importance of primary sources in historical research
+- [Primary Sources in Historical Research](../../primary-sources-historical-research/)
+
+This investigation could also inform notes on:
 - How myths and misinformation spread
 - Fact-checking methodologies
 - Preserving accurate film history

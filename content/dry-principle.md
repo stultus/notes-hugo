@@ -33,7 +33,7 @@ Not all repetition is bad. Consider [DAMP](damp-principle) for:
 ## Related Concepts
 
 - [DAMP Principle](damp-principle) - Alternative approach for configuration
-- [Source: Bazel BUILD Style Guide](sources/bazel-build-style-guide)
+- [Source: Bazel BUILD Style Guide](../sources/bazel-build-style-guide)
 - Code maintainability
 - Software design principles
 

@@ -23,6 +23,10 @@ summary: "Sherlock Holmes's principle of deductive reasoning - eliminate the imp
 
 ― Arthur Conan Doyle, *The Sign of Four*
 
+## Atomic Notes
+
+- [Deductive Reasoning - Eliminate the Impossible](../../deductive-reasoning-eliminate-impossible/)
+
 ---
 *Quote from "The Sign of Four" by Arthur Conan Doyle*
 

@@ -30,15 +30,15 @@ In contrast, the DAMP principle encourages readability over uniqueness to make f
 
 ## Atomic Notes
 
-- [DRY Principle](dry-principle) - Don't Repeat Yourself
-- [DAMP Principle](damp-principle) - Descriptive and Meaningful Phrases
+- [DRY Principle](../../dry-principle/) - Don't Repeat Yourself
+- [DAMP Principle](../../damp-principle/) - Descriptive and Meaningful Phrases
 
 ## Related Concepts
 
 - Build systems
 - Configuration management
 - Code maintainability
-- [Engineering Strategy](engineering-strategy)
+- [Engineering Strategy](../../engineering-strategy/)
 
 ---
 *Source: [Bazel BUILD Style Guide](https://bazel.build/build/style-guide)*

@@ -41,12 +41,11 @@ The 2025 research introduces a new model identifying key technical and cultural 
 - **Partners**: GitHub, GitLab, SkillBench, Workhelix
 
 ## Atomic Notes
-- [AI Adoption](ai-adoption)
-- [Platform Engineering](platform-engineering)
-- [Value Stream Mapping](value-stream-mapping)
-- [Internal Platform](internal-platform)
-- [Developer Experience](developer-experience)
-- [DORA](dora)
+- [AI Adoption](../../ai-adoption/)
+- [Platform Engineering](../../platform-engineering/)
+- [Value Stream Mapping](../../value-stream-mapping/)
+- [Internal Platform](../../internal-platform/)
+- [DORA](../../dora/)
 
 ---
 *Source: [DORA Research 2025](https://dora.dev/research/2025/dora-report/)*

@@ -179,9 +179,7 @@ Some argue that intrinsic qualities can be adjusted with the right approaches:
 ## Related Concepts
 
 - [Coachable vs Learnable vs Intrinsic Skills](coachable-learnable-intrinsic)
+- [Growth Mindset vs Fixed Mindset](growth-mindset-vs-fixed-mindset) - Belief in ability to develop
 - [Right No vs Wrong Yes](right-no-vs-wrong-yes) - Integrity in decisions
-- [Source: Shreyas Doshi Hiring Framework](sources/shreyas-doshi-hiring-framework)
-- Character vs competence
-- Culture fit vs culture add
-- Values-based hiring
+- [Source: Shreyas Doshi Hiring Framework](../sources/shreyas-doshi-hiring-framework/)
 

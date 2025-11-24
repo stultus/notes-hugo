@@ -20,6 +20,6 @@ summary: "A critique of the 'unified view' of local and distributed objects."
 The paper argues that treating local and distributed objects as a single class (making distribution transparent) is fundamentally mistaken and doomed to failure.
 
 ## Atomic Notes
-- [A Note on Distributed Computing](a-note-on-distributed-computing) (Core Argument)
-- [Local vs Distributed Objects](local-vs-distributed-objects)
+- [A Note on Distributed Computing](../../a-note-on-distributed-computing-paper/) (Core Argument)
+- [Local vs Distributed Objects](../../local-vs-distributed-objects/)
 

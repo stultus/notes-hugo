@@ -77,7 +77,7 @@ Transforms Tolkien's ominous verse about the One Ring's power into a celebration
 - Linux philosophy
 - Hacker ethic
 - Software freedom
-- [Engineering Strategy](../engineering-strategy)
+- [Engineering Strategy](../../engineering-strategy/)
 
 ---
 *Parody by J. Scott Thayer, with apologies to J.R.R. Tolkien*

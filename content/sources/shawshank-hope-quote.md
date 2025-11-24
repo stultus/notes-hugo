@@ -23,11 +23,15 @@ summary: "Quote about hope being the best of things that never dies."
 
 ― Stephen King, *Rita Hayworth and Shawshank Redemption*
 
+## Atomic Notes
+
+- [Hope Is a Good Thing](../../hope-is-a-good-thing/)
+
 ## Related Concepts
 
-- [Some Birds Aren't Meant to Be Caged](../sources/stephen-king-birds-not-caged) - Another quote from Shawshank about freedom
-- [The Star Thrower](../sources/loren-eiseley-starfish-story) - Making a difference despite odds
-- [Flexibility Over Rigidity](../flexibility-over-rigidity) - Resilience and hope
+- [Some Birds Aren't Meant to Be Caged](../stephen-king-birds-not-caged/) - Another quote from Shawshank about freedom
+- [The Star Thrower](../loren-eiseley-starfish-story/) - Making a difference despite odds
+- [Flexibility Over Rigidity](../../flexibility-over-rigidity/) - Resilience and hope
 
 ---
 *Quote from "Rita Hayworth and Shawshank Redemption" by Stephen King*

@@ -78,16 +78,16 @@ From the comments:
 
 ## Atomic Notes
 
-- [Coachable vs Learnable vs Intrinsic Skills](coachable-learnable-intrinsic)
-- [Intrinsic Qualities in Hiring](intrinsic-qualities-hiring)
+- [Coachable vs Learnable vs Intrinsic Skills](../../coachable-learnable-intrinsic/)
+- [Intrinsic Qualities in Hiring](../../intrinsic-qualities-hiring/)
+- [Growth Mindset vs Fixed Mindset](../../growth-mindset-vs-fixed-mindset/)
 
 ## Related Concepts
 
-- [Engineering Strategy](engineering-strategy)
+- [Engineering Strategy](../../engineering-strategy/)
 - Talent development
 - Hiring practices
 - Leadership development
-- Growth mindset vs fixed mindset
 
 ---
 *Source: [Shreyas Doshi on LinkedIn](https://www.linkedin.com/posts/shreyasdoshi_when-hiring-product-managers-know-what-tends-activity-6980687676165304320-gsji/)*

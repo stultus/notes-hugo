@@ -7,7 +7,7 @@ status: "seeding"
 summary: "Lightweight documentation format for recording architectural decisions and their context."
 ---
 
-**Architecture Decision Records (ADRs)** are lightweight documents that capture important architectural decisions along with their context and consequences.
+An **Architecture Decision Record (ADR)** is a document that captures an important [Architecture Decision (AD)](architecture-decision) made along with its context and consequences.
 
 ## Structure
 
@@ -28,11 +28,16 @@ ADRs help:
 - Avoid revisiting settled decisions
 
 ## Related Concepts
+- [Architecture Decision (AD)](architecture-decision) — the decisions that ADRs document
+- [Architecturally-significant Requirement (ASR)](architecturally-significant-requirement)
 - [Engineering Strategy](engineering-strategy)
 - [A Note on Distributed Computing](a-note-on-distributed-computing-paper)
 - Software architecture
 - Technical documentation
 
+## References
+
+- [Architecture Decision Record (GitHub)](https://github.com/joelparkerhenderson/architecture-decision-record) — comprehensive guide and examples
+
 ---
-*Note: Detailed content to be added*
 

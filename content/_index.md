@@ -17,6 +17,9 @@ This is a [digital garden](digital_garden) where I share things I know about thi
 
 **Engineering & Systems**
 - [Engineering Strategy](/notes/engineering-strategy/)
+- [Architecture Decision (AD)](/notes/architecture-decision/)
+- [Architecturally-significant Requirement (ASR)](/notes/architecturally-significant-requirement/)
+- [Architecture Decision Records (ADRs)](/notes/architecture-decision-records/)
 - [Platform Engineering](/notes/platform-engineering/)
 - [Internal Platform](/notes/internal-platform/)
 - [Value Stream Mapping](/notes/value-stream-mapping/)

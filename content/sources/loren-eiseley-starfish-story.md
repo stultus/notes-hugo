@@ -36,10 +36,10 @@ I left the boy and went home, deep in thought of what the boy had said. I return
 ## Atomic Notes
 
 - [Making a Difference (The Star Thrower)](../../making-a-difference-star-thrower/)
+- [Hope Is a Good Thing](../../hope-is-a-good-thing/)
 
 ## Related Concepts
 
-- [Hope Is a Good Thing](../../hope-is-a-good-thing/) - Hope and making a difference
 - [Passion Not Spent](../caleb-madrigal-passion-not-spent/) - Taking action, not staying passive
 
 ---

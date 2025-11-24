@@ -70,22 +70,16 @@ The post suggests the TV channel may have confused two ghost films:
 - Cross-checking with local knowledge
 - Identifying potential sources of confusion
 
-## Related Concepts
-
-- Historical accuracy in media
-- Primary vs secondary sources
-- Fact-checking methodology
-- Malayalam cinema history
-- Oral history preservation
-
 ## Atomic Notes
 
 - [Primary Sources in Historical Research](../../primary-sources-historical-research/)
 
-This investigation could also inform notes on:
-- How myths and misinformation spread
-- Fact-checking methodologies
-- Preserving accurate film history
+## Related Concepts
+
+- Historical accuracy in media
+- Fact-checking methodology
+- Malayalam cinema history
+- Oral history preservation
 
 ---
 *Source: Facebook post by Ravi Menon*

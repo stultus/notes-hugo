@@ -27,6 +27,12 @@ summary: "Sherlock Holmes's principle of deductive reasoning - eliminate the imp
 
 - [Deductive Reasoning - Eliminate the Impossible](../../deductive-reasoning-eliminate-impossible/)
 
+## Related Concepts
+
+- Problem-solving frameworks
+- Critical thinking
+- Logical reasoning
+
 ---
 *Quote from "The Sign of Four" by Arthur Conan Doyle*
 

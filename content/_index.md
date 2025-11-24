@@ -36,6 +36,27 @@ This is a [digital garden](digital_garden) where I share things I know about thi
 **Storytelling & Media**
 - [Story](/notes/story/)
 - [Influencer Marketing](/notes/influencer_marketing/)
+- [Phantom Media](/notes/phantom-media/)
+- [Phantom Urbanism](/notes/phantom-urbanism/)
+
+**Decision & Leadership**
+- [Right No vs Wrong Yes](/notes/right-no-vs-wrong-yes/)
+- [Boundary Setting](/notes/boundary-setting/)
+- [Pre-Mortem Analysis](/notes/pre-mortem-analysis/)
+- [Deductive Reasoning - Eliminate the Impossible](/notes/deductive-reasoning-eliminate-impossible/)
+
+**Mindset & Personal Growth**
+- [Hope Is a Good Thing](/notes/hope-is-a-good-thing/)
+- [Making a Difference (The Star Thrower)](/notes/making-a-difference-star-thrower/)
+- [Resilience](/notes/resilience/)
+- [Adaptability](/notes/adaptability/)
+- [Growth Mindset vs Fixed Mindset](/notes/growth-mindset-vs-fixed-mindset/)
+- [Silence and Unspoken Words](/notes/silence-and-unspoken-words/)
+
+**Research & Craft**
+- [Primary Sources in Historical Research](/notes/primary-sources-historical-research/)
+- [Footnotes in Markdown](/notes/footnote_in_markdown/)
+- [Digital Garden Workflow](/notes/digital-garden-workflow/)
 
 **Concepts**
 - [Digital Garden](/notes/digital_garden/)

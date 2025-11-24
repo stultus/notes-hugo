@@ -28,6 +28,7 @@ ADRs help:
 - Avoid revisiting settled decisions
 
 ## Related Concepts
+- [Architecture Decision Log (ADL)](architecture-decision-log) — the collection of ADRs for a project or organization
 - [Architecture Decision (AD)](architecture-decision) — the decisions that ADRs document
 - [Architecturally-significant Requirement (ASR)](architecturally-significant-requirement)
 - [Engineering Strategy](engineering-strategy)

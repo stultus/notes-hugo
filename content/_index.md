@@ -61,16 +61,22 @@ This is a [digital garden](digital_garden) where I share things I know about thi
 - [Adaptability](/notes/adaptability/)
 - [Growth Mindset vs Fixed Mindset](/notes/growth-mindset-vs-fixed-mindset/)
 - [Silence and Unspoken Words](/notes/silence-and-unspoken-words/)
+- [Amateur Mindset](/notes/amateur-mindset/)
+- [Mortality Awareness](/notes/mortality-awareness/)
 
 **Research & Craft**
 - [Design of Experiments (DoE)](/notes/design-of-experiments/)
 - [Primary Sources in Historical Research](/notes/primary-sources-historical-research/)
 - [Footnotes in Markdown](/notes/footnote_in_markdown/)
 - [Digital Garden Workflow](/notes/digital-garden-workflow/)
+- [Process Documentation](/notes/process-documentation/)
+- [Process is Messy](/notes/process-is-messy/)
 
 **Concepts**
 - [Digital Garden](/notes/digital_garden/)
 - [Polymath](/notes/polymath/)
+- [Scenius](/notes/scenius/)
+- [Lone Genius Myth](/notes/lone-genius-myth/)
 
 ---
 

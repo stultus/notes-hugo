@@ -115,17 +115,12 @@ Find a scenius, pay attention to what others are sharing, and then start taking 
 
 ## Quotes
 
-> "Creativity is not a talent, it is a way of operating" — John Cleese
-
-> "Give what you have. To someone, it may be better than you dare to think" — Henry Wadsworth Longfellow
-
-> "That's all any of us are: amateurs. We don't live long enough to be anything else." — Charlie Chaplin
-
-> "In the beginner's mind, there are many possibilities. In the expert's mind, there are few" — Shunryu Suzuki, Zen Monk
-
-> "The stupidest possible creative art is still a creative art" — Clay Shirky
-
-> "Find your voice, shout it from the rooftops, and keep doing it until the people that are looking for you find you." — Dan Harmon
+- [Creativity is a Way of Operating - John Cleese](../john-cleese-creativity-way-of-operating/)
+- "Give what you have. To someone, it may be better than you dare to think" — Henry Wadsworth Longfellow
+- "That's all any of us are: amateurs. We don't live long enough to be anything else." — Charlie Chaplin (captured in [Amateur Mindset](amateur-mindset))
+- "In the beginner's mind, there are many possibilities. In the expert's mind, there are few" — Shunryu Suzuki, Zen Monk (captured in [Amateur Mindset](amateur-mindset))
+- "The stupidest possible creative art is still a creative art" — Clay Shirky
+- [Find Your Voice - Dan Harmon](../dan-harmon-find-your-voice/)
 
 ## Mentioned Books
 
@@ -134,16 +129,20 @@ Find a scenius, pay attention to what others are sharing, and then start taking 
 
 ## Atomic Notes
 
-Potential concepts to extract:
-- Scenius — collaborative creativity vs. lone genius
-- Amateur mindset — beginner's mind and incremental improvement
-- Lone Genius myth — debunking the individual genius narrative
-- Process documentation — becoming a documentarian of your work
-- Creativity as operation — not talent, but a way of operating
-- Mortality awareness — using death awareness to live fully
+- [Scenius](scenius) — collaborative creativity vs. lone genius
+- [Amateur Mindset](amateur-mindset) — beginner's mind and incremental improvement
+- [Lone Genius Myth](lone-genius-myth) — debunking the individual genius narrative
+- [Process Documentation](process-documentation) — becoming a documentarian of your work
+- [Process is Messy](process-is-messy) — you have to make stuff
+- [Mortality Awareness](mortality-awareness) — using death awareness to live fully
 
 ## Related Concepts
 
+- [Scenius](scenius) — collaborative creativity
+- [Amateur Mindset](amateur-mindset) — beginner's perspective
+- [Lone Genius Myth](lone-genius-myth) — debunking isolation myths
+- [Process Documentation](process-documentation) — documenting your work
+- [Mortality Awareness](mortality-awareness) — using death awareness
 - [Digital Garden](digital_garden) — sharing work and ideas online
 - [Polymath](polymath) — connecting diverse interests
 - [Growth Mindset vs Fixed Mindset](growth-mindset-vs-fixed-mindset) — learning and improvement

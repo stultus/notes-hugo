@@ -44,6 +44,18 @@ Unlike traditional **ETL (Extract - Transform - Load)**, where transformation ha
 ### Transform (T)
 - **dbt**: Data transformation tool that runs in your warehouse
 
+### Orchestrator
+- **Apache Airflow**: Workflow orchestration platform
+- **Kestra**: Open-source workflow orchestration platform ([kestra.io](https://kestra.io))
+- **Prefect**: Modern workflow orchestration platform
+
+### Visualize
+- **Metabase**: Open-source business intelligence tool
+- **Superset**: Apache Superset, open-source data visualization platform
+- **Grafana**: Analytics and monitoring platform
+- **Redash**: Open-source SQL query and visualization tool
+- **Looker**: Business intelligence and data analytics platform
+
 ## Related Concepts
 
 - [Operational Data](operational-data) — source data for extraction

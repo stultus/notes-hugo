@@ -56,6 +56,9 @@ Unlike traditional **ETL (Extract - Transform - Load)**, where transformation ha
 - **Redash**: Open-source SQL query and visualization tool
 - **Looker**: Business intelligence and data analytics platform
 
+### Data QA
+- **Great Expectations**: Data quality and validation framework ([greatexpectations.io](https://greatexpectations.io))
+
 ## Related Concepts
 
 - [Operational Data](operational-data) — source data for extraction

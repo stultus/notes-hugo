@@ -31,6 +31,7 @@ This is a [digital garden](digital_garden) where I share things I know about thi
 - [Application Layout Engine](/notes/application_layout_engine/)
 - [Document Layout Engine](/notes/document_layout_engine/)
 - [A Note on Distributed Computing](/notes/a-note-on-distributed-computing-paper/)
+- [Dunder in Python](/notes/dunder-in-python/)
 
 **AI & Technology**
 - [AI Adoption](/notes/ai-adoption/)
@@ -62,6 +63,7 @@ This is a [digital garden](digital_garden) where I share things I know about thi
 - [Silence and Unspoken Words](/notes/silence-and-unspoken-words/)
 
 **Research & Craft**
+- [Design of Experiments (DoE)](/notes/design-of-experiments/)
 - [Primary Sources in Historical Research](/notes/primary-sources-historical-research/)
 - [Footnotes in Markdown](/notes/footnote_in_markdown/)
 - [Digital Garden Workflow](/notes/digital-garden-workflow/)

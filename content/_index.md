@@ -28,6 +28,7 @@ This is a [digital garden](digital_garden) where I share things I know about thi
 - [Platform Engineering](/notes/platform-engineering/)
 - [Internal Platform](/notes/internal-platform/)
 - [Value Stream Mapping](/notes/value-stream-mapping/)
+- [Theory of Constraints](/notes/theory-of-constraints/)
 - [Application Layout Engine](/notes/application_layout_engine/)
 - [Document Layout Engine](/notes/document_layout_engine/)
 - [A Note on Distributed Computing](/notes/a-note-on-distributed-computing-paper/)
@@ -53,6 +54,8 @@ This is a [digital garden](digital_garden) where I share things I know about thi
 - [Boundary Setting](/notes/boundary-setting/)
 - [Pre-Mortem Analysis](/notes/pre-mortem-analysis/)
 - [Deductive Reasoning - Eliminate the Impossible](/notes/deductive-reasoning-eliminate-impossible/)
+- [Inversion](/notes/inversion/)
+- [Avoid Stupidity](/notes/avoid-stupidity/)
 
 **Mindset & Personal Growth**
 - [Hope Is a Good Thing](/notes/hope-is-a-good-thing/)
@@ -61,14 +64,17 @@ This is a [digital garden](digital_garden) where I share things I know about thi
 - [Adaptability](/notes/adaptability/)
 - [Growth Mindset vs Fixed Mindset](/notes/growth-mindset-vs-fixed-mindset/)
 - [Silence and Unspoken Words](/notes/silence-and-unspoken-words/)
+- [Amateur](/notes/amateur/)
 - [Amateur Mindset](/notes/amateur-mindset/)
 - [Mortality Awareness](/notes/mortality-awareness/)
+- [Dunning-Kruger Effect](/notes/dunning-kruger-effect/)
 
 **Research & Craft**
 - [Design of Experiments (DoE)](/notes/design-of-experiments/)
 - [Primary Sources in Historical Research](/notes/primary-sources-historical-research/)
 - [Footnotes in Markdown](/notes/footnote_in_markdown/)
 - [Digital Garden Workflow](/notes/digital-garden-workflow/)
+- [The Compass of Zettelkasten](/notes/compass-of-zettelkasten/)
 - [Process Documentation](/notes/process-documentation/)
 - [Process is Messy](/notes/process-is-messy/)
 

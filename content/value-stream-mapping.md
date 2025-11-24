@@ -39,6 +39,7 @@ A value stream map typically shows:
 - Lead time and cycle time
 
 ## Related Concepts
+- [Theory of Constraints](theory-of-constraints) — focusing on bottlenecks
 - [AI Adoption](ai-adoption)
 - [Platform Engineering](platform-engineering)
 - [Engineering Strategy](engineering-strategy)

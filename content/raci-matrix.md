@@ -11,25 +11,29 @@ A **RACI Matrix** is a responsibility assignment framework that clarifies roles 
 
 ## RACI Acronym
 
-- **R**esponsible: Who does the work
-- **A**ccountable: Who makes the final decision (only one person)
-- **C**onsulted: Who provides input (two-way communication)
-- **I**nformed: Who is kept updated (one-way communication)
+- **R**esponsible: Who does the work (can be multiple people)
+- **A**ccountable: Who makes the final decision and owns the outcome (only one person per task)
+- **C**onsulted: Who provides input before work is done (two-way communication)
+- **I**nformed: Who is kept updated about progress (one-way communication)
+
+## Key Rules
+
+- **One Accountable per task**: Only one person can be Accountable for each task
+- **Clear responsibility**: Every task must have at least one Responsible person
+- **Avoid RACI confusion**: Don't assign multiple roles to the same person for the same task unnecessarily
 
 ## Purpose
 
 RACI matrices help:
 - Clarify decision-making authority
-- Prevent confusion about roles
-- Avoid bottlenecks
-- Ensure accountability
-- Improve communication
+- Prevent confusion about roles and responsibilities
+- Avoid bottlenecks by identifying who needs to be consulted
+- Ensure accountability with clear ownership
+- Improve communication by defining who needs to know what
 
 ## Related Concepts
-- [Engineering Strategy](engineering-strategy)
-- Project management
-- Decision documentation frameworks
 
----
-*Note: Detailed content to be added*
+- [Engineering Strategy](engineering-strategy)
+- [Decision Document Framework by Arnav Kumar](../sources/arnav-kumar-decision-framework/) — responsibility assignment in decision documents
+- [Architecture Decision Records](architecture-decision-records) — documenting who makes decisions
 

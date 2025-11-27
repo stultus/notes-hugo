@@ -78,5 +78,5 @@ The framework provides **a holistic view of UX that makes it easier to balance m
 ## Source
 
 - [Interaction Design Foundation - HEART Framework](https://www.interaction-design.org/literature/topics/heart-framework#what%E2%80%99s_at_the_heart_of_the_h.e.a.r.t.?-1)
-- Original research paper: [Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications](https://ai.google/research/pubs/pub36299)
+- Original research paper: [Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36299.pdf) (Kerry Rodden, Hilary Hutchinson, Xin Fu - Google, 2010)
 

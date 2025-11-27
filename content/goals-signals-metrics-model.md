@@ -74,5 +74,5 @@ The GSM model provides a systematic way to:
 ## Source
 
 - [HEART Framework](heart-framework) — demonstrates GSM model application
-- Original research: [Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications](https://ai.google/research/pubs/pub36299)
+- Original research: [Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36299.pdf) (Google, 2010)
 

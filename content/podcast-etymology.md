@@ -25,15 +25,9 @@ This appeared in an article titled "Audible revolution" published on February 12
 
 ## The Story Behind the Coinage
 
-According to Ben Hammersley's own account, the word was created almost by accident:
+According to Ben Hammersley's own account (from a YouTube video), the word was created almost by accident. Here is his exact transcript:
 
-- He had written an article about emerging downloadable audio content that was automatically downloaded via RSS feeds
-- About 15 minutes before the presses were due to roll, his editor called saying the article was "about a sentence short for the shape of the page"
-- With no time to restructure the page, Hammersley quickly added a sentence: "But what do we call this phenomenon?"
-- He then "made up some silly words" including "podcasting" alongside "audioblogging" and "GuerillaMedia"
-- The article went to print, and Hammersley "didn't think any more of it"
-- About six months later, he received an email from the Oxford American Dictionary asking about the word, as it appeared to be the first citation
-- Nearly 20 years later, "podcast" became part of the common discourse
+> I'm Ben Hamsley and I do many things, but mostly I'm the person who invented the word podcast. I'm very sorry. I can tell you the story. This was in 2004, and I was a writer for the for the Guardian newspaper in the UK. And at the time the newspaper was paper ccentric which meant that all of the deadlines were for the print presses to run. And I'd written this article about this sort of emerging idea of downloadable uh audio content that was automatically downloaded because of an RSS feed. I submitted the article on time. But then I got a phone call from my editor about 15 minutes before the presses were due to roll saying, "Hey, um, that piece is about a sentence short for the shape of the page. We don't have time to, you know, move the page around. Can you just write us another sentence?" And so I just made up a sentence which says something like, "But what do we call this phenomenon?" And then I made up some silly words. It went out. It went into the article. didn't think any more of it. And then about six months later or so, I got an email from the Oxford American Dictionary saying, "Hey, where did you get that word from that was in the article you wrote? It seems to be the first citation of the word podcast." Now, here we are almost 20 years later and it became part of the discourse.
 
 ## Context
 

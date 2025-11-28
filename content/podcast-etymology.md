@@ -23,6 +23,18 @@ The first ever usage of the term appeared in Hammersley's article:
 
 This appeared in an article titled "Audible revolution" published on February 12, 2004, which explored the emerging trend of downloadable radio programming enabled by MP3 players, cheap audio software, and weblogs.
 
+## The Story Behind the Coinage
+
+According to Ben Hammersley's own account, the word was created almost by accident:
+
+- He had written an article about emerging downloadable audio content that was automatically downloaded via RSS feeds
+- About 15 minutes before the presses were due to roll, his editor called saying the article was "about a sentence short for the shape of the page"
+- With no time to restructure the page, Hammersley quickly added a sentence: "But what do we call this phenomenon?"
+- He then "made up some silly words" including "podcasting" alongside "audioblogging" and "GuerillaMedia"
+- The article went to print, and Hammersley "didn't think any more of it"
+- About six months later, he received an email from the Oxford American Dictionary asking about the word, as it appeared to be the first citation
+- Nearly 20 years later, "podcast" became part of the common discourse
+
 ## Context
 
 The article described how:
@@ -37,4 +49,5 @@ The term "podcasting" was one of several options Hammersley considered, alongsid
 
 - [The Guardian - Audible revolution](https://www.theguardian.com/media/2004/feb/12/broadcasting.digitalmedia) (February 12, 2004)
 - [Web Archive - Audible revolution](https://web.archive.org/web/20251128213443/https://www.theguardian.com/media/2004/feb/12/broadcasting.digitalmedia)
+- [YouTube - Ben Hammersley on inventing the word "podcast"](https://www.youtube.com/watch?v=gtGXK03JfKA)
 

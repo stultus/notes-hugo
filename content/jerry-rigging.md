@@ -19,6 +19,10 @@ The term "jerry rigging" is a blend or variant of two separate, older expression
 
 **Jerry-built**: This term, from the 19th century, describes something that is cheaply and flimsily built using poor materials. It implies a lack of quality and care in construction, not necessarily a temporary fix.
 
+## Example: Thallumala Theater Fight Scene
+
+How they shot the theater fight scene in the movie "Thallumala" is a perfect example of jerry rigging. The filmmakers used makeshift solutions and improvised techniques with available materials to achieve the desired cinematic effect. The making video demonstrates the creative workarounds they employed.
+
 ## Related Concepts
 
 - [Jugaad](jugaad) - Hindi term for innovative, resourceful problem-solving with limited resources
@@ -27,4 +31,5 @@ The term "jerry rigging" is a blend or variant of two separate, older expression
 ## Sources
 
 - [Wikipedia - Kludge](https://en.wikipedia.org/wiki/Kludge) - Related term with similar meaning
+- [Thallumala - Theater Fight Scene Making Video](https://www.youtube.com/watch?v=dPx0e9tqzr0) - Example of jerry rigging in filmmaking
 

@@ -16,6 +16,10 @@ Jugaad can refer to:
 
 Examples range from building a unique vehicle to creating low-cost medical devices. It's about finding creative solutions when resources are constrained.
 
+## Example: Thallumala Theater Fight Scene
+
+How they shot the theater fight scene in the movie "Thallumala" is a perfect example of jugaad. The filmmakers used creative, resourceful solutions with limited resources to achieve the desired effect. The making video shows the innovative techniques they employed.
+
 ## Characteristics
 
 - **Flexible**: Adapts to constraints
@@ -33,4 +37,5 @@ Examples range from building a unique vehicle to creating low-cost medical devic
 ## Sources
 
 - [Harvard Business Review - Jugaad: A New Growth Formula](https://hbr.org/2010/01/jugaad-a-new-growth-formula-fo)
+- [Thallumala - Theater Fight Scene Making Video](https://www.youtube.com/watch?v=dPx0e9tqzr0) - Example of jugaad in filmmaking
 

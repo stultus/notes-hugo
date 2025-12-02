@@ -7,7 +7,7 @@ status: "seeding"
 summary: "A Hindi term for a flexible, innovative, and resourceful approach to problem-solving that emphasizes using limited resources to create quick fixes or frugal innovations."
 ---
 
-**Jugaad** is a familiar term to me. It's a Hindi term for a flexible, innovative, and resourceful approach to problem-solving that emphasizes using limited resources to create a quick fix or a frugal innovation.
+**Jugaad** is a Hindi term for a flexible, innovative, and resourceful approach to problem-solving that emphasizes using limited resources to create a quick fix or a frugal innovation.
 
 Jugaad can refer to:
 - A makeshift solution

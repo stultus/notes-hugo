@@ -7,7 +7,7 @@ status: "seeding"
 summary: "A blend of 'jury-rigged' and 'jerry-built' meaning to make a makeshift repair or construct something quickly using only materials at hand."
 ---
 
-I first encountered the term **"jerry rigging"** on Reddit. It's a new word for me, and I was curious about its origins.
+I first encountered the term **"jerry rigging"** on Reddit. It's a new word for me, and I was curious about its origins. I'm familiar with the similar concept of [Jugaad](jugaad), so this term resonated with me.
 
 **Jerry rigging** means to make a makeshift repair or construct something quickly using only the materials at hand, often resulting in a crude or improvised structure. It is widely used in everyday speech.
 

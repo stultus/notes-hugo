@@ -31,7 +31,9 @@ Modern historians now treat the legend as a window into medieval European hopes,
 
 ## Related Concepts
 
-- [Primary Sources in Historical Research](primary-sources-historical-research) - Understanding how historical myths and legends are constructed
+- [Primary Sources in Historical Research](primary-sources-historical-research) - The forged letter shows why verifying sources matters; understanding how historical myths and legends are constructed
+- [Deductive Reasoning - Eliminate the Impossible](deductive-reasoning-eliminate-impossible) - As geographic knowledge improved, Europeans eliminated the impossible (no such universal priest-king existed)
+- [Lone Genius Myth](lone-genius-myth) - Another example of how myths shape understanding and behavior, though in a different domain
 
 ## Sources
 

@@ -33,6 +33,7 @@ Systematically rule out what cannot be true; what remains must be the answer, ev
 ## Related Concepts
 
 - [Primary Sources in Historical Research](primary-sources-historical-research) - Using evidence to eliminate possibilities
+- [Legend of Prester John](prester-john) - Historical example: as geographic knowledge improved, Europeans eliminated the impossible (no such universal priest-king existed)
 - [Source: Eliminate the Impossible](../sources/conan-doyle-eliminate-impossible/)
 
 ---

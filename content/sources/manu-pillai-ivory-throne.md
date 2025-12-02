@@ -20,8 +20,10 @@ summary: "A historical account of the Travancore royal family and the life of Se
 - Colonial interactions and political dynamics
 - Social and cultural history of Kerala
 - The legend of Prester John (mentioned in the context of European exploration and encounters with India)
+- Chinese settlement in Calicut and the Chinna Kribala community
 
 ## Related Notes
 
 - [Legend of Prester John](../prester-john/) - Medieval European myth about a Christian priest-king in the East
+- [Chinese Settlement in Calicut](../chinese-settlement-calicut/) - Ming dynasty Chinese settlement and the mixed Malayali-Chinese community
 

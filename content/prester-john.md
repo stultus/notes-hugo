@@ -32,6 +32,7 @@ Modern historians now treat the legend as a window into medieval European hopes,
 ## Related Concepts
 
 - [Lone Genius Myth](lone-genius-myth) - Another example of how myths shape understanding and behavior
+- [Chinese Settlement in Calicut](chinese-settlement-calicut) - Another historical connection between medieval Asia and Kerala, also from The Ivory Throne
 
 ## Sources
 

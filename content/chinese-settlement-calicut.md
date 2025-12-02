@@ -15,9 +15,11 @@ Even after the arrival of the Chinese ceased, this lineage of mixed Malayali and
 
 ## Archaeological Evidence
 
-There is considerable evidence of Ming Chinese settlement in **Panthalayini Kollom** (not Calicut itself). According to Dr. Raghava Varier, this medieval port was the main ship repair centre, and all Chinese ships had to dock here. During test digging in Elayedath paramba and Illath paramba in Panthalayani Kollom, Chinese ceramic sherds were found at a depth of 1 metre.
+According to a comment from Calicut Heritage Forum on the Historic Alleys blog post:
 
-Karashima identifies the Chinese "Gulifo" with Panthalayini Kollom (and not Calicut, as some had erroneously assumed). The findings were published by Taisho University Press in 2004.
+> There is considerable evidence of Ming Chinese settlement in Panthalayini Kollom. According to Dr. Raghava Varier (who was a member of the Karashima team) this medieval port was the main ship repair centre and all Chinese ships had to dock here. He explains that during test digging in Elayedath paramba and Illath paramba in Panthalayani Kollom, he obtained Chinese ceramic sherds at a depth of 1 metre. Taisho University Press has published the findings of Karashima in 2004. Incidentally, Karashima identifies the Chinese Gulifo with Panthalayini Kollom (and not Calicut, as some of us had erroneously assumed).
+
+The findings were published by Taisho University Press in 2004.
 
 ## Related Concepts
 
@@ -28,4 +30,5 @@ Karashima identifies the Chinese "Gulifo" with Panthalayini Kollom (and not Cali
 - [The Ivory Throne by Manu S Pillai](../sources/manu-pillai-ivory-throne/)
 - [Deccan Chronicle - Travancore Surprises](https://www.deccanchronicle.com/books-and-art/210116/travancore-surprises.html)
 - [Historic Alleys - Was there ever a Chinese settlement at Calicut?](https://historicalleys.blogspot.com/2012/11/was-there-ever-chinese-settlement-at.html)
+- [Calicut Heritage Forum comment on Historic Alleys blog post](https://historicalleys.blogspot.com/2012/11/was-there-ever-chinese-settlement-at.html?showComment=1352904326508#c3649504965034318604) - Archaeological evidence about Panthalayini Kollom
 

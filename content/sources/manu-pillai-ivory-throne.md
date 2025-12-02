@@ -7,8 +7,6 @@ status: "seeding"
 summary: "A historical account of the Travancore royal family and the life of Sethu Lakshmi Bayi, the last Maharani Regent of Travancore."
 ---
 
-# The Ivory Throne by Manu S Pillai
-
 ## About the Book
 
 **The Ivory Throne: Chronicles of the House of Travancore** is a historical work by Manu S Pillai that chronicles the history of the Travancore royal family, with particular focus on Sethu Lakshmi Bayi, the last Maharani Regent of Travancore.

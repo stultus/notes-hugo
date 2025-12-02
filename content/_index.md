@@ -140,6 +140,8 @@ This is a [digital garden](digital_garden) where I share things I know about thi
 - [Ingress](/notes/ingress/)
 - [Plaintiff](/notes/plaintiff/)
 - [Stultus](/notes/stultus/)
+- [Legend of Prester John](/notes/prester-john/)
+- [Podcast Etymology](/notes/podcast-etymology/)
 
 ---
 

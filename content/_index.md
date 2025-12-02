@@ -101,6 +101,9 @@ This is a [digital garden](digital_garden) where I share things I know about thi
 - [Process Documentation](/notes/process-documentation/)
 - [Process is Messy](/notes/process-is-messy/)
 - [Footnotes in Markdown](/notes/footnote_in_markdown/)
+- [Jugaad](/notes/jugaad/)
+- [Kludge](/notes/kludge/)
+- [Jerry Rigging](/notes/jerry-rigging/)
 
 **Storytelling & Media**
 - [Story](/notes/story/)

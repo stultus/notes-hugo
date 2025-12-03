@@ -45,6 +45,7 @@ The theory highlights that **environmental signals matter**. Whether in urban ne
 - [Theory of Constraints](theory-of-constraints) — focusing on bottlenecks
 - [Platform Engineering](platform-engineering) — maintaining quality in internal platforms
 - [You Build It You Own It](you-build-it-you-own-it) — ownership includes maintaining quality
+- [Kludge](kludge) — temporary solutions that are hard to maintain can become tech debt
 
 ## Sources
 

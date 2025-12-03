@@ -9,5 +9,11 @@ summary: "A version of a product with just enough features to be usable by early
 
 A **Minimum Viable Product (MVP)** is a version of a product with just enough features to be usable by early customers who can then provide feedback for future product development.
 
-Related to [Proof of Concept (POC)](proof-of-concept) and [Prototype](prototype). Often discussed in [Engineering Strategy](engineering-strategy).
+## Related Concepts
+
+- [Proof of Concept (POC)](proof-of-concept) - Testing feasibility
+- [Prototype](prototype) - Early version for testing
+- [Engineering Strategy](engineering-strategy) - Strategic approach to development
+- [Jugaad](jugaad) - Creating solutions with limited resources
+- [Jerry Rigging](jerry-rigging) - Quick solutions using available materials
 

@@ -35,7 +35,7 @@ The _Jargon File_ (a.k.a. _The New Hacker's Dictionary_) differentiates _kludge_
 
 - [Jerry Rigging](jerry-rigging) - Makeshift repair or construction using available materials
 - [Jugaad](jugaad) - Hindi term for innovative, resourceful problem-solving with limited resources
-- [Jury Rigging](jury-rigging) - Original nautical term for temporary improvisation
+- [Broken Windows Theory](broken-windows-theory) - Temporary solutions that are hard to maintain can become tech debt
 
 ## Sources
 

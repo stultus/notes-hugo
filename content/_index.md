@@ -13,6 +13,8 @@ My name is **Hrishikesh Bhaskaran** and I am a Software Engineer, currently work
 
 This is a [digital garden](digital_garden) where I share things I know about this world. Unlike blog posts ordered by dates, this is an interlinked web of living documents that evolve as I learn.
 
+- [Friends](/notes/friends/) — Digital gardens and blogs of friends
+
 ## Browse by Topic
 
 **Engineering & Architecture**

@@ -13,7 +13,7 @@ status: "seeding"
 > Application layout engines deal with organizing graphical user interfaces which must accommodate variable window and display sizes.
 
 ## Related Concepts
-- [Document Layout Engine](document-layout-engine)
+- [Document Layout Engine](document_layout_engine)
 - [Layout Engine](layout-engine)
 - [Widget Toolkit](widget-toolkit)
 - [User Interface Markup Language](user-interface-markup-language)

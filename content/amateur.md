@@ -20,7 +20,7 @@ In French, the word means "Lover."
 
 ## Opposite
 
-The opposite is [Professional](professional).
+The opposite is Professional (note not yet created).
 
 ## For Professionals
 
@@ -29,7 +29,7 @@ Even for Professionals, the best way to flourish is to retain an amateur's spiri
 ## Related Concepts
 
 - [Amateur Mindset](amateur-mindset) — embracing the beginner's perspective
-- [Professional](professional) — the opposite approach
+- Professional — the opposite approach (note not yet created)
 - [Scenius](scenius) — contributing to creative communities
 - [Process is Messy](process-is-messy) — making stuff despite imperfection
 

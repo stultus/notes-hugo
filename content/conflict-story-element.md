@@ -15,5 +15,5 @@ Conflict is paramount because it:
 3. Generates emotional investment (will they succeed?).
 
 ---
-*Source: [Screenwriting Storytelling Blueprint](screenwriting-storytelling-blueprint)*
+*Source: [Screenwriting Storytelling Blueprint](../sources/course-storytelling-blueprint/)*
 

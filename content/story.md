@@ -20,4 +20,4 @@ A story relies on three fundamental elements to function:
 3. [Conflict (Story Element)](conflict-story-element)
 
 ---
-*Source: [Screenwriting Storytelling Blueprint](screenwriting-storytelling-blueprint)*
+*Source: [Screenwriting Storytelling Blueprint](../sources/course-storytelling-blueprint/)*

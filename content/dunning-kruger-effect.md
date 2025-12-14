@@ -24,11 +24,11 @@ Since its first publication, various criticisms of the effect and its explanatio
 
 ## Opposite
 
-The opposite is [Imposter Syndrome](imposter-syndrome) — where competent people doubt their abilities and feel like frauds.
+The opposite is Imposter Syndrome — where competent people doubt their abilities and feel like frauds (note not yet created).
 
 ## Related Concepts
 
-- [Imposter Syndrome](imposter-syndrome) — the opposite effect
+- Imposter Syndrome — the opposite effect (note not yet created)
 - [Amateur Mindset](amateur-mindset) — embracing learning despite imperfection
 - [Growth Mindset vs Fixed Mindset](growth-mindset-vs-fixed-mindset) — self-awareness and learning
 

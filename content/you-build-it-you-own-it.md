@@ -58,7 +58,7 @@ For "You Build It, You Own It" to work, teams need the [Ownership Trio](ownershi
 - [Ownership Trio](ownership-trio) — Knowledge, Mandate, and Responsibility
 - [Broken Ownership Archetypes](broken-ownership-archetypes) — what happens when ownership is incomplete
 - [Platform Engineering](platform-engineering) — building internal platforms with ownership
-- [SRE vs DevOps](sre-vs-devops) — different approaches to operations
+- SRE vs DevOps — different approaches to operations (note not yet created)
 
 ## Source
 

@@ -20,7 +20,7 @@ It is increasingly felt that action must be taken to prevent cyber-bullying and 
 - [Cyber Bullying](cyber-bullying)
 
 ## Legal Framework
-- [Cyber Crime Laws in India](cyber-crime-laws-in-india)
-- [Constitution of India - Article 21](constitution-of-india---article-21) (Right to Life and Privacy)
+- Cyber Crime Laws in India (note not yet created)
+- [Constitution of India - Article 21](constitution-article-21) (Right to Life and Privacy)
 
 > **Please note:** This document has not been updated since the Bharatiya Nyaya Samhita was implemented. Therefore, the IPC sections referenced here may be outdated.

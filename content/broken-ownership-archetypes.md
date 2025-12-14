@@ -86,7 +86,7 @@ The solution is to establish the [Ownership Trio](ownership-trio):
 ## Related Concepts
 
 - [Ownership Trio](ownership-trio) — the three components needed for true ownership
-- [You Build It You Own It](you-build-it-you-own-it) — philosophy of full ownership
+- [You Build It, You Own It](you-build-it-you-own-it) — philosophy of full ownership
 - [RACI Matrix](raci-matrix) — responsibility assignment framework
 - [Platform Engineering](platform-engineering) — building with ownership
 

@@ -11,6 +11,7 @@ I first encountered this poem through a YouTube short where Morgan Freeman recit
 
 **By William Ernest Henley**
 
+```
 Out of the night that covers me,
       Black as the pit from pole to pole,
 I thank whatever gods may be
@@ -30,6 +31,7 @@ It matters not how strait the gate,
       How charged with punishments the scroll,
 I am the master of my fate,
       I am the captain of my soul.
+```
 
 ## Related Concepts
 

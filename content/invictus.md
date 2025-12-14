@@ -7,6 +7,8 @@ status: "evergreen"
 summary: "A poem about unconquerable spirit and mastery of one's fate."
 ---
 
+I first encountered this poem through a YouTube short where Morgan Freeman recites it.
+
 **By William Ernest Henley**
 
 Out of the night that covers me,
@@ -36,6 +38,8 @@ I am the master of my fate,
 
 ---
 *Source: [Invictus - Poetry Foundation](https://www.poetryfoundation.org/poems/51642/invictus)*
+
+*First encountered: [Morgan Freeman recites Invictus - YouTube Shorts](https://youtube.com/shorts/Gt8U0PL1QWQ?si=k0XAzDO3Kpbf5kxX)*
 
 *Copyright: William Ernest Henley, "Invictus" from Poems (London: Macmillan and Co., 1920): 83-84. Public domain.*
 

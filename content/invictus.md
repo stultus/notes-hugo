@@ -35,8 +35,8 @@ I am the master of my fate,
 
 ## Related Concepts
 
-- [[Resilience]] - The capacity to recover and adapt
-- [[Hope Is a Good Thing]] - Sustaining hope through darkness
+- [Resilience](resilience) - The capacity to recover and adapt
+- [Hope Is a Good Thing](hope-is-a-good-thing) - Sustaining hope through darkness
 
 ---
 *Source: [Invictus - Poetry Foundation](https://www.poetryfoundation.org/poems/51642/invictus)*

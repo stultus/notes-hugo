@@ -84,6 +84,7 @@ This is a [digital garden](digital_garden) where I share things I know about thi
 - [Hope Is a Good Thing](/notes/hope-is-a-good-thing/)
 - [Making a Difference (The Star Thrower)](/notes/making-a-difference-star-thrower/)
 - [Resilience](/notes/resilience/)
+- [Invictus](/notes/invictus/)
 - [Adaptability](/notes/adaptability/)
 - [Flexibility Over Rigidity](/notes/flexibility-over-rigidity/)
 - [Growth Mindset vs Fixed Mindset](/notes/growth-mindset-vs-fixed-mindset/)

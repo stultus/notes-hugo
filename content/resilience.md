@@ -28,6 +28,7 @@ summary: "The ability to recover from setbacks and adapt to adversity."
 
 - [Flexibility Over Rigidity](flexibility-over-rigidity) - Resilience through adaptability
 - [Hope Is a Good Thing](hope-is-a-good-thing) - Hope as foundation for resilience
+- [Invictus](invictus) - Unconquerable spirit and mastery of fate
 - [Growth Mindset vs Fixed Mindset](growth-mindset-vs-fixed-mindset) - Belief in ability to grow
 
 ---

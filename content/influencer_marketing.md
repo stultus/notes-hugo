@@ -22,4 +22,4 @@ To be effective, expenditures should be tied directly to sales via:
 - [Influencer Marketing Funnel](influencer-marketing-funnel)
 
 ---
-*Source: [HBR: When It Comes to Influencers, Smaller Can Be Better](hbr-when-it-comes-to-influencers-smaller-can-be-better)*
+*Source: [HBR: When It Comes to Influencers, Smaller Can Be Better](../sources/hbr-influencers-smaller-better)*

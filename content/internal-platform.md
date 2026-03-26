@@ -42,5 +42,5 @@ Typical internal platform components:
 - [AI Adoption](ai-adoption)
 
 ---
-*Source: [State of AI-assisted Software Development 2025 (DORA Report)](dora-2025-ai-report)*
+*Source: [State of AI-assisted Software Development 2025 (DORA Report)](../sources/dora-2025-ai-report)*
 

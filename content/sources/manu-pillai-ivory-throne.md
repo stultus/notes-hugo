@@ -22,6 +22,6 @@ summary: "A historical account of the Travancore royal family and the life of Se
 
 ## Related Notes
 
-- [Legend of Prester John](../prester-john/) - Medieval European myth about a Christian priest-king in the East
-- [Chinese Settlement in Calicut](../chinese-settlement-calicut/) - Ming dynasty Chinese settlement and the mixed Malayali-Chinese community
+- [Legend of Prester John](../../prester-john/) - Medieval European myth about a Christian priest-king in the East
+- [Chinese Settlement in Calicut](../../chinese-settlement-calicut/) - Ming dynasty Chinese settlement and the mixed Malayali-Chinese community
 

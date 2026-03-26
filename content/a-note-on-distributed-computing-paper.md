@@ -18,4 +18,4 @@ The unified view assumes that objects (local or remote) form a single ontologica
 - [Local vs Distributed Objects](local-vs-distributed-objects)
 
 ---
-*Source: [Paper: A Note On Distributed Computing](paper-a-note-on-distributed-computing)*
+*Source: [Paper: A Note On Distributed Computing](../sources/a-note-on-distributed-computing)*

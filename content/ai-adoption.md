@@ -34,5 +34,5 @@ Without verification systems, AI can amplify errors and poor practices as easily
 - [DORA](dora)
 
 ---
-*Source: [State of AI-assisted Software Development 2025 (DORA Report)](dora-2025-ai-report)*
+*Source: [State of AI-assisted Software Development 2025 (DORA Report)](../sources/dora-2025-ai-report)*
 

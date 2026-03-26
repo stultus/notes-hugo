@@ -118,9 +118,9 @@ The author notes two "bugs" to address in follow-ups:
 
 ## Atomic Notes
 
-- [Ownership Trio](../ownership-trio/) — Knowledge, Mandate, and Responsibility
-- [Broken Ownership Archetypes](../broken-ownership-archetypes/) — The six patterns when ownership is incomplete
-- [You Build It You Own It](../you-build-it-you-own-it/) — Philosophy of full ownership vs just running things
+- [Ownership Trio](../../ownership-trio/) — Knowledge, Mandate, and Responsibility
+- [Broken Ownership Archetypes](../../broken-ownership-archetypes/) — The six patterns when ownership is incomplete
+- [You Build It You Own It](../../you-build-it-you-own-it/) — Philosophy of full ownership vs just running things
 
 ## Related Concepts
 

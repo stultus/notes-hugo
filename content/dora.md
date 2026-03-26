@@ -26,5 +26,5 @@ DORA publishes annual reports on the state of DevOps and software delivery. The 
 - [DORA Website](https://dora.dev/)
 
 ---
-*Source: [State of AI-assisted Software Development 2025 (DORA Report)](dora-2025-ai-report)*
+*Source: [State of AI-assisted Software Development 2025 (DORA Report)](../sources/dora-2025-ai-report)*
 

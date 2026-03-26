@@ -19,7 +19,9 @@ Attempts to make distribution transparent (hiding these differences) often lead 
 
 ## Related
 - [A Note on Distributed Computing](a-note-on-distributed-computing-paper)
+- [Federation](federation) — federation must handle all these differences across independent servers
+- [Circuit Breaker Pattern](circuit-breaker-pattern) — addresses partial failure, one of the key differences listed above
 
 ---
-*Source: [Paper: A Note On Distributed Computing](paper-a-note-on-distributed-computing)*
+*Source: [Paper: A Note On Distributed Computing](../sources/a-note-on-distributed-computing)*
 

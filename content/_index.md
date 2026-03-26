@@ -37,6 +37,14 @@ This is a [digital garden](digital_garden) where I share things I know about thi
 - [User Interface Markup Language](/notes/user-interface-markup-language/)
 - [Widget Toolkit](/notes/widget-toolkit/)
 - [Dunder in Python](/notes/dunder-in-python/)
+- [Federation](/notes/federation/)
+- [ActivityPub](/notes/activitypub/)
+- [WebFinger](/notes/webfinger/)
+- [HTTP Signatures in Federation](/notes/http-signatures-in-federation/)
+- [Circuit Breaker Pattern](/notes/circuit-breaker-pattern/)
+- [Federated Search](/notes/federated-search/)
+- [Reciprocal Rank Fusion](/notes/reciprocal-rank-fusion/)
+- [Relay Pattern in Federation](/notes/relay-pattern-in-federation/)
 
 **Data & Analytics**
 - [Operational Data](/notes/operational-data/)

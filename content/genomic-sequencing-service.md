@@ -14,6 +14,9 @@ The **Genomic Sequencing Service** is an NHS service that can sequence your geno
 - **Service**: [NHS Genomic Medicine Service](https://www.england.nhs.uk/genomics/nhs-genomic-med-service/)
 - **Purpose**: Early detection of health conditions through genomic sequencing
 
+## Related Concepts
+- [Pre-Mortem Analysis](/notes/pre-mortem-analysis/) — early detection of problems before they manifest, similar to how genomic sequencing detects conditions early
+
 ---
 *Source: Subin Sebastien's Notes*
 

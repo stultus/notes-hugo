@@ -32,6 +32,8 @@ Silence can be more damaging than words. When we don't speak our truth, express 
 
 ## Related Concepts
 
+- [Boundary Setting](/notes/boundary-setting/) — speaking up is a form of setting boundaries
+- [Resilience](/notes/resilience/) — the courage to express vulnerability
 - [Tell The People You Love That You Love Them](../sources/rachel-lewis-tell-people-you-love-them/)
 - [Passion Not Spent](../sources/caleb-madrigal-passion-not-spent/)
 - [Source: Silence and Unspoken Words](../sources/anshuman-dash-silence-screams/)

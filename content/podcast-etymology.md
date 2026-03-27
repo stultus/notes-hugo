@@ -45,3 +45,7 @@ The term "podcasting" was one of several options Hammersley considered, alongsid
 - [Web Archive - Audible revolution](https://web.archive.org/web/20251128213443/https://www.theguardian.com/media/2004/feb/12/broadcasting.digitalmedia)
 - [YouTube - Ben Hammersley on inventing the word "podcast"](https://www.youtube.com/watch?v=gtGXK03JfKA)
 
+## Related Concepts
+- [Amateur](/notes/amateur/) — Hammersley's accidental coinage embodies the amateur spirit of creating something without formal intent
+- [Scenius](/notes/scenius/) — the word emerged from a creative ecosystem of blogs, MP3 players, and free audio tools
+

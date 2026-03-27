@@ -19,5 +19,9 @@ A story relies on three fundamental elements to function:
 2. [Desire (Story Element)](/notes/desire-story-element/)
 3. [Conflict (Story Element)](/notes/conflict-story-element/)
 
+## Related Concepts
+- [Scenius](/notes/scenius/) — creative communities where stories emerge collectively
+- [Making a Difference (The Star Thrower)](/notes/making-a-difference-star-thrower/) — the power of narrative to inspire action
+
 ---
 *Source: [Screenwriting Storytelling Blueprint](../sources/course-storytelling-blueprint/)*

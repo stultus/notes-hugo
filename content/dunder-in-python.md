@@ -42,10 +42,7 @@ Dunder methods enable:
 - Making objects more Pythonic and intuitive
 
 ## Related Concepts
-
-- Object-oriented programming
-- Python language features
-- Special methods and magic methods
+- [Architecture Decision](/notes/architecture-decision/) — Python's dunder protocol is a deliberate language-level design decision
 
 ---
 *Definition based on Python programming practice.*

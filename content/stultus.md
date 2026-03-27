@@ -28,3 +28,7 @@ I use `stultus` as a handle on various platforms. Variations include `stultusz`,
 
 > "We Need Online Alter Egos Now More Than Ever" - [Wired](https://www.wired.com/2014/04/why-we-need-online-alter-egos-now-more-than-ever/)
 
+## Related
+- [Digital Garden](/notes/digital_garden/) — the format I use to share what I learn
+- [Avoid Stupidity](/notes/avoid-stupidity/) — the irony of choosing "stupid" as a name while striving to avoid stupidity
+

@@ -9,6 +9,9 @@ summary: "Maldives reportedly has the highest divorce rate, despite being a supp
 
 The highest divorce rate is reported to be in Maldives, a supposedly religious country.
 
+## Related Concepts
+- [Inversion](/notes/inversion/) — a counterintuitive fact that challenges assumptions about religious societies and marital stability
+
 ---
 *Source: Subin Sebastien's Notes*
 

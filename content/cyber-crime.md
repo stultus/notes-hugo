@@ -23,4 +23,8 @@ It is increasingly felt that action must be taken to prevent cyber-bullying and 
 - Cyber Crime Laws in India (note not yet created)
 - [Constitution of India - Article 21](/notes/constitution-article-21/) (Right to Life and Privacy)
 
+## Related Concepts
+- [Boundary Setting](/notes/boundary-setting/) — protecting individual boundaries, both online and offline
+- [Cyber Crime Laws in India](/notes/cyber-crime-laws-india/) — specific legal provisions
+
 > **Please note:** This document has not been updated since the Bharatiya Nyaya Samhita was implemented. Therefore, the IPC sections referenced here may be outdated.

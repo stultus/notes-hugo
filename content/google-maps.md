@@ -28,8 +28,7 @@ There are reports that the game [Ingress](/notes/ingress/) was used to collect d
 
 ## Related Concepts
 - [Ingress](/notes/ingress/)
-- Data collection and privacy
-- Crowdsourced mapping
+- [Design of Experiments (DoE)](/notes/design-of-experiments/) — systematic approaches to data collection, as Google does with crowdsourced mapping
 
 ## Resources
 - [Video demonstration of traffic data collection](https://www.youtube.com/shorts/BDIkUaknQw8)

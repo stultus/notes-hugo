@@ -32,8 +32,7 @@ Not all repetition is bad. Consider [DAMP](/notes/damp-principle/) for:
 
 ## Related Concepts
 
-- [DAMP Principle](/notes/damp-principle/) - Alternative approach for configuration
+- [DAMP Principle](/notes/damp-principle/) — alternative approach for configuration
+- [Broken Windows Theory](/notes/broken-windows-theory/) — code duplication as a form of technical decay
 - [Source: Bazel BUILD Style Guide](../sources/bazel-build-style-guide)
-- Code maintainability
-- Software design principles
 

@@ -29,3 +29,7 @@ Protects against privacy violation, obscene material, and identity theft.
 - **SC/ST Prevention of Atrocities Act**: Protections against insults and intimidation based on caste.
 - **POCSO Act**: Protection of children from sexual offences.
 
+## Related Concepts
+- [Cyber Crime](/notes/cyber-crime/) — overview of cyber crime and online violence
+- [Boundary Setting](/notes/boundary-setting/) — establishing and protecting personal boundaries
+

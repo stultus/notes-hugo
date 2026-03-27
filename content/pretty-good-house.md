@@ -9,6 +9,9 @@ summary: "Ideas for building a pretty good house."
 
 **Pretty Good House** provides ideas for building a pretty good house.
 
+## Related Concepts
+- [Flexibility Over Rigidity](/notes/flexibility-over-rigidity/) — "pretty good" over perfect embodies pragmatic, good-enough design
+
 ## Reference
 
 - [Pretty Good House](https://www.prettygoodhouse.org/)

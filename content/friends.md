@@ -28,6 +28,10 @@ A collection of digital gardens, blogs, and websites from friends and people I a
 - [Santhosh Thottingal](https://thottingal.in/)
 - [Shahul Hameed](https://www.shahulhameed.in/)
 
+## Related
+- [Digital Garden](/notes/digital_garden/) — the format many of these friends use to share their knowledge
+- [Scenius](/notes/scenius/) — the communal form of genius that emerges from creative communities
+
 ---
 *Last updated: November 27, 2025*
 

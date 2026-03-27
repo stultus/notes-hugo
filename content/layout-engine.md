@@ -15,6 +15,8 @@ A **Layout Engine** (or rendering engine) is a software component that takes mar
 - [Widget Toolkit](/notes/widget-toolkit/) - GUI component libraries
 - [User Interface Markup Language](/notes/user-interface-markup-language/) - Markup for UIs
 
+- [Architecture Decision](/notes/architecture-decision/) — technical design choices involved in building layout engines
+
 ## Resources
 - [Wikipedia Link](https://en.wikipedia.org/wiki/Layout_engine)
 

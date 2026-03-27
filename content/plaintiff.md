@@ -15,3 +15,6 @@ By doing so, the plaintiff seeks a legal remedy; if this search is successful, t
 
 > In some jurisdictions the term "Claimant" is used instead of "Plaintiff".
 
+## Related Concepts
+- [Miranda Warning](/notes/miranda-warning/) — rights of the accused in the legal process
+

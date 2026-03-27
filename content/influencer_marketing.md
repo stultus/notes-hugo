@@ -21,5 +21,9 @@ To be effective, expenditures should be tied directly to sales via:
 - [Nano Influencers vs Macro Influencers](/notes/nano-vs-macro-influencers/)
 - [Influencer Marketing Funnel](/notes/influencer-marketing-funnel/)
 
+## Related Concepts
+- [Goals-Signals-Metrics (GSM) Model](/notes/goals-signals-metrics-model/) — measuring effectiveness of marketing campaigns
+- [Net Promoter Score (NPS)](/notes/net-promoter-score/) — quantifying customer advocacy
+
 ---
 *Source: [HBR: When It Comes to Influencers, Smaller Can Be Better](../sources/hbr-influencers-smaller-better)*

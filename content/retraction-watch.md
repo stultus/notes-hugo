@@ -13,6 +13,10 @@ summary: "A website that lists papers retracted from scientific publishing due t
 
 The database allows searching based on country or types of papers.
 
+## Related Concepts
+- [Primary Sources in Historical Research](/notes/primary-sources-historical-research/) — the importance of verifying sources, which retraction databases help with
+- [Avoid Stupidity](/notes/avoid-stupidity/) — identifying and avoiding flawed research
+
 ## Reference
 
 - [Retraction Watch](https://retractionwatch.com)

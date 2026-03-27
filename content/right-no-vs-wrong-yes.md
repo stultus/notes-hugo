@@ -49,7 +49,7 @@ Not all agreement is valuable. Saying "yes" to the wrong things can be more harm
 
 ## Related Concepts
 
-- [Boundary Setting](boundary-setting)
+- [Boundary Setting](/notes/boundary-setting/)
 - [Decision Document Framework](../sources/arnav-kumar-decision-framework/)
 - Strategic prioritization
 - Opportunity cost

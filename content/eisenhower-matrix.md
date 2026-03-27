@@ -48,7 +48,7 @@ The goal is to spend more time in **Quadrant 2** (Important but Not Urgent) to p
 
 ## Related Concepts
 
-- [RICE Framework](rice-framework) — prioritization for product features
-- [Theory of Constraints](theory-of-constraints) — focusing on bottlenecks
-- [Right No vs Wrong Yes](right-no-vs-wrong-yes) — saying no to unimportant tasks
+- [RICE Framework](/notes/rice-framework/) — prioritization for product features
+- [Theory of Constraints](/notes/theory-of-constraints/) — focusing on bottlenecks
+- [Right No vs Wrong Yes](/notes/right-no-vs-wrong-yes/) — saying no to unimportant tasks
 

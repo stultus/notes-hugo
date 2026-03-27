@@ -7,7 +7,7 @@ status: "seeding"
 summary: "Media property devoid of news, designed as investment vehicle rather than content."
 ---
 
-**Phantom Media** is a concept analogous to [Phantom Urbanism](phantom-urbanism) - media properties that exist primarily as financial instruments rather than as actual content or news sources.
+**Phantom Media** is a concept analogous to [Phantom Urbanism](/notes/phantom-urbanism/) - media properties that exist primarily as financial instruments rather than as actual content or news sources.
 
 ## Characteristics
 
@@ -24,10 +24,10 @@ summary: "Media property devoid of news, designed as investment vehicle rather t
 
 ## Related Concepts
 
-- [Phantom Urbanism](phantom-urbanism) - Origin concept
+- [Phantom Urbanism](/notes/phantom-urbanism/) - Origin concept
 - Media consolidation
 - Private equity in journalism
-- [Digital Garden](digital_garden) - Contrast with authentic content
+- [Digital Garden](/notes/digital_garden/) - Contrast with authentic content
 
 ## Source
 

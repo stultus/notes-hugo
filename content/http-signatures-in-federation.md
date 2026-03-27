@@ -8,7 +8,7 @@ summary: "HTTP Signatures use public-key cryptography to verify that a federated
 status: "budding"
 ---
 
-In a [federated](federation) network, when Instance B receives a message claiming to be from Instance A, how does it verify the claim? There are no shared passwords, no central authority, no OAuth provider. The answer is **HTTP Signatures** — a mechanism based on public-key cryptography.
+In a [federated](/notes/federation/) network, when Instance B receives a message claiming to be from Instance A, how does it verify the claim? There are no shared passwords, no central authority, no OAuth provider. The answer is **HTTP Signatures** — a mechanism based on public-key cryptography.
 
 ## The Mechanism
 
@@ -50,5 +50,5 @@ When rotating keys: generate new keypair, update the actor document, send an `Up
 - **All federation must use HTTPS** — HTTP Signatures protect integrity, but only HTTPS protects confidentiality
 
 ## Related Concepts
-- [ActivityPub](activitypub) — the protocol that relies on HTTP Signatures for authentication
-- [Federation](federation) — the network model where identity verification without central authority is essential
+- [ActivityPub](/notes/activitypub/) — the protocol that relies on HTTP Signatures for authentication
+- [Federation](/notes/federation/) — the network model where identity verification without central authority is essential

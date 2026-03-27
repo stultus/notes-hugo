@@ -8,13 +8,13 @@ summary: "A relay instance acts as a hub that redistributes activities, reducing
 status: "budding"
 ---
 
-In a [federated](federation) network, if every instance sends updates to every other instance, the delivery cost is N × (N-1). For 100 instances, that is 9,900 deliveries per update cycle. For 1,000 instances, it is 999,000.
+In a [federated](/notes/federation/) network, if every instance sends updates to every other instance, the delivery cost is N × (N-1). For 100 instances, that is 9,900 deliveries per update cycle. For 1,000 instances, it is 999,000.
 
 A **relay** reduces this to 2N: each instance sends one update to the relay, and the relay forwards it to all other subscribers.
 
 ## How It Works
 
-A relay is a special instance with no content of its own. Its sole job is to receive activities and redistribute them. It uses the standard [ActivityPub](activitypub) Follow/Accept flow:
+A relay is a special instance with no content of its own. Its sole job is to receive activities and redistribute them. It uses the standard [ActivityPub](/notes/activitypub/) Follow/Accept flow:
 
 1. An instance follows the relay; the relay auto-accepts
 2. When an instance sends an activity to the relay's inbox, the relay re-announces it to all other subscribers (excluding the original sender)
@@ -31,6 +31,6 @@ In ActivityPub, the relay is typically an actor of type `Group` — which has th
 The relay introduces a single point of throughput concern (all traffic routes through it) but not a single point of failure — if the relay goes down, instances can fall back to direct delivery.
 
 ## Related Concepts
-- [Federation](federation) — the network architecture where the relay pattern applies
-- [ActivityPub](activitypub) — the protocol that defines the Group actor type used for relays
-- [Circuit breaker pattern](circuit-breaker-pattern) — essential for relay implementations that must handle delivery failures to many endpoints
+- [Federation](/notes/federation/) — the network architecture where the relay pattern applies
+- [ActivityPub](/notes/activitypub/) — the protocol that defines the Group actor type used for relays
+- [Circuit breaker pattern](/notes/circuit-breaker-pattern/) — essential for relay implementations that must handle delivery failures to many endpoints

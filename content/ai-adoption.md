@@ -15,7 +15,7 @@ According to [DORA's 2025 research](https://dora.dev/research/2025/dora-report/)
 
 The greatest returns on AI investment come not from the tools themselves, but from strategic focus on the underlying organizational system:
 
-- **[Internal Platform](internal-platform)**: Well-designed platforms amplify AI benefits
+- **[Internal Platform](/notes/internal-platform/)**: Well-designed platforms amplify AI benefits
 - **Data Ecosystem**: Quality data infrastructure enables better AI outcomes
 - **Core Engineering Disciplines**: Strong fundamentals multiply AI effectiveness
 
@@ -29,9 +29,9 @@ Organizations need processes to:
 Without verification systems, AI can amplify errors and poor practices as easily as it amplifies good ones.
 
 ## Related Concepts
-- [Platform Engineering](platform-engineering)
-- [Engineering Strategy](engineering-strategy)
-- [DORA](dora)
+- [Platform Engineering](/notes/platform-engineering/)
+- [Engineering Strategy](/notes/engineering-strategy/)
+- [DORA](/notes/dora/)
 
 ---
 *Source: [State of AI-assisted Software Development 2025 (DORA Report)](../sources/dora-2025-ai-report)*

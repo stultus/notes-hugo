@@ -15,7 +15,7 @@ It can have serious and long-lasting effects on the victim, including feelings o
 
 ## Legal Frameworks
 - Cyber Bullying Laws in India (note not yet created)
-- [Cyber Bullying Laws International](cyber-bullying-laws-international)
+- [Cyber Bullying Laws International](/notes/cyber-bullying-laws-international/)
 
 ## Related Concepts
-- [Cyber Crime](cyber-crime)
+- [Cyber Crime](/notes/cyber-crime/)

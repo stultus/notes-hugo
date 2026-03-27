@@ -49,9 +49,9 @@ The **Compass of Zettelkasten** is a method for exploring ideas by placing one i
 
 ## Related Concepts
 
-- [Digital Garden](digital_garden) — personal knowledge management system
-- [Digital Garden Workflow](digital-garden-workflow) — systematic approach to note-taking
-- [Scenius](scenius) — exploring connections between ideas
+- [Digital Garden](/notes/digital_garden/) — personal knowledge management system
+- [Digital Garden Workflow](/notes/digital-garden-workflow/) — systematic approach to note-taking
+- [Scenius](/notes/scenius/) — exploring connections between ideas
 
 ---
 *Source: [The Essence of the Zettelkasten Method](https://feeei.substack.com/p/the-essence-of-the-zettelkasten-method#%C2%A7instructions), introduced via [Vicky Zhao's video](https://youtu.be/5O46Rqh5zHE?t=297)*

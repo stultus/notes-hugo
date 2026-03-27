@@ -18,9 +18,9 @@ Key differences typically include:
 Attempts to make distribution transparent (hiding these differences) often lead to fragile and inefficient systems.
 
 ## Related
-- [A Note on Distributed Computing](a-note-on-distributed-computing-paper)
-- [Federation](federation) — federation must handle all these differences across independent servers
-- [Circuit Breaker Pattern](circuit-breaker-pattern) — addresses partial failure, one of the key differences listed above
+- [A Note on Distributed Computing](/notes/a-note-on-distributed-computing-paper/)
+- [Federation](/notes/federation/) — federation must handle all these differences across independent servers
+- [Circuit Breaker Pattern](/notes/circuit-breaker-pattern/) — addresses partial failure, one of the key differences listed above
 
 ---
 *Source: [Paper: A Note On Distributed Computing](../sources/a-note-on-distributed-computing)*

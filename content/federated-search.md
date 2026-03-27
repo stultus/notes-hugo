@@ -8,7 +8,7 @@ summary: "Federated search solves the problem of finding the best results across
 status: "budding"
 ---
 
-**Federated search** is the challenge of finding relevant results across many independent search indexes without querying all of them. It is a well-studied problem in information retrieval, and the core enabler of [federated](federation) search engines.
+**Federated search** is the challenge of finding relevant results across many independent search indexes without querying all of them. It is a well-studied problem in information retrieval, and the core enabler of [federated](/notes/federation/) search engines.
 
 A centralized search engine (Google) maintains one index of the entire web, requiring enormous infrastructure. A federated search engine distributes that burden: Instance A indexes climate science, Instance B indexes local news, Instance C indexes open-source docs. No single instance indexes everything. No single operator controls the whole system.
 
@@ -30,17 +30,17 @@ The query is sent to the K selected instances. Each executes the query against i
 
 Results from K instances plus the local instance need to be merged into a single ranked list. The challenge: different instances may use different scoring parameters, making raw scores incomparable.
 
-[Reciprocal Rank Fusion](reciprocal-rank-fusion) solves this elegantly by ignoring raw scores and using only rank positions.
+[Reciprocal Rank Fusion](/notes/reciprocal-rank-fusion/) solves this elegantly by ignoring raw scores and using only rank positions.
 
 ## Real-World Implementations
 
-**BookWyrm** (federated Goodreads alternative) has the most mature pattern: it searches the local database, remote BookWyrm instances via [ActivityPub](activitypub), and external APIs, then merges all results. Its search is sequential and blocking — a known performance issue that async approaches can solve.
+**BookWyrm** (federated Goodreads alternative) has the most mature pattern: it searches the local database, remote BookWyrm instances via [ActivityPub](/notes/activitypub/), and external APIs, then merges all results. Its search is sequential and blocking — a known performance issue that async approaches can solve.
 
 **Lemmy** and **Misskey** only search locally-federated content (content already delivered to the instance). They have no query-forwarding mechanism — a gap that true federated search addresses.
 
 **PeerTube's Sepia Search** takes the opposite approach: a centralized crawler indexes all PeerTube instances. This works but reintroduces the central point that federation aims to eliminate.
 
 ## Related Concepts
-- [Federation](federation) — the network architecture that federated search operates within
-- [Reciprocal Rank Fusion](reciprocal-rank-fusion) — the algorithm for merging ranked results from multiple sources
-- [A Note on Distributed Computing](a-note-on-distributed-computing-paper) — the fundamental challenges of distributed systems apply here too
+- [Federation](/notes/federation/) — the network architecture that federated search operates within
+- [Reciprocal Rank Fusion](/notes/reciprocal-rank-fusion/) — the algorithm for merging ranked results from multiple sources
+- [A Note on Distributed Computing](/notes/a-note-on-distributed-computing-paper/) — the fundamental challenges of distributed systems apply here too

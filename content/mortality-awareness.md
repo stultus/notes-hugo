@@ -33,9 +33,9 @@ summary: "Using awareness of death to clarify priorities and make meaningful cho
 
 ## Related Concepts
 
-- [Resilience](resilience) — continuing despite challenges
-- [Hope Is a Good Thing](hope-is-a-good-thing) — maintaining perspective
-- [Amateur Mindset](amateur-mindset) — starting despite imperfection
+- [Resilience](/notes/resilience/) — continuing despite challenges
+- [Hope Is a Good Thing](/notes/hope-is-a-good-thing/) — maintaining perspective
+- [Amateur Mindset](/notes/amateur-mindset/) — starting despite imperfection
 
 ---
 *Source: [Show Your Work! by Austin Kleon](../sources/show-your-work-austin-kleon/)*

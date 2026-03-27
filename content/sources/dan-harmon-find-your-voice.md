@@ -23,9 +23,9 @@ summary: "Find your voice, shout it from the rooftops, and keep doing it until t
 
 ## Related Concepts
 
-- [Digital Garden](digital_garden) — sharing your work
-- [Process Documentation](process-documentation) — documenting your journey
-- [Scenius](scenius) — finding your community
+- [Digital Garden](/notes/digital_garden/) — sharing your work
+- [Process Documentation](/notes/process-documentation/) — documenting your journey
+- [Scenius](/notes/scenius/) — finding your community
 
 ---
 *Quote referenced in "Show Your Work!" by Austin Kleon*

@@ -50,15 +50,15 @@ When all three components are present:
 - Systems improve through learning
 - Accountability is clear
 
-When components are missing, you get [Broken Ownership Archetypes](broken-ownership-archetypes) that lead to frustration, demoralization, waste, and poor operations.
+When components are missing, you get [Broken Ownership Archetypes](/notes/broken-ownership-archetypes/) that lead to frustration, demoralization, waste, and poor operations.
 
 ## Related Concepts
 
-- [Broken Ownership Archetypes](broken-ownership-archetypes) — what happens when components are missing
-- [You Build It You Own It](you-build-it-you-own-it) — philosophy of full ownership
-- [RACI Matrix](raci-matrix) — responsibility assignment framework
-- [Intrinsic Qualities in Hiring](intrinsic-qualities-hiring) — ownership as an intrinsic quality
-- [Platform Engineering](platform-engineering) — building with ownership
+- [Broken Ownership Archetypes](/notes/broken-ownership-archetypes/) — what happens when components are missing
+- [You Build It You Own It](/notes/you-build-it-you-own-it/) — philosophy of full ownership
+- [RACI Matrix](/notes/raci-matrix/) — responsibility assignment framework
+- [Intrinsic Qualities in Hiring](/notes/intrinsic-qualities-hiring/) — ownership as an intrinsic quality
+- [Platform Engineering](/notes/platform-engineering/) — building with ownership
 
 ## Source
 

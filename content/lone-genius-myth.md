@@ -20,13 +20,13 @@ According to this myth:
 
 ## Alternative: Scenius
 
-The reality is that great ideas emerge from [Scenius](scenius)—collaborative creative communities where people support, learn from, and build upon each other's work.
+The reality is that great ideas emerge from [Scenius](/notes/scenius/)—collaborative creative communities where people support, learn from, and build upon each other's work.
 
 ## Related Concepts
 
-- [Scenius](scenius) — the collaborative reality of creativity
-- [Growth Mindset vs Fixed Mindset](growth-mindset-vs-fixed-mindset) — debunking fixed talent myths
-- [Amateur Mindset](amateur-mindset) — embracing learning and imperfection
+- [Scenius](/notes/scenius/) — the collaborative reality of creativity
+- [Growth Mindset vs Fixed Mindset](/notes/growth-mindset-vs-fixed-mindset/) — debunking fixed talent myths
+- [Amateur Mindset](/notes/amateur-mindset/) — embracing learning and imperfection
 
 ---
 *Source: [Show Your Work! by Austin Kleon](../sources/show-your-work-austin-kleon/)*

@@ -32,7 +32,7 @@ Systematically rule out what cannot be true; what remains must be the answer, ev
 
 ## Related Concepts
 
-- [Primary Sources in Historical Research](primary-sources-historical-research) - Using evidence to eliminate possibilities
+- [Primary Sources in Historical Research](/notes/primary-sources-historical-research/) - Using evidence to eliminate possibilities
 - [Source: Eliminate the Impossible](../sources/conan-doyle-eliminate-impossible/)
 
 ---

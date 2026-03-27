@@ -117,8 +117,8 @@ Find a scenius, pay attention to what others are sharing, and then start taking 
 
 - [Creativity is a Way of Operating - John Cleese](../john-cleese-creativity-way-of-operating/)
 - "Give what you have. To someone, it may be better than you dare to think" — Henry Wadsworth Longfellow
-- "That's all any of us are: amateurs. We don't live long enough to be anything else." — Charlie Chaplin (captured in [Amateur Mindset](amateur-mindset))
-- "In the beginner's mind, there are many possibilities. In the expert's mind, there are few" — Shunryu Suzuki, Zen Monk (captured in [Amateur Mindset](amateur-mindset))
+- "That's all any of us are: amateurs. We don't live long enough to be anything else." — Charlie Chaplin (captured in [Amateur Mindset](/notes/amateur-mindset/))
+- "In the beginner's mind, there are many possibilities. In the expert's mind, there are few" — Shunryu Suzuki, Zen Monk (captured in [Amateur Mindset](/notes/amateur-mindset/))
 - "The stupidest possible creative art is still a creative art" — Clay Shirky
 - [Find Your Voice - Dan Harmon](../dan-harmon-find-your-voice/)
 
@@ -129,24 +129,24 @@ Find a scenius, pay attention to what others are sharing, and then start taking 
 
 ## Atomic Notes
 
-- [Scenius](scenius) — collaborative creativity vs. lone genius
-- [Amateur Mindset](amateur-mindset) — beginner's mind and incremental improvement
-- [Lone Genius Myth](lone-genius-myth) — debunking the individual genius narrative
-- [Process Documentation](process-documentation) — becoming a documentarian of your work
-- [Process is Messy](process-is-messy) — you have to make stuff
-- [Mortality Awareness](mortality-awareness) — using death awareness to live fully
+- [Scenius](/notes/scenius/) — collaborative creativity vs. lone genius
+- [Amateur Mindset](/notes/amateur-mindset/) — beginner's mind and incremental improvement
+- [Lone Genius Myth](/notes/lone-genius-myth/) — debunking the individual genius narrative
+- [Process Documentation](/notes/process-documentation/) — becoming a documentarian of your work
+- [Process is Messy](/notes/process-is-messy/) — you have to make stuff
+- [Mortality Awareness](/notes/mortality-awareness/) — using death awareness to live fully
 
 ## Related Concepts
 
-- [Scenius](scenius) — collaborative creativity
-- [Amateur Mindset](amateur-mindset) — beginner's perspective
-- [Lone Genius Myth](lone-genius-myth) — debunking isolation myths
-- [Process Documentation](process-documentation) — documenting your work
-- [Mortality Awareness](mortality-awareness) — using death awareness
-- [Digital Garden](digital_garden) — sharing work and ideas online
-- [Polymath](polymath) — connecting diverse interests
-- [Growth Mindset vs Fixed Mindset](growth-mindset-vs-fixed-mindset) — learning and improvement
-- [Resilience](resilience) — continuing despite challenges
+- [Scenius](/notes/scenius/) — collaborative creativity
+- [Amateur Mindset](/notes/amateur-mindset/) — beginner's perspective
+- [Lone Genius Myth](/notes/lone-genius-myth/) — debunking isolation myths
+- [Process Documentation](/notes/process-documentation/) — documenting your work
+- [Mortality Awareness](/notes/mortality-awareness/) — using death awareness
+- [Digital Garden](/notes/digital_garden/) — sharing work and ideas online
+- [Polymath](/notes/polymath/) — connecting diverse interests
+- [Growth Mindset vs Fixed Mindset](/notes/growth-mindset-vs-fixed-mindset/) — learning and improvement
+- [Resilience](/notes/resilience/) — continuing despite challenges
 
 ---
 *Source: Show Your Work! 10 Ways to Share Your Creativity and Get Discovered by Austin Kleon (2014)*

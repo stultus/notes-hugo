@@ -41,4 +41,4 @@ Even though Y ranked higher in List A, X's presence in **both** lists gives it a
 - **Robust** — works even when different lists use entirely different retrieval methods (e.g., combining keyword search with semantic vector search)
 
 ## Related Concepts
-- [Federated search](federated-search) — the primary use case where RRF merges results from independent indexes
+- [Federated search](/notes/federated-search/) — the primary use case where RRF merges results from independent indexes

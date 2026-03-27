@@ -39,7 +39,7 @@ Metrics should be:
 
 ## Example: HEART Framework Application
 
-The GSM model is used with the [HEART Framework](heart-framework) to measure user experience:
+The GSM model is used with the [HEART Framework](/notes/heart-framework/) to measure user experience:
 
 | Category       | Goals                          | Signals                                          | Metrics                                           |
 |----------------|--------------------------------|--------------------------------------------------|---------------------------------------------------|
@@ -66,13 +66,13 @@ The GSM model provides a systematic way to:
 
 ## Related Concepts
 
-- [HEART Framework](heart-framework) — uses GSM model for UX measurement
-- [Design of Experiments (DoE)](design-of-experiments) — systematic approach to measurement
-- [Analytical Data](analytical-data) — data for human decision-making
-- [Value Stream Mapping](value-stream-mapping) — measuring and improving processes
+- [HEART Framework](/notes/heart-framework/) — uses GSM model for UX measurement
+- [Design of Experiments (DoE)](/notes/design-of-experiments/) — systematic approach to measurement
+- [Analytical Data](/notes/analytical-data/) — data for human decision-making
+- [Value Stream Mapping](/notes/value-stream-mapping/) — measuring and improving processes
 
 ## Source
 
-- [HEART Framework](heart-framework) — demonstrates GSM model application
+- [HEART Framework](/notes/heart-framework/) — demonstrates GSM model application
 - Original research: [Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36299.pdf) (Google, 2010)
 

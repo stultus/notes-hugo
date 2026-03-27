@@ -8,13 +8,13 @@ summary: "ActivityPub is a W3C standard that defines how federated servers commu
 status: "budding"
 ---
 
-**ActivityPub** is a W3C protocol that defines how independent servers communicate in a [federated](federation) network. It is the protocol behind Mastodon, Lemmy, BookWyrm, PeerTube, and the broader fediverse.
+**ActivityPub** is a W3C protocol that defines how independent servers communicate in a [federated](/notes/federation/) network. It is the protocol behind Mastodon, Lemmy, BookWyrm, PeerTube, and the broader fediverse.
 
 ## Core Concepts
 
 ActivityPub is built on three pillars:
 
-**Actors** are JSON documents hosted at URLs that represent entities — a person, a service, an organization, or an entire application. Each actor has an inbox (where it receives messages), an outbox (where it publishes activities), and a public key for verifying identity. Actors are identified by handles in the format `@username@domain`, resolved via [WebFinger](webfinger).
+**Actors** are JSON documents hosted at URLs that represent entities — a person, a service, an organization, or an entire application. Each actor has an inbox (where it receives messages), an outbox (where it publishes activities), and a public key for verifying identity. Actors are identified by handles in the format `@username@domain`, resolved via [WebFinger](/notes/webfinger/).
 
 **Activities** are the vocabulary of communication. Every message is a combination of an actor (who), a verb (what), and an object (to what). The vocabulary comes from the W3C ActivityStreams 2.0 specification. Core activity types include:
 - **Follow** / **Accept** / **Reject** — subscription management
@@ -40,7 +40,7 @@ ActivityPub uses JSON-LD (JSON for Linked Data). In practice, this means regular
 Servers use **content negotiation**: return JSON-LD for `application/activity+json` requests and HTML for browser visits to the same URL.
 
 ## Related Concepts
-- [Federation](federation) — the architectural pattern ActivityPub implements
-- [WebFinger](webfinger) — the discovery protocol for resolving handles to actor documents
+- [Federation](/notes/federation/) — the architectural pattern ActivityPub implements
+- [WebFinger](/notes/webfinger/) — the discovery protocol for resolving handles to actor documents
 - [HTTP Signatures in federation](http-signatures-in-federation) — how ActivityPub proves identity without shared secrets
-- [Circuit breaker pattern](circuit-breaker-pattern) — essential reliability pattern for federation delivery
+- [Circuit breaker pattern](/notes/circuit-breaker-pattern/) — essential reliability pattern for federation delivery

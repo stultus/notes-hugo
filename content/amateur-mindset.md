@@ -18,10 +18,10 @@ The **Amateur Mindset** is about embracing the beginner's perspective and valuin
 
 ## Related Concepts
 
-- [Amateur](amateur) — the enthusiast who pursues work in the spirit of love
-- [Growth Mindset vs Fixed Mindset](growth-mindset-vs-fixed-mindset) — learning and development
-- [Scenius](scenius) — contributing to creative communities
-- [Digital Garden](digital_garden) — sharing work in progress
+- [Amateur](/notes/amateur/) — the enthusiast who pursues work in the spirit of love
+- [Growth Mindset vs Fixed Mindset](/notes/growth-mindset-vs-fixed-mindset/) — learning and development
+- [Scenius](/notes/scenius/) — contributing to creative communities
+- [Digital Garden](/notes/digital_garden/) — sharing work in progress
 
 ---
 *Source: [Show Your Work! by Austin Kleon](../sources/show-your-work-austin-kleon/)*

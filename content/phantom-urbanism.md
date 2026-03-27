@@ -26,11 +26,11 @@ summary: "Buildings built as financial instruments, unlived in, massive in scale
 
 ## Related Concepts
 
-- [Phantom Media](phantom-media) - Analogous concept applied to media
+- [Phantom Media](/notes/phantom-media/) - Analogous concept applied to media
 - Financial engineering
 - Urban development
 - Real estate investment
 
 ---
-*Source: Concept from Tom Critchlow's digital garden, referenced in [Phantom Media](phantom-media)*
+*Source: Concept from Tom Critchlow's digital garden, referenced in [Phantom Media](/notes/phantom-media/)*
 

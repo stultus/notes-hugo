@@ -36,18 +36,18 @@ This type of data enables:
 
 ## Relationship to Other Data Types
 
-Analytically Operational Data bridges [Operational Data](operational-data) and [Analytical Data](analytical-data):
+Analytically Operational Data bridges [Operational Data](/notes/operational-data/) and [Analytical Data](/notes/analytical-data/):
 - Uses analytical insights (from analytical data)
 - Applies them in operational contexts (like operational data)
 - Automates the decision-making process
 
 ## Related Concepts
 
-- [Operational Data](operational-data) — transactional data
-- [Analytical Data](analytical-data) — decision-support data
-- [ELT (Extract - Load - Transform)](elt) — data processing approach
-- [AI Adoption](ai-adoption) — using AI for automated decisions
-- [Architecture Decision (AD)](architecture-decision)
+- [Operational Data](/notes/operational-data/) — transactional data
+- [Analytical Data](/notes/analytical-data/) — decision-support data
+- [ELT (Extract - Load - Transform)](/notes/elt/) — data processing approach
+- [AI Adoption](/notes/ai-adoption/) — using AI for automated decisions
+- [Architecture Decision (AD)](/notes/architecture-decision/)
 
 ---
 *Definition based on data architecture practice.*

@@ -22,10 +22,10 @@ Flip the perspective: instead of asking "How do I succeed?", ask "How do I avoid
 
 ## Related Concepts
 
-- [Avoid Stupidity](avoid-stupidity) — practical application of inversion
-- [Pre-Mortem Analysis](pre-mortem-analysis) — identifying what could go wrong
-- [Deductive Reasoning - Eliminate the Impossible](deductive-reasoning-eliminate-impossible) — systematic elimination
-- [Theory of Constraints](theory-of-constraints) — focusing on bottlenecks and weaknesses
+- [Avoid Stupidity](/notes/avoid-stupidity/) — practical application of inversion
+- [Pre-Mortem Analysis](/notes/pre-mortem-analysis/) — identifying what could go wrong
+- [Deductive Reasoning - Eliminate the Impossible](/notes/deductive-reasoning-eliminate-impossible/) — systematic elimination
+- [Theory of Constraints](/notes/theory-of-constraints/) — focusing on bottlenecks and weaknesses
 
 ---
 *Definition based on mental models and decision-making frameworks.*

@@ -32,8 +32,8 @@ RFCs enable:
 Originally used for internet standards (IETF RFCs), now widely adopted in software engineering organizations for technical proposals and design decisions.
 
 ## Related Concepts
-- [Engineering Strategy](engineering-strategy)
-- [Architecture Decision Records](architecture-decision-records)
+- [Engineering Strategy](/notes/engineering-strategy/)
+- [Architecture Decision Records](/notes/architecture-decision-records/)
 - Open source governance
 - Technical design reviews
 

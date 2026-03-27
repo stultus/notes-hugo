@@ -20,8 +20,8 @@ Internal platforms aim to:
 
 ## Platform as Product
 
-When treated as an internal product (see [Platform Engineering](platform-engineering)), internal platforms become strategic assets that:
-- Amplify the effectiveness of other investments (including [AI Adoption](ai-adoption))
+When treated as an internal product (see [Platform Engineering](/notes/platform-engineering/)), internal platforms become strategic assets that:
+- Amplify the effectiveness of other investments (including [AI Adoption](/notes/ai-adoption/))
 - Improve developer satisfaction and retention
 - Enable faster innovation cycles
 
@@ -37,9 +37,9 @@ Typical internal platform components:
 - Developer portals and documentation
 
 ## Related Concepts
-- [Platform Engineering](platform-engineering)
-- [Engineering Strategy](engineering-strategy)
-- [AI Adoption](ai-adoption)
+- [Platform Engineering](/notes/platform-engineering/)
+- [Engineering Strategy](/notes/engineering-strategy/)
+- [AI Adoption](/notes/ai-adoption/)
 
 ---
 *Source: [State of AI-assisted Software Development 2025 (DORA Report)](../sources/dora-2025-ai-report)*

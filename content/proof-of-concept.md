@@ -9,5 +9,5 @@ summary: "A realization of a certain method or idea to demonstrate its feasibili
 
 A **Proof of Concept (POC)** is a realization of a certain method or idea in order to demonstrate its feasibility, or a demonstration in principle with the aim of verifying that some concept or theory has practical potential.
 
-Related to [Prototype](prototype) and [Minimum Viable Product (MVP)](minimum-viable-product). Often discussed in [Engineering Strategy](engineering-strategy).
+Related to [Prototype](/notes/prototype/) and [Minimum Viable Product (MVP)](/notes/minimum-viable-product/). Often discussed in [Engineering Strategy](/notes/engineering-strategy/).
 

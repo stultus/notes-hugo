@@ -36,11 +36,11 @@ Analytical data enables:
 
 ## Related Concepts
 
-- [Operational Data](operational-data) — source data for operations
-- [Analytically Operational Data](analytically-operational-data) — automated decision support
-- [ELT (Extract - Load - Transform)](elt) — data processing approach
-- [Architecture Decision (AD)](architecture-decision)
-- [Pre-Mortem Analysis](pre-mortem-analysis) — using data for risk assessment
+- [Operational Data](/notes/operational-data/) — source data for operations
+- [Analytically Operational Data](/notes/analytically-operational-data/) — automated decision support
+- [ELT (Extract - Load - Transform)](/notes/elt/) — data processing approach
+- [Architecture Decision (AD)](/notes/architecture-decision/)
+- [Pre-Mortem Analysis](/notes/pre-mortem-analysis/) — using data for risk assessment
 
 ---
 *Definition based on data architecture practice.*

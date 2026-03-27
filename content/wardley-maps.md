@@ -10,7 +10,7 @@ summary: "A strategy visualization tool."
 
 **Wardley Maps** are a tool for visualizing strategy, but they may not be immediately intuitive. They help in navigating possible futures.
 
-Used as a tool in [Engineering Strategy](engineering-strategy).
+Used as a tool in [Engineering Strategy](/notes/engineering-strategy/).
 
 ## Resources
 - [Navigating Possible Futures with Wardley Maps • Simon Wardley • GOTO 2024](https://www.youtube.com/watch?v=dcp6YMAmI3M)

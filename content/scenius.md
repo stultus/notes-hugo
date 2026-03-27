@@ -34,9 +34,9 @@ Scenius stands in contrast to the "Lone Genius" myth—the idea that great work 
 
 ## Related Concepts
 
-- [Lone Genius Myth](lone-genius-myth) — the opposite narrative
-- [Digital Garden](digital_garden) — sharing work and building community
-- [Polymath](polymath) — connecting diverse interests and communities
+- [Lone Genius Myth](/notes/lone-genius-myth/) — the opposite narrative
+- [Digital Garden](/notes/digital_garden/) — sharing work and building community
+- [Polymath](/notes/polymath/) — connecting diverse interests and communities
 
 ---
 *Source: [Show Your Work! by Austin Kleon](../sources/show-your-work-austin-kleon/). Concept proposed by Brian Eno.*

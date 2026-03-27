@@ -7,7 +7,7 @@ status: "seeding"
 summary: "A software design choice that addresses an architecturally-significant requirement."
 ---
 
-An **Architecture Decision (AD)** is a software design choice that addresses an [Architecturally-significant Requirement (ASR)](architecturally-significant-requirement).
+An **Architecture Decision (AD)** is a software design choice that addresses an [Architecturally-significant Requirement (ASR)](/notes/architecturally-significant-requirement/).
 
 ## Attributes
 
@@ -52,10 +52,10 @@ The risks associated with the decision, including technical, business, and organ
 
 ## Related Concepts
 
-- [Architecturally-significant Requirement (ASR)](architecturally-significant-requirement) — requirements that drive architecture decisions
-- [Architecture Decision Records (ADRs)](architecture-decision-records) — documentation format for capturing ADs
-- [Engineering Strategy](engineering-strategy)
-- [Pre-Mortem Analysis](pre-mortem-analysis) — identifying risks before decisions are finalized
+- [Architecturally-significant Requirement (ASR)](/notes/architecturally-significant-requirement/) — requirements that drive architecture decisions
+- [Architecture Decision Records (ADRs)](/notes/architecture-decision-records/) — documentation format for capturing ADs
+- [Engineering Strategy](/notes/engineering-strategy/)
+- [Pre-Mortem Analysis](/notes/pre-mortem-analysis/) — identifying risks before decisions are finalized
 
 ---
 *Definition based on standard software architecture practice.*

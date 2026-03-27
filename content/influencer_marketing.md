@@ -18,8 +18,8 @@ To be effective, expenditures should be tied directly to sales via:
 - Unique phone numbers
 
 ## Concepts
-- [Nano Influencers vs Macro Influencers](nano-vs-macro-influencers)
-- [Influencer Marketing Funnel](influencer-marketing-funnel)
+- [Nano Influencers vs Macro Influencers](/notes/nano-vs-macro-influencers/)
+- [Influencer Marketing Funnel](/notes/influencer-marketing-funnel/)
 
 ---
 *Source: [HBR: When It Comes to Influencers, Smaller Can Be Better](../sources/hbr-influencers-smaller-better)*

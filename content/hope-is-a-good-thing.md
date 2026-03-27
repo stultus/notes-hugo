@@ -20,8 +20,8 @@ Hope sustains us through darkness and drives action when all seems lost. Unlike 
 
 ## Related Concepts
 
-- [Making a Difference (The Star Thrower)](making-a-difference-star-thrower)
-- [Flexibility Over Rigidity](flexibility-over-rigidity)
+- [Making a Difference (The Star Thrower)](/notes/making-a-difference-star-thrower/)
+- [Flexibility Over Rigidity](/notes/flexibility-over-rigidity/)
 - [Source: Hope Is a Good Thing](../sources/shawshank-hope-quote/)
 
 ---

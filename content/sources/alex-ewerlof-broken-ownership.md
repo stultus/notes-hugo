@@ -124,9 +124,9 @@ The author notes two "bugs" to address in follow-ups:
 
 ## Related Concepts
 
-- [Platform Engineering](platform-engineering) — building internal platforms with ownership
-- [Engineering Strategy](engineering-strategy) — organizational approaches
-- [Intrinsic Qualities in Hiring](intrinsic-qualities-hiring) — ownership as an intrinsic quality
+- [Platform Engineering](/notes/platform-engineering/) — building internal platforms with ownership
+- [Engineering Strategy](/notes/engineering-strategy/) — organizational approaches
+- [Intrinsic Qualities in Hiring](/notes/intrinsic-qualities-hiring/) — ownership as an intrinsic quality
 
 ---
 *Source: [6 Archetypes of Broken Ownership](https://blog.alexewerlof.com/p/broken-ownership) by Alex Ewerlöf*

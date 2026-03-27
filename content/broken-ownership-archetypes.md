@@ -9,7 +9,7 @@ summary: "Six patterns of broken ownership that occur when Knowledge, Mandate, o
 
 # Broken Ownership Archetypes
 
-**Broken Ownership Archetypes** are six patterns that occur when one or two components of the [Ownership Trio](ownership-trio) (Knowledge, Mandate, Responsibility) are missing, leading to frustration, demoralization, waste, and poor operations.
+**Broken Ownership Archetypes** are six patterns that occur when one or two components of the [Ownership Trio](/notes/ownership-trio/) (Knowledge, Mandate, Responsibility) are missing, leading to frustration, demoralization, waste, and poor operations.
 
 ## The Six Archetypes
 
@@ -78,17 +78,17 @@ Broken ownership is much more common than true ownership because:
 
 ## How to Fix
 
-The solution is to establish the [Ownership Trio](ownership-trio):
+The solution is to establish the [Ownership Trio](/notes/ownership-trio/):
 - Ensure teams have **Knowledge** of what they own
 - Give teams **Mandate** to make decisions
 - Hold teams **Responsible** for outcomes
 
 ## Related Concepts
 
-- [Ownership Trio](ownership-trio) — the three components needed for true ownership
-- [You Build It, You Own It](you-build-it-you-own-it) — philosophy of full ownership
-- [RACI Matrix](raci-matrix) — responsibility assignment framework
-- [Platform Engineering](platform-engineering) — building with ownership
+- [Ownership Trio](/notes/ownership-trio/) — the three components needed for true ownership
+- [You Build It, You Own It](/notes/you-build-it-you-own-it/) — philosophy of full ownership
+- [RACI Matrix](/notes/raci-matrix/) — responsibility assignment framework
+- [Platform Engineering](/notes/platform-engineering/) — building with ownership
 
 ## Source
 

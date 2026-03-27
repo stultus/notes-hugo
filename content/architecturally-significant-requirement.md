@@ -18,10 +18,10 @@ An **architecturally-significant requirement (ASR)** is any requirement—functi
 
 ## Related Concepts
 
-- [Architecture Decision (AD)](architecture-decision) — design choices that address ASRs
-- [Architecture Decision Records](architecture-decision-records)
-- [Engineering Strategy](engineering-strategy)
-- [Pre-Mortem Analysis](pre-mortem-analysis) — surfacing risky requirements early
+- [Architecture Decision (AD)](/notes/architecture-decision/) — design choices that address ASRs
+- [Architecture Decision Records](/notes/architecture-decision-records/)
+- [Engineering Strategy](/notes/engineering-strategy/)
+- [Pre-Mortem Analysis](/notes/pre-mortem-analysis/) — surfacing risky requirements early
 
 ---
 *Definition referenced from standard software architecture practice.*

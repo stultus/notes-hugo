@@ -22,7 +22,7 @@ The story: Someone throws stranded starfish back into the ocean, one by one. Whe
 
 ## Related Concepts
 
-- [Hope Is a Good Thing](hope-is-a-good-thing)
+- [Hope Is a Good Thing](/notes/hope-is-a-good-thing/)
 - [Passion Not Spent](../sources/caleb-madrigal-passion-not-spent/)
 - [Source: The Star Thrower](../sources/loren-eiseley-starfish-story/)
 

@@ -56,9 +56,9 @@ This isn't about making art—it's about simply keeping track of what's going on
 
 ## Related Concepts
 
-- [Digital Garden](digital_garden) — sharing documented work online
-- [Digital Garden Workflow](digital-garden-workflow) — systematic documentation
-- [Scenius](scenius) — sharing process with creative communities
+- [Digital Garden](/notes/digital_garden/) — sharing documented work online
+- [Digital Garden Workflow](/notes/digital-garden-workflow/) — systematic documentation
+- [Scenius](/notes/scenius/) — sharing process with creative communities
 
 ---
 *Source: [Show Your Work! by Austin Kleon](../sources/show-your-work-austin-kleon/)*

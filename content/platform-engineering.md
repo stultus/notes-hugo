@@ -23,23 +23,23 @@ Key aspects:
 
 According to [DORA's 2025 research](https://dora.dev/research/2025/dora-report/):
 - Poor developer experience and fragmented tooling hamper AI strategy effectiveness
-- Well-designed platforms amplify the benefits of [AI Adoption](ai-adoption)
+- Well-designed platforms amplify the benefits of [AI Adoption](/notes/ai-adoption/)
 - Platform quality acts as a multiplier for AI investments
 
 ## Components
 
 A robust platform typically includes:
-- [Internal Platform](internal-platform) infrastructure
+- [Internal Platform](/notes/internal-platform/) infrastructure
 - CI/CD pipelines
 - Monitoring and observability
 - Security and compliance tooling
 - Documentation and onboarding
 
 ## Related Concepts
-- [Engineering Strategy](engineering-strategy)
-- [AI Adoption](ai-adoption)
-- [Value Stream Mapping](value-stream-mapping)
-- [DORA](dora)
+- [Engineering Strategy](/notes/engineering-strategy/)
+- [AI Adoption](/notes/ai-adoption/)
+- [Value Stream Mapping](/notes/value-stream-mapping/)
+- [DORA](/notes/dora/)
 
 ---
 *Source: [State of AI-assisted Software Development 2025 (DORA Report)](../sources/dora-2025-ai-report)*

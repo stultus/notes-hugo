@@ -39,11 +39,11 @@ A value stream map typically shows:
 - Lead time and cycle time
 
 ## Related Concepts
-- [Theory of Constraints](theory-of-constraints) — focusing on bottlenecks
-- [AI Adoption](ai-adoption)
-- [Platform Engineering](platform-engineering)
-- [Engineering Strategy](engineering-strategy)
-- [DORA](dora)
+- [Theory of Constraints](/notes/theory-of-constraints/) — focusing on bottlenecks
+- [AI Adoption](/notes/ai-adoption/)
+- [Platform Engineering](/notes/platform-engineering/)
+- [Engineering Strategy](/notes/engineering-strategy/)
+- [DORA](/notes/dora/)
 
 ---
 *Source: [State of AI-assisted Software Development 2025 (DORA Report)](../sources/dora-2025-ai-report)*

@@ -21,13 +21,13 @@ Instead of asking "How can I help my company?", you should ask "What's hurting m
 
 ## Mental Model
 
-This approach uses the mental model of [Inversion](inversion) — looking at problems from the opposite perspective.
+This approach uses the mental model of [Inversion](/notes/inversion/) — looking at problems from the opposite perspective.
 
 ## Related Concepts
 
-- [Inversion](inversion) — thinking from the opposite perspective
-- [Pre-Mortem Analysis](pre-mortem-analysis) — identifying what could go wrong
-- [Theory of Constraints](theory-of-constraints) — focusing on bottlenecks and weaknesses
+- [Inversion](/notes/inversion/) — thinking from the opposite perspective
+- [Pre-Mortem Analysis](/notes/pre-mortem-analysis/) — identifying what could go wrong
+- [Theory of Constraints](/notes/theory-of-constraints/) — focusing on bottlenecks and weaknesses
 
 ---
 *Definition based on decision-making and strategy frameworks.*

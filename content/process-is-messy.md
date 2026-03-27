@@ -17,9 +17,9 @@ summary: "You have to make stuff. Share something small every day."
 
 ## Related Concepts
 
-- [Process Documentation](process-documentation) — documenting your messy process
-- [Amateur Mindset](amateur-mindset) — starting despite imperfection
-- [Digital Garden](digital_garden) — sharing work online
+- [Process Documentation](/notes/process-documentation/) — documenting your messy process
+- [Amateur Mindset](/notes/amateur-mindset/) — starting despite imperfection
+- [Digital Garden](/notes/digital_garden/) — sharing work online
 
 ---
 *Source: [Show Your Work! by Austin Kleon](../sources/show-your-work-austin-kleon/)*

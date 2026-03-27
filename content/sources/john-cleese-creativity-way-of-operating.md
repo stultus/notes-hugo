@@ -23,9 +23,9 @@ summary: "Creativity is not a talent, it is a way of operating."
 
 ## Related Concepts
 
-- [Amateur Mindset](amateur-mindset) — embracing the process
-- [Process is Messy](process-is-messy) — making stuff
-- [Scenius](scenius) — collaborative creativity
+- [Amateur Mindset](/notes/amateur-mindset/) — embracing the process
+- [Process is Messy](/notes/process-is-messy/) — making stuff
+- [Scenius](/notes/scenius/) — collaborative creativity
 
 ---
 *Quote referenced in "Show Your Work!" by Austin Kleon*

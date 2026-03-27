@@ -26,7 +26,7 @@ DAMP is particularly effective for:
 
 ## Bazel's Rationale
 
-According to the [Bazel BUILD Style Guide](https://bazel.build/build/style-guide), BUILD files aren't code, they are configurations. They aren't tested like code, but do need to be maintained by people and tools. That makes DAMP better for them than [DRY](dry-principle).
+According to the [Bazel BUILD Style Guide](https://bazel.build/build/style-guide), BUILD files aren't code, they are configurations. They aren't tested like code, but do need to be maintained by people and tools. That makes DAMP better for them than [DRY](/notes/dry-principle/).
 
 ## Trade-offs
 
@@ -38,7 +38,7 @@ DAMP accepts some repetition in exchange for:
 
 ## Related Concepts
 
-- [DRY Principle](dry-principle) - Alternative approach for application code
+- [DRY Principle](/notes/dry-principle/) - Alternative approach for application code
 - [Source: Bazel BUILD Style Guide](../sources/bazel-build-style-guide)
 - Code readability
 - Configuration management

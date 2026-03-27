@@ -25,11 +25,11 @@ summary: "The ability to adjust to new conditions and circumstances."
 
 ## Related Concepts
 
-- [Flexibility Over Rigidity](flexibility-over-rigidity) - Core principle of adaptability
-- [Resilience](resilience) - Adapting to adversity
-- [Growth Mindset vs Fixed Mindset](growth-mindset-vs-fixed-mindset) - Belief in ability to adapt
-- [Jugaad](jugaad) - Adapting to resource constraints with innovative solutions
-- [Jerry Rigging](jerry-rigging) - Adapting to constraints with makeshift solutions
+- [Flexibility Over Rigidity](/notes/flexibility-over-rigidity/) - Core principle of adaptability
+- [Resilience](/notes/resilience/) - Adapting to adversity
+- [Growth Mindset vs Fixed Mindset](/notes/growth-mindset-vs-fixed-mindset/) - Belief in ability to adapt
+- [Jugaad](/notes/jugaad/) - Adapting to resource constraints with innovative solutions
+- [Jerry Rigging](/notes/jerry-rigging/) - Adapting to constraints with makeshift solutions
 
 ---
 *Referenced in multiple source notes about flexibility and change.*

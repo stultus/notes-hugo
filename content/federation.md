@@ -33,6 +33,6 @@ The collection of all interconnected instances is called the **fediverse** (fede
 Federation sits in the middle — it preserves the reliability of having dedicated servers while removing the single point of control. The tradeoff: identity depends on domain availability. If your instance's domain goes offline, your identity becomes unresolvable.
 
 ## Related Concepts
-- [ActivityPub](activitypub) — the dominant federation protocol for the modern fediverse
-- [Local vs Distributed Objects](local-vs-distributed-objects) — the fundamental challenges of distributed interaction that federation must handle
-- [Federated search](federated-search) — applying federation to information retrieval
+- [ActivityPub](/notes/activitypub/) — the dominant federation protocol for the modern fediverse
+- [Local vs Distributed Objects](/notes/local-vs-distributed-objects/) — the fundamental challenges of distributed interaction that federation must handle
+- [Federated search](/notes/federated-search/) — applying federation to information retrieval

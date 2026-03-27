@@ -19,8 +19,8 @@ DORA is best known for identifying key metrics that predict software delivery pe
 DORA publishes annual reports on the state of DevOps and software delivery. The [2025 report](https://dora.dev/research/2025/dora-report/) focuses on AI-assisted software development.
 
 ## Related Concepts
-- [Engineering Strategy](engineering-strategy)
-- [Platform Engineering](platform-engineering)
+- [Engineering Strategy](/notes/engineering-strategy/)
+- [Platform Engineering](/notes/platform-engineering/)
 
 ## Resources
 - [DORA Website](https://dora.dev/)

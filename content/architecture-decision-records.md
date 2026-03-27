@@ -7,7 +7,7 @@ status: "seeding"
 summary: "Lightweight documentation format for recording architectural decisions and their context."
 ---
 
-An **Architecture Decision Record (ADR)** is a document that captures an important [Architecture Decision (AD)](architecture-decision) made along with its context and consequences.
+An **Architecture Decision Record (ADR)** is a document that captures an important [Architecture Decision (AD)](/notes/architecture-decision/) made along with its context and consequences.
 
 ## Structure
 
@@ -28,11 +28,11 @@ ADRs help:
 - Avoid revisiting settled decisions
 
 ## Related Concepts
-- [Architecture Decision Log (ADL)](architecture-decision-log) — the collection of ADRs for a project or organization
-- [Architecture Decision (AD)](architecture-decision) — the decisions that ADRs document
-- [Architecturally-significant Requirement (ASR)](architecturally-significant-requirement)
-- [Engineering Strategy](engineering-strategy)
-- [A Note on Distributed Computing](a-note-on-distributed-computing-paper)
+- [Architecture Decision Log (ADL)](/notes/architecture-decision-log/) — the collection of ADRs for a project or organization
+- [Architecture Decision (AD)](/notes/architecture-decision/) — the decisions that ADRs document
+- [Architecturally-significant Requirement (ASR)](/notes/architecturally-significant-requirement/)
+- [Engineering Strategy](/notes/engineering-strategy/)
+- [A Note on Distributed Computing](/notes/a-note-on-distributed-computing-paper/)
 - Software architecture
 - Technical documentation
 

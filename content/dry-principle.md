@@ -25,14 +25,14 @@ DRY is effective for:
 
 ## When DRY May Not Apply
 
-Not all repetition is bad. Consider [DAMP](damp-principle) for:
+Not all repetition is bad. Consider [DAMP](/notes/damp-principle/) for:
 - Configuration files
 - Test code
 - Cases where readability matters more than uniqueness
 
 ## Related Concepts
 
-- [DAMP Principle](damp-principle) - Alternative approach for configuration
+- [DAMP Principle](/notes/damp-principle/) - Alternative approach for configuration
 - [Source: Bazel BUILD Style Guide](../sources/bazel-build-style-guide)
 - Code maintainability
 - Software design principles

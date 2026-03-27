@@ -79,8 +79,8 @@ The RICE framework provides:
 
 ## Related Concepts
 
-- [Value Stream Mapping](value-stream-mapping) — identifying high-impact improvements
-- [Theory of Constraints](theory-of-constraints) — focusing on bottlenecks
-- [Goals-Signals-Metrics (GSM) Model](goals-signals-metrics-model) — measuring impact
-- [Pre-Mortem Analysis](pre-mortem-analysis) — assessing confidence and risks
+- [Value Stream Mapping](/notes/value-stream-mapping/) — identifying high-impact improvements
+- [Theory of Constraints](/notes/theory-of-constraints/) — focusing on bottlenecks
+- [Goals-Signals-Metrics (GSM) Model](/notes/goals-signals-metrics-model/) — measuring impact
+- [Pre-Mortem Analysis](/notes/pre-mortem-analysis/) — assessing confidence and risks
 

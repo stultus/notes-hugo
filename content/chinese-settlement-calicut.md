@@ -23,7 +23,7 @@ The findings were published by Taisho University Press in 2004.
 
 ## Related Concepts
 
-- [Legend of Prester John](prester-john) - Another historical connection between medieval Europe and the East, also from The Ivory Throne
+- [Legend of Prester John](/notes/prester-john/) - Another historical connection between medieval Europe and the East, also from The Ivory Throne
 
 ## Sources
 

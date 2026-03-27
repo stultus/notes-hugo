@@ -25,9 +25,9 @@ Counterintuitively, if you break down the entire system and optimize each compon
 
 ## Related Concepts
 
-- [Value Stream Mapping](value-stream-mapping) — identifying bottlenecks in processes
-- [Engineering Strategy](engineering-strategy) — systems-level thinking
-- [Platform Engineering](platform-engineering) — optimizing developer experience holistically
+- [Value Stream Mapping](/notes/value-stream-mapping/) — identifying bottlenecks in processes
+- [Engineering Strategy](/notes/engineering-strategy/) — systems-level thinking
+- [Platform Engineering](/notes/platform-engineering/) — optimizing developer experience holistically
 
 ---
 *Definition based on operations management and systems thinking.*

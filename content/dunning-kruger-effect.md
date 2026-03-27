@@ -29,8 +29,8 @@ The opposite is Imposter Syndrome — where competent people doubt their abiliti
 ## Related Concepts
 
 - Imposter Syndrome — the opposite effect (note not yet created)
-- [Amateur Mindset](amateur-mindset) — embracing learning despite imperfection
-- [Growth Mindset vs Fixed Mindset](growth-mindset-vs-fixed-mindset) — self-awareness and learning
+- [Amateur Mindset](/notes/amateur-mindset/) — embracing learning despite imperfection
+- [Growth Mindset vs Fixed Mindset](/notes/growth-mindset-vs-fixed-mindset/) — self-awareness and learning
 
 ---
 *Definition based on cognitive psychology research.*

@@ -35,9 +35,9 @@ summary: "Carol Dweck's framework: believing abilities can be developed vs belie
 
 ## Related Concepts
 
-- [Coachable vs Learnable vs Intrinsic Skills](coachable-learnable-intrinsic)
-- [Intrinsic Qualities in Hiring](intrinsic-qualities-hiring)
-- [Flexibility Over Rigidity](flexibility-over-rigidity)
+- [Coachable vs Learnable vs Intrinsic Skills](/notes/coachable-learnable-intrinsic/)
+- [Intrinsic Qualities in Hiring](/notes/intrinsic-qualities-hiring/)
+- [Flexibility Over Rigidity](/notes/flexibility-over-rigidity/)
 
 ---
 *Based on Carol Dweck's research. Referenced in multiple source notes about learning and development.*

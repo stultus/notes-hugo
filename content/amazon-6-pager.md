@@ -26,7 +26,7 @@ The 6-pager format ensures:
 - Better decision-making through written clarity
 
 ## Related Concepts
-- [Engineering Strategy](engineering-strategy)
+- [Engineering Strategy](/notes/engineering-strategy/)
 - Decision documentation frameworks
 
 ---

@@ -20,7 +20,7 @@ The game mechanics require actual physical movement, making it distinct from tra
 
 ## Potential Data Collection for Mapping
 
-There are unconfirmed reports that Ingress was used to collect pedestrian path data to improve [Google Maps](google-maps):
+There are unconfirmed reports that Ingress was used to collect pedestrian path data to improve [Google Maps](/notes/google-maps/):
 
 - **Player movement patterns**: As players walked to portals, their phones tracked accessible pedestrian routes
 - **Location verification**: Player visits confirmed the accessibility and existence of locations
@@ -39,7 +39,7 @@ This data would be valuable for:
 Ingress served as the foundation for Niantic's later success with Pokémon GO, which used similar AR mechanics and location-based gameplay.
 
 ## Related Concepts
-- [Google Maps](google-maps)
+- [Google Maps](/notes/google-maps/)
 - Augmented reality gaming
 - Crowdsourced data collection
 - Location-based services

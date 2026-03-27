@@ -28,10 +28,10 @@ Even for Professionals, the best way to flourish is to retain an amateur's spiri
 
 ## Related Concepts
 
-- [Amateur Mindset](amateur-mindset) — embracing the beginner's perspective
+- [Amateur Mindset](/notes/amateur-mindset/) — embracing the beginner's perspective
 - Professional — the opposite approach (note not yet created)
-- [Scenius](scenius) — contributing to creative communities
-- [Process is Messy](process-is-messy) — making stuff despite imperfection
+- [Scenius](/notes/scenius/) — contributing to creative communities
+- [Process is Messy](/notes/process-is-messy/) — making stuff despite imperfection
 
 ---
 *Definition based on creative work and learning.*

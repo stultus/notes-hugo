@@ -17,8 +17,8 @@ They are crucial for rendering documents across various mediums, including:
 - **E-book Layout**: Electronic books (adaptable to device size).
 
 ## Related Concepts
-- [Application Layout Engine](application_layout_engine) - For interactive UI layouts
-- [Layout Engine](layout-engine) - General rendering concept
+- [Application Layout Engine](/notes/application_layout_engine/) - For interactive UI layouts
+- [Layout Engine](/notes/layout-engine/) - General rendering concept
 
 ## Resources
 - [PostScript Language Tutorial and Cookbook](https://www.goodreads.com/book/show/1611082.PostScript_Language_Tutorial_and_Cookbook)

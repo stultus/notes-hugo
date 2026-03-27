@@ -38,7 +38,7 @@ NPS provides a simple, standardized way to:
 
 ## Use in HEART Framework
 
-NPS is commonly used to measure the **Happiness** metric in the [HEART Framework](heart-framework), which measures user attitudes, satisfaction, and emotional response to a product.
+NPS is commonly used to measure the **Happiness** metric in the [HEART Framework](/notes/heart-framework/), which measures user attitudes, satisfaction, and emotional response to a product.
 
 ## Limitations
 
@@ -56,12 +56,12 @@ NPS is commonly used to measure the **Happiness** metric in the [HEART Framework
 
 ## Related Concepts
 
-- [HEART Framework](heart-framework) — uses NPS to measure Happiness metric
-- [Goals-Signals-Metrics (GSM) Model](goals-signals-metrics-model) — framework for selecting metrics like NPS
-- [Analytical Data](analytical-data) — data for human decision-making
+- [HEART Framework](/notes/heart-framework/) — uses NPS to measure Happiness metric
+- [Goals-Signals-Metrics (GSM) Model](/notes/goals-signals-metrics-model/) — framework for selecting metrics like NPS
+- [Analytical Data](/notes/analytical-data/) — data for human decision-making
 
 ## Source
 
-- [HEART Framework](heart-framework) — mentions NPS as a metric for measuring Happiness
+- [HEART Framework](/notes/heart-framework/) — mentions NPS as a metric for measuring Happiness
 - [Interaction Design Foundation - HEART Framework](https://www.interaction-design.org/literature/topics/heart-framework)
 

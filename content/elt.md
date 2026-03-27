@@ -61,10 +61,10 @@ Unlike traditional **ETL (Extract - Transform - Load)**, where transformation ha
 
 ## Related Concepts
 
-- [Operational Data](operational-data) — source data for extraction
-- [Analytical Data](analytical-data) — transformed data for analysis
-- [Analytically Operational Data](analytically-operational-data) — data that bridges both worlds
-- [Architecture Decision (AD)](architecture-decision)
+- [Operational Data](/notes/operational-data/) — source data for extraction
+- [Analytical Data](/notes/analytical-data/) — transformed data for analysis
+- [Analytically Operational Data](/notes/analytically-operational-data/) — data that bridges both worlds
+- [Architecture Decision (AD)](/notes/architecture-decision/)
 
 ---
 *Definition based on data engineering practice.*

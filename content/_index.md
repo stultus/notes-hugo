@@ -11,7 +11,7 @@ Welcome. This is my digital garden—a collection of notes, ideas, and explorati
 
 My name is **Hrishikesh Bhaskaran** and I am a Software Engineer, currently working as the VP of Engineering at [Entri](https://entri.app).
 
-This is a [digital garden](digital_garden) where I share things I know about this world. Unlike blog posts ordered by dates, this is an interlinked web of living documents that evolve as I learn.
+This is a [digital garden](/notes/digital_garden/) where I share things I know about this world. Unlike blog posts ordered by dates, this is an interlinked web of living documents that evolve as I learn.
 
 - [Friends](/notes/friends/) — Digital gardens and blogs of friends
 

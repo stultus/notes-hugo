@@ -34,7 +34,7 @@ Ravi Menon's investigation used primary sources (production executive, actor, ci
 
 ## Related Concepts
 
-- [Deductive Reasoning - Eliminate the Impossible](deductive-reasoning-eliminate-impossible) - Using evidence to eliminate possibilities
+- [Deductive Reasoning - Eliminate the Impossible](/notes/deductive-reasoning-eliminate-impossible/) - Using evidence to eliminate possibilities
 - [Source: Bhargavee Nilayam Investigation](../sources/ravi-menon-bhargaveenilayam-location/)
 
 ---

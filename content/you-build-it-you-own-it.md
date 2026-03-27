@@ -41,7 +41,7 @@ Full ownership leads to:
 
 ## Requirements
 
-For "You Build It, You Own It" to work, teams need the [Ownership Trio](ownership-trio):
+For "You Build It, You Own It" to work, teams need the [Ownership Trio](/notes/ownership-trio/):
 - **Knowledge**: Understanding what they built
 - **Mandate**: Authority to make changes
 - **Responsibility**: Accountability for outcomes
@@ -55,9 +55,9 @@ For "You Build It, You Own It" to work, teams need the [Ownership Trio](ownershi
 
 ## Related Concepts
 
-- [Ownership Trio](ownership-trio) — Knowledge, Mandate, and Responsibility
-- [Broken Ownership Archetypes](broken-ownership-archetypes) — what happens when ownership is incomplete
-- [Platform Engineering](platform-engineering) — building internal platforms with ownership
+- [Ownership Trio](/notes/ownership-trio/) — Knowledge, Mandate, and Responsibility
+- [Broken Ownership Archetypes](/notes/broken-ownership-archetypes/) — what happens when ownership is incomplete
+- [Platform Engineering](/notes/platform-engineering/) — building internal platforms with ownership
 - SRE vs DevOps — different approaches to operations (note not yet created)
 
 ## Source

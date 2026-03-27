@@ -69,11 +69,11 @@ The framework provides **a holistic view of UX that makes it easier to balance m
 
 ## Related Concepts
 
-- [Goals-Signals-Metrics (GSM) Model](goals-signals-metrics-model) — the methodology used to implement HEART
-- [Net Promoter Score (NPS)](net-promoter-score) — metric used to measure Happiness
-- [Design of Experiments (DoE)](design-of-experiments) — systematic approach to measurement and experimentation
-- [Analytical Data](analytical-data) — data for human decision-making
-- [Value Stream Mapping](value-stream-mapping) — measuring and improving processes
+- [Goals-Signals-Metrics (GSM) Model](/notes/goals-signals-metrics-model/) — the methodology used to implement HEART
+- [Net Promoter Score (NPS)](/notes/net-promoter-score/) — metric used to measure Happiness
+- [Design of Experiments (DoE)](/notes/design-of-experiments/) — systematic approach to measurement and experimentation
+- [Analytical Data](/notes/analytical-data/) — data for human decision-making
+- [Value Stream Mapping](/notes/value-stream-mapping/) — measuring and improving processes
 
 ## Source
 

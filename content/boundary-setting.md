@@ -31,10 +31,10 @@ summary: "The practice of defining and communicating limits to protect your valu
 
 ## Related Concepts
 
-- [Right No vs Wrong Yes](right-no-vs-wrong-yes)
-- [Flexibility Over Rigidity](flexibility-over-rigidity)
+- [Right No vs Wrong Yes](/notes/right-no-vs-wrong-yes/)
+- [Flexibility Over Rigidity](/notes/flexibility-over-rigidity/)
 - [Source: 9-1-1 TV Series](../sources/911-tv-series/)
 
 ---
-*Referenced in [Right No vs Wrong Yes](right-no-vs-wrong-yes) and [9-1-1 TV Series](../sources/911-tv-series/)*
+*Referenced in [Right No vs Wrong Yes](/notes/right-no-vs-wrong-yes/) and [9-1-1 TV Series](../sources/911-tv-series/)*
 

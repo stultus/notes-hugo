@@ -30,11 +30,11 @@ How they shot the theater fight scene in the movie "Thallumala" is a perfect exa
 
 ## Related Concepts
 
-- [Jerry Rigging](jerry-rigging) - Makeshift repair or construction using available materials
-- [Kludge](kludge) - Workaround or makeshift solution that rapidly solves a problem
-- [Adaptability](adaptability) - Adjusting to constraints and finding solutions
-- [Minimum Viable Product (MVP)](minimum-viable-product) - Quick solutions with limited resources
-- [Flexibility Over Rigidity](flexibility-over-rigidity) - Adapting to constraints rather than resisting them
+- [Jerry Rigging](/notes/jerry-rigging/) - Makeshift repair or construction using available materials
+- [Kludge](/notes/kludge/) - Workaround or makeshift solution that rapidly solves a problem
+- [Adaptability](/notes/adaptability/) - Adjusting to constraints and finding solutions
+- [Minimum Viable Product (MVP)](/notes/minimum-viable-product/) - Quick solutions with limited resources
+- [Flexibility Over Rigidity](/notes/flexibility-over-rigidity/) - Adapting to constraints rather than resisting them
 
 ## Sources
 

@@ -8,7 +8,7 @@ summary: "The circuit breaker pattern prevents a system from wasting resources o
 status: "budding"
 ---
 
-The **circuit breaker pattern** prevents a system from repeatedly calling a remote service that is failing, which would waste resources and potentially cause cascading failures. It is one of the most important reliability mechanisms in [federated](federation) and distributed systems.
+The **circuit breaker pattern** prevents a system from repeatedly calling a remote service that is failing, which would waste resources and potentially cause cascading failures. It is one of the most important reliability mechanisms in [federated](/notes/federation/) and distributed systems.
 
 ## Three States
 
@@ -41,9 +41,9 @@ Individual request retries typically use **exponential backoff** — doubling th
 
 ## In Federation
 
-In [ActivityPub](activitypub) federation, if an instance needs to deliver activities to 100 followers and one follower's server is down, without a circuit breaker that dead server consumes delivery worker threads on every update cycle. Mastodon implements this pattern (they call it "Stoplight") — it is essential for any system that pushes messages to many independent servers.
+In [ActivityPub](/notes/activitypub/) federation, if an instance needs to deliver activities to 100 followers and one follower's server is down, without a circuit breaker that dead server consumes delivery worker threads on every update cycle. Mastodon implements this pattern (they call it "Stoplight") — it is essential for any system that pushes messages to many independent servers.
 
 ## Related Concepts
-- [Federation](federation) — the network model where circuit breakers are critical for reliability
-- [Local vs Distributed Objects](local-vs-distributed-objects) — partial failure is a fundamental difference in distributed systems that circuit breakers address
-- [Broken Windows Theory](broken-windows-theory) — in a different domain, but shares the principle that small failures left unaddressed compound into larger problems
+- [Federation](/notes/federation/) — the network model where circuit breakers are critical for reliability
+- [Local vs Distributed Objects](/notes/local-vs-distributed-objects/) — partial failure is a fundamental difference in distributed systems that circuit breakers address
+- [Broken Windows Theory](/notes/broken-windows-theory/) — in a different domain, but shares the principle that small failures left unaddressed compound into larger problems

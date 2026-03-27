@@ -33,7 +33,7 @@ RACI matrices help:
 
 ## Related Concepts
 
-- [Engineering Strategy](engineering-strategy)
+- [Engineering Strategy](/notes/engineering-strategy/)
 - [Decision Document Framework by Arnav Kumar](../sources/arnav-kumar-decision-framework/) — responsibility assignment in decision documents
-- [Architecture Decision Records](architecture-decision-records) — documenting who makes decisions
+- [Architecture Decision Records](/notes/architecture-decision-records/) — documenting who makes decisions
 

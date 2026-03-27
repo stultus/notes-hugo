@@ -34,9 +34,9 @@ DoE provides a systematic approach to:
 
 ## Related Concepts
 
-- [Primary Sources in Historical Research](primary-sources-historical-research) — research methodology
-- [Deductive Reasoning - Eliminate the Impossible](deductive-reasoning-eliminate-impossible) — systematic problem-solving
-- [Pre-Mortem Analysis](pre-mortem-analysis) — risk assessment methodology
+- [Primary Sources in Historical Research](/notes/primary-sources-historical-research/) — research methodology
+- [Deductive Reasoning - Eliminate the Impossible](/notes/deductive-reasoning-eliminate-impossible/) — systematic problem-solving
+- [Pre-Mortem Analysis](/notes/pre-mortem-analysis/) — risk assessment methodology
 
 ---
 *Source: Subin Sebastien's Notes*

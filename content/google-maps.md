@@ -24,10 +24,10 @@ This crowdsourced data allows Google Maps to:
 
 ## Pedestrian Path Data
 
-There are reports that the game [Ingress](ingress) was used to collect data from players to improve Google Maps' pedestrian paths, though reliable sources for this claim are limited. The game required players to physically visit locations, potentially providing valuable data about walkable paths and accessible areas.
+There are reports that the game [Ingress](/notes/ingress/) was used to collect data from players to improve Google Maps' pedestrian paths, though reliable sources for this claim are limited. The game required players to physically visit locations, potentially providing valuable data about walkable paths and accessible areas.
 
 ## Related Concepts
-- [Ingress](ingress)
+- [Ingress](/notes/ingress/)
 - Data collection and privacy
 - Crowdsourced mapping
 

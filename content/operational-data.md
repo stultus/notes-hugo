@@ -27,10 +27,10 @@ summary: "Data whose purpose is to remember things."
 
 ## Related Concepts
 
-- [Analytical Data](analytical-data) — data for decision-making
-- [Analytically Operational Data](analytically-operational-data) — automated decision support
-- [ELT (Extract - Load - Transform)](elt) — data processing approach
-- [Architecture Decision (AD)](architecture-decision)
+- [Analytical Data](/notes/analytical-data/) — data for decision-making
+- [Analytically Operational Data](/notes/analytically-operational-data/) — automated decision support
+- [ELT (Extract - Load - Transform)](/notes/elt/) — data processing approach
+- [Architecture Decision (AD)](/notes/architecture-decision/)
 
 ---
 *Definition based on data architecture practice.*

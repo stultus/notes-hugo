@@ -15,7 +15,7 @@ The unified view assumes that objects (local or remote) form a single ontologica
 > "Work in distributed object-oriented systems that is based on a model that ignores or denies these differences is doomed to failure."
 
 ## Concepts
-- [Local vs Distributed Objects](local-vs-distributed-objects)
+- [Local vs Distributed Objects](/notes/local-vs-distributed-objects/)
 
 ---
 *Source: [Paper: A Note On Distributed Computing](../sources/a-note-on-distributed-computing)*

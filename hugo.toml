@@ -24,14 +24,19 @@ canonifyURLs = false
     icon = "fab fa-github"
 
   [[params.social]]
-    name = "Medium" 
-    link = "https://medium.com/@stultus"
-    icon = "fab fa-medium-m"
-
-  [[params.social]]
     name = "LinkedIn"
     link = "https://www.linkedin.com/in/stultus/"
     icon = "fab fa-linkedin-in"
+
+  [[params.social]]
+    name = "Instagram"
+    link = "https://instagram.com/stultusz"
+    icon = "fab fa-instagram"
+
+  [[params.social]]
+    name = "Facebook"
+    link = "https://www.facebook.com/stultus.hrishi"
+    icon = "fab fa-facebook"
 
 
 [menu]

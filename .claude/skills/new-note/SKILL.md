@@ -31,6 +31,7 @@ Follow these principles when writing every note:
 3. Write the note body:
    - State the core idea clearly in the opening
    - Develop with supporting reasoning, examples, or evidence
-   - Weave internal links inline where connections are discussed: `[Title](slug)`
-   - End with a **Related Concepts** section listing connected notes as relative links
+   - Weave internal links inline where connections are discussed using absolute paths: `[Title](/notes/slug/)` — bare slugs break because the theme resolves links by matching link text to page titles
+   - For links to source notes: `[Title](../sources/slug)`
+   - End with a **Related Concepts** section listing connected notes
 4. After creating the note, check if existing notes should link back to it — suggest specific edits with the link placed at the point of relevance in the existing note's body

@@ -20,8 +20,9 @@ Hugo-based digital garden (personal notes site) published at https://stultus.in/
 - Required frontmatter fields: `title`, `date`, `lastmod`, `draft`, `tags`, `summary`, `status`
 - **Type** field: `note` (atomic idea), `essay` (long form), `moc` (map of content), `resource` (external), `source` (in sources/)
 - **Status** field: `seeding` (stub), `budding` (draft), `evergreen` (polished)
-- Internal links between notes use relative markdown: `[Title](slug)` — no leading slash, no `.md` extension
-- The `_index.md` homepage uses absolute paths: `[Title](/notes/slug/)`
+- **Internal links must use absolute paths**: `[Title](/notes/slug/)` — the theme's render-link.html resolves links by matching link text to page titles; bare slugs like `[Text](slug)` break when the text doesn't match the target's title exactly
+- Links from `content/` to `content/sources/` use relative paths: `[Title](../sources/slug)`
+- Links from `content/sources/` to `content/` use: `[Title](../../slug/)`
 
 ## Deployment
 

@@ -41,17 +41,25 @@ canonifyURLs = false
 
 [menu]
   [[menu.main]]
-    name = "Website"
-    url = "https://stultus.in"
+    name = "blog"
+    url = "https://stultus.in/post/"
     weight = 1
   [[menu.main]]
-    name = "Notes"
-    url = "https://stultus.in/notes/"
+    name = "projects"
+    url = "https://stultus.in/projects/"
     weight = 2
   [[menu.main]]
-    name = "About"
-    url = "https://stultus.in/about"
+    name = "now"
+    url = "https://stultus.in/now/"
     weight = 3
+  [[menu.main]]
+    name = "about"
+    url = "https://stultus.in/about/"
+    weight = 4
+  [[menu.main]]
+    name = "notes"
+    url = "https://stultus.in/notes/"
+    weight = 5
 
 
 [taxonomies]

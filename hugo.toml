@@ -9,7 +9,7 @@ canonifyURLs = false
 
 [params]
   name = "Hrishikesh Bhaskaran"
-  description = "“I wasn't going to eat it, I was just going to taste it.” - Winnie the Pooh"
+  description = "The digital garden of Hrishikesh Bhaskaran (stultus) — a growing collection of notes, ideas, and explorations on software engineering, FOSS, language computing, and more."
   initials = "stultus notes"
   googleAnalytics = ""
 
@@ -79,3 +79,5 @@ canonifyURLs = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+enableRobotsTXT = true

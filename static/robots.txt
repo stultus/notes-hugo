@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://stultus.in/sitemap.xml
 Sitemap: https://stultus.in/notes/sitemap.xml
+Sitemap: https://stultus.in/scriptty/sitemap.xml
 

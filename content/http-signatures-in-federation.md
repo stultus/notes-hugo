@@ -5,7 +5,7 @@ lastmod: 2026-03-26
 draft: false
 tags: ["distributed-systems", "federation", "security", "cryptography"]
 summary: "HTTP Signatures use public-key cryptography to verify that a federated message actually came from the server it claims to be from."
-status: "budding"
+status: "growing"
 ---
 
 In a [federated](/notes/federation/) network, when Instance B receives a message claiming to be from Instance A, how does it verify the claim? There are no shared passwords, no central authority, no OAuth provider. The answer is **HTTP Signatures** — a mechanism based on public-key cryptography.

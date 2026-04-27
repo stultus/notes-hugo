@@ -5,7 +5,7 @@ lastmod: 2026-03-26
 draft: false
 tags: ["distributed-systems", "federation", "design-patterns", "scalability"]
 summary: "A relay instance acts as a hub that redistributes activities, reducing the delivery cost from N×(N-1) direct connections to 2N."
-status: "budding"
+status: "growing"
 ---
 
 In a [federated](/notes/federation/) network, if every instance sends updates to every other instance, the delivery cost is N × (N-1). For 100 instances, that is 9,900 deliveries per update cycle. For 1,000 instances, it is 999,000.

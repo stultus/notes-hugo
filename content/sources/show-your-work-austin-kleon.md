@@ -8,7 +8,7 @@ source_type: "book"
 source_date: "2014-04-01"
 reading_started: "2023-06-18"
 tags: ["source", "creativity", "sharing", "work", "process", "networking"]
-status: "processing"
+status: "growing"
 summary: "10 ways to share your creativity and get discovered - a guide to showing your work and building an audience."
 ---
 

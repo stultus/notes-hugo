@@ -5,7 +5,7 @@ lastmod: 2026-03-26
 draft: false
 tags: ["distributed-systems", "software-architecture", "reliability", "design-patterns"]
 summary: "The circuit breaker pattern prevents a system from wasting resources on a failing remote dependency by short-circuiting requests after consecutive failures."
-status: "budding"
+status: "growing"
 ---
 
 The **circuit breaker pattern** prevents a system from repeatedly calling a remote service that is failing, which would waste resources and potentially cause cascading failures. It is one of the most important reliability mechanisms in [federated](/notes/federation/) and distributed systems.

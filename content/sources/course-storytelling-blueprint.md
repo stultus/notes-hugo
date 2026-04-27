@@ -4,7 +4,7 @@ date: 2025-11-23
 lastmod: 2025-11-23
 draft: false
 type: source
-status: processing
+status: growing
 author: "Michael Hauge & Chris Vogler"
 source_url: "https://www.udemy.com/course/screenwriting-story-blueprint-the-heros-two-journeys-filmmaking/"
 tags: ["source", "storytelling", "screenwriting"]

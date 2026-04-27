@@ -6,7 +6,7 @@ type: "source"
 author: "DORA (DevOps Research and Assessment)"
 source_url: "https://dora.dev/research/2025/dora-report/"
 tags: ["ai", "devops", "research", "software-development"]
-status: "processing"
+status: "growing"
 summary: "DORA's 2025 research on AI's impact on software development, revealing AI as an amplifier of organizational strengths and weaknesses."
 ---
 

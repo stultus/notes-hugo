@@ -5,7 +5,7 @@ lastmod: 2026-03-26
 draft: false
 tags: ["distributed-systems", "federation", "protocols", "web-standards"]
 summary: "WebFinger (RFC 7033) is a simple discovery protocol that maps a handle like @user@domain to the URL of an actor's identity document."
-status: "budding"
+status: "growing"
 ---
 
 **WebFinger** (RFC 7033) is the discovery mechanism that makes [federation](/notes/federation/) work. Given a handle like `@user@domain.org`, WebFinger tells you where to find that entity's full identity document.

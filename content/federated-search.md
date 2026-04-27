@@ -5,7 +5,7 @@ lastmod: 2026-03-26
 draft: false
 tags: ["distributed-systems", "federation", "search", "information-retrieval"]
 summary: "Federated search solves the problem of finding the best results across N independent search indexes without querying all of them."
-status: "budding"
+status: "growing"
 ---
 
 **Federated search** is the challenge of finding relevant results across many independent search indexes without querying all of them. It is a well-studied problem in information retrieval, and the core enabler of [federated](/notes/federation/) search engines.

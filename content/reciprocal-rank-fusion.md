@@ -5,7 +5,7 @@ lastmod: 2026-03-26
 draft: false
 tags: ["information-retrieval", "search", "algorithms"]
 summary: "RRF combines ranked result lists from multiple sources using only rank positions, avoiding the problem of incomparable scoring systems."
-status: "budding"
+status: "growing"
 ---
 
 **Reciprocal Rank Fusion (RRF)** is an algorithm for merging ranked result lists from multiple independent sources. Its key insight: ignore raw scores entirely and use only rank positions. This sidesteps the problem that different systems use different scoring parameters, making their raw scores incomparable.

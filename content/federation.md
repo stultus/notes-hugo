@@ -5,7 +5,7 @@ lastmod: 2026-03-26
 draft: false
 tags: ["distributed-systems", "federation", "decentralization", "protocols"]
 summary: "Federation applies the email model to any networked application — independent servers interoperate through a shared protocol without central coordination."
-status: "budding"
+status: "growing"
 ---
 
 **Federation** means many independent servers that talk to each other using a shared protocol, without any central authority coordinating them.

@@ -6,7 +6,7 @@ type: "source"
 author: "Arnav Kumar"
 source_url: "https://www.linkedin.com/posts/arnavk_not-an-ai-post-because-some-things-never-activity-7312735474001879040-xv9z/"
 tags: ["leadership", "communication", "decision-making", "process"]
-status: "processing"
+status: "growing"
 summary: "Arnav Kumar's framework for writing comprehensive decision documents to get faster approvals."
 ---
 

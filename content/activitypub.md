@@ -5,7 +5,7 @@ lastmod: 2026-03-26
 draft: false
 tags: ["distributed-systems", "federation", "protocols", "web-standards"]
 summary: "ActivityPub is a W3C standard that defines how federated servers communicate using actors, inboxes, and a shared activity vocabulary."
-status: "budding"
+status: "growing"
 ---
 
 **ActivityPub** is a W3C protocol that defines how independent servers communicate in a [federated](/notes/federation/) network. It is the protocol behind Mastodon, Lemmy, BookWyrm, PeerTube, and the broader fediverse.

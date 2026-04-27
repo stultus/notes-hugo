@@ -4,7 +4,7 @@ date: 2024-11-03
 lastmod: 2024-11-03
 draft: false
 type: "source"
-status: "processing"
+status: "growing"
 author: "Maxmillian Beichert et al."
 source_url: "https://hbr.org/2024/09/when-it-comes-to-influencers-smaller-can-be-better"
 tags: ["source", "marketing"]

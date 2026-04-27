@@ -5,7 +5,7 @@ lastmod: 2026-04-07
 draft: false
 tags: ["requirements-engineering", "software-engineering", "systems-engineering", "templates"]
 summary: "EARS is a template-based method for writing natural language requirements that are clear, testable, and unambiguous. Five patterns — ubiquitous, event-driven, unwanted behavior, state-driven, and optional — cover most real-world needs."
-status: "budding"
+status: "growing"
 ---
 
 EARS was developed by **Alistair Mavin and colleagues at Rolls-Royce** to fix a common problem: natural language requirements are often vague, ambiguous, and untestable. EARS provides five syntactic templates that constrain how requirements are written, without abandoning natural language entirely.

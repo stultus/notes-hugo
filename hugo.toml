@@ -1,7 +1,7 @@
 baseURL = "https://stultus.in/notes/"
 languageCode = "en-us"
 title = "stultus notes"
-theme = "hugo-digital-garden-theme"
+theme = "kavu"
 themesdir = "./themes"
 copyright = "Hrishikesh Bhaskaran ♥"
 relativeURLs = false

@@ -53,6 +53,14 @@ enableRobotsTXT = true
     link = "https://www.facebook.com/stultus.hrishi"
     icon = "fab fa-facebook"
 
+  [[params.heroLinks]]
+    name = "Fellow gardeners"
+    url = "/notes/friends/"
+
+  [[params.heroLinks]]
+    name = "What is a digital garden?"
+    url = "/notes/digital_garden/"
+
   [[params.footerLinks]]
     name = "Website"
     url = "https://stultus.in"

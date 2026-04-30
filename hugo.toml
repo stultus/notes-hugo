@@ -6,12 +6,27 @@ themesdir = "./themes"
 copyright = "Hrishikesh Bhaskaran ♥"
 relativeURLs = false
 canonifyURLs = false
+enableRobotsTXT = true
 
 [params]
   name = "Hrishikesh Bhaskaran"
   description = "The digital garden of Hrishikesh Bhaskaran (stultus) — a growing collection of notes, ideas, and explorations on software engineering, FOSS, language computing, and more."
   initials = "stultus notes"
   googleAnalytics = ""
+
+  # Kavu theme params (the live site sets these to preserve its existing
+  # branding; they are all optional and the theme degrades gracefully
+  # without them).
+  author = "Hrishikesh Bhaskaran"
+  authorURL = "https://stultus.in/about/"
+  tagline = "Digital Garden by Hrishikesh Bhaskaran"
+  twitterHandle = "@_stultus"
+  defaultOgImage = "https://stultus.in/img/hrishikesh_bhaskaran-bnw.png"
+  keywords = ["Hrishikesh Bhaskaran", "stultus", "Hrishi", "digital garden", "notes", "software engineering"]
+  headerLogoURL = "https://stultus.in/"
+  headerBrandText = "stultus"
+  headerLogoLight = "img/logo-light.png"
+  headerLogoDark = "img/logo-dark.png"
 
   [[params.social]]
     name = "Twitter"
@@ -37,6 +52,22 @@ canonifyURLs = false
     name = "Facebook"
     link = "https://www.facebook.com/stultus.hrishi"
     icon = "fab fa-facebook"
+
+  [[params.footerLinks]]
+    name = "Website"
+    url = "https://stultus.in"
+
+  [[params.footerLinks]]
+    name = "About"
+    url = "https://stultus.in/about"
+
+  [[params.footerLinks]]
+    name = "Friends"
+    url = "/notes/friends/"
+
+  [[params.footerLinks]]
+    name = "What is this?"
+    url = "/notes/digital_garden/"
 
 
 [menu]
@@ -79,5 +110,3 @@ canonifyURLs = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-enableRobotsTXT = true

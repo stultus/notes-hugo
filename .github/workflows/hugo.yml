@@ -10,6 +10,12 @@ jobs:
     runs-on: ubuntu-22.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
+    env:
+      # Opt in early to the Node 24 runtime that becomes the default on
+      # 2026-06-02. Surfaces incompatibilities (currently in
+      # peaceiris/actions-hugo@v3 and peaceiris/actions-gh-pages@v4,
+      # which still ship Node 20) before GitHub forces the switch.
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
     steps:
       - uses: actions/checkout@v6
         with:

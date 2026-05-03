@@ -1,0 +1,76 @@
+{{ define "main" }}
+<article class="note">
+
+    <header class="note-header">
+        <a href="{{ "/notes/" | relURL }}" class="note-back">&larr; Notes</a>
+        <h1 class="note-title">{{ .Title }}</h1>
+
+        {{ with .Params.author }}
+        <p class="note-summary">by {{ . }}</p>
+        {{ end }}
+
+        <div class="note-meta-bar">
+            <span class="note-type-badge">📚 Book</span>
+            {{ with .Params.rating }}<span class="note-rating">★ {{ . }}</span>{{ end }}
+            {{ with .Params.read_date }}<span class="note-date">Read {{ dateFormat "Jan 2, 2006" . }}</span>{{ end }}
+        </div>
+
+        {{ with .Params.goodreads_url }}
+        <p class="note-source">
+            <a href="{{ . }}" target="_blank" rel="noopener">View on Goodreads &rarr;</a>
+        </p>
+        {{ end }}
+    </header>
+
+    {{ with .Params.cover_url }}
+    <p class="note-cover">
+        <img src="{{ . }}" alt="Cover of {{ $.Title }}" loading="lazy" />
+    </p>
+    {{ end }}
+
+    <div class="note-content">
+        {{ with .Params.review_html }}
+            {{ . | safeHTML }}
+        {{ else }}
+            <p class="note-stub-prose">
+                A stub page so this book can be linked from notes in the garden. No commentary written yet.
+                {{ with $.Params.goodreads_url }}<br/>For now, see <a href="{{ . }}" target="_blank" rel="noopener">my entry on Goodreads</a>.{{ end }}
+            </p>
+        {{ end }}
+    </div>
+
+    {{- /* ── Backlinks ── */ -}}
+    {{ $currentPage := . }}
+    {{ $backlinks := slice }}
+    {{ range .Site.RegularPages }}
+        {{ if and (not .Params.stub) (ne .Permalink $currentPage.Permalink) }}
+            {{ $content := .RawContent }}
+            {{ if in $content $currentPage.Title }}
+                {{ $backlinks = $backlinks | append . }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+
+    {{ if gt (len $backlinks) 0 }}
+    <section class="note-backlinks">
+        <h2 class="note-backlinks-heading">
+            <span class="section-icon">&larr;</span> {{ len $backlinks }} note{{ if gt (len $backlinks) 1 }}s{{ end }} link here
+        </h2>
+        <ul class="note-backlinks-list">
+            {{ range $backlinks }}
+            <li>
+                <a href="{{ .RelPermalink }}" class="backlink-item">
+                    <span class="backlink-title">
+                        <span class="status-dot status-dot-{{ .Params.status | default "seeding" }}"></span>
+                        {{ .Title }}
+                    </span>
+                    <span class="backlink-summary">{{ with .Params.summary }}{{ . | truncate 80 }}{{ end }}</span>
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </section>
+    {{ end }}
+
+</article>
+{{ end }}

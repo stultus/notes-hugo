@@ -1,0 +1,51 @@
+{{/*
+  Books content adapter. See content/movies/_content.gotmpl for the rationale
+  and override behaviour — the two adapters are intentionally near-duplicates
+  rather than abstracted, since each schema has its own field shape and the
+  shared pieces are too small to justify a helper template.
+
+  Constraint: only the JSON fetch is a remote call. Book covers are rendered
+  straight from cover_url in the layout — no per-entry .AddResource fetch.
+*/}}
+
+{{ $url := "https://raw.githubusercontent.com/stultus/hrishi-feeds/main/data/books.json" }}
+{{ $books := slice }}
+{{ with try (resources.GetRemote $url) }}
+  {{ with .Err }}
+    {{ errorf "books adapter: failed to fetch %s: %s" $url . }}
+  {{ else with .Value }}
+    {{ $books = . | transform.Unmarshal }}
+  {{ else }}
+    {{ errorf "books adapter: empty response from %s" $url }}
+  {{ end }}
+{{ end }}
+
+{{ range $books }}
+  {{ $slug := .slug }}
+  {{ if $slug }}
+    {{ $read := .read_date | default .added_date | default "" }}
+    {{ $date := now }}
+    {{ with $read }}{{ $date = time . }}{{ end }}
+    {{ $page := dict
+      "kind" "page"
+      "path" $slug
+      "title" .title
+      "dates" (dict "date" $date "lastmod" $date)
+      "params" (dict
+        "stub" true
+        "type" "book"
+        "summary" (printf "Book · %s" (.author | default ""))
+        "author" .author
+        "rating" .rating
+        "read_date" .read_date
+        "added_date" .added_date
+        "isbn" .isbn
+        "goodreads_url" .goodreads_url
+        "cover_url" .cover_url
+        "review_html" .review_html
+        "feed_id" .id
+      )
+    }}
+    {{ $.AddPage $page }}
+  {{ end }}
+{{ end }}

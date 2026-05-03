@@ -4,6 +4,12 @@ on:
   push:
     branches:
       - main  # Set a branch name to trigger deployment
+  repository_dispatch:
+    types: [feeds-updated]  # Triggered by the feeds repo when movies.json
+                            # or books.json changes; rebuilds the garden so
+                            # auto-stub pages stay in sync with the data
+                            # source without a manual push.
+  workflow_dispatch:        # Allow manual reruns from the Actions tab
 
 jobs:
   deploy:

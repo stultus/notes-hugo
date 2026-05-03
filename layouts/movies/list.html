@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div class="tag-page">
+
+    <header class="tag-header">
+        <a href="{{ "/notes/" | relURL }}" class="note-back">&larr; Notes</a>
+        <h1 class="tag-title">🎬 Movies</h1>
+        {{ with .Params.summary }}<p class="tag-count">{{ . }}</p>{{ end }}
+    </header>
+
+    {{- /* Only list items with manual commentary; auto-stubs are filtered out. */ -}}
+    {{ $manual := where .Pages "Params.stub" "!=" true }}
+    {{ if gt (len $manual) 0 }}
+    <ul class="tag-notes-list">
+        {{ range $manual.ByDate.Reverse }}
+        <li class="tag-note-item"
+            data-title="{{ .Title | lower }}"
+            data-date="{{ .Date.Format "2006-01-02" }}"
+            data-status="{{ .Params.status | default "seeding" }}">
+            <a href="{{ .RelPermalink }}">
+                <span class="status-dot status-dot-{{ .Params.status | default "seeding" }}"></span>
+                <span class="all-note-title">{{ .Title }}{{ with .Params.year }} ({{ . }}){{ end }}</span>
+            </a>
+            <span class="all-note-meta">{{ .Date.Format "Jan 2006" }}</span>
+        </li>
+        {{ end }}
+    </ul>
+    {{ else }}
+    <p class="garden-empty">No film commentary written yet. Stubs exist for backlink resolution; once a note here gets a manual page it shows up in this list.</p>
+    {{ end }}
+
+</div>
+{{ end }}

@@ -1,0 +1,59 @@
+{{/*
+  Movies content adapter.
+
+  Fetches a normalized movies feed once at build time and emits one stub page
+  per entry at /movies/<slug>/. Stubs exist so that any note in the garden can
+  link to a film and have the link resolve to a real URL — they are not meant
+  to be browsed on their own and are filtered out of the homepage stats, the
+  network graph, and the /movies/ section index.
+
+  Override behaviour: if a manual file already exists at
+  content/movies/<slug>.md or content/movies/<slug>/index.md, Hugo prefers
+  the manual file; this AddPage call is silently ignored for that slug.
+  This is the auto-promote pattern: write commentary on a film, drop a real
+  markdown file at the same path, and the URL stays stable.
+
+  Constraint: only the JSON fetch is a remote call. Cover art / posters are
+  rendered straight from URLs in the layout — no per-entry GetRemote.
+*/}}
+
+{{ $url := "https://raw.githubusercontent.com/stultus/hrishi-feeds/main/data/movies.json" }}
+{{ $movies := slice }}
+{{ with try (resources.GetRemote $url) }}
+  {{ with .Err }}
+    {{ errorf "movies adapter: failed to fetch %s: %s" $url . }}
+  {{ else with .Value }}
+    {{ $movies = . | transform.Unmarshal }}
+  {{ else }}
+    {{ errorf "movies adapter: empty response from %s" $url }}
+  {{ end }}
+{{ end }}
+
+{{ range $movies }}
+  {{ $slug := .slug }}
+  {{ if $slug }}
+    {{ $watched := .watched_date | default "" }}
+    {{ $date := now }}
+    {{ with $watched }}{{ $date = time . }}{{ end }}
+    {{ $page := dict
+      "kind" "page"
+      "path" $slug
+      "title" .title
+      "dates" (dict "date" $date "lastmod" $date)
+      "params" (dict
+        "stub" true
+        "type" "movie"
+        "summary" (printf "Movie · %v" (.year | default ""))
+        "year" .year
+        "rating" .rating
+        "watched_date" $watched
+        "rewatch" (.rewatch | default false)
+        "letterboxd_url" .letterboxd_url
+        "tmdb_id" .tmdb_id
+        "review_html" .review_html
+        "feed_id" .id
+      )
+    }}
+    {{ $.AddPage $page }}
+  {{ end }}
+{{ end }}

@@ -33,7 +33,7 @@
             {{ . | safeHTML }}
         {{ else }}
             <p class="note-stub-prose">
-                A stub page so this book can be linked from notes in the garden. No commentary written yet.
+                This is a stub page — it exists so other notes in the garden can link to this book and have the link resolve. No commentary written yet.
                 {{ with $.Params.goodreads_url }}<br/>For now, see <a href="{{ . }}" target="_blank" rel="noopener">my entry on Goodreads</a>.{{ end }}
             </p>
         {{ end }}

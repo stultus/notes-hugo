@@ -28,6 +28,8 @@ DAMP is particularly effective for:
 
 According to the [Bazel BUILD Style Guide](https://bazel.build/build/style-guide), BUILD files aren't code, they are configurations. They aren't tested like code, but do need to be maintained by people and tools. That makes DAMP better for them than [DRY](/notes/dry-principle/).
 
+The same logic explains the [Nginx sites-available/sites-enabled split](/notes/nginx-sites-available-vs-enabled/) — descriptive directory names doing the work of "is this active?", so humans don't have to read config bodies to find out.
+
 ## Trade-offs
 
 DAMP accepts some repetition in exchange for:

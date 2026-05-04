@@ -80,24 +80,24 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
+    name = "notes"
+    url = "https://stultus.in/notes/"
+    weight = 1
+  [[menu.main]]
     name = "blog"
     url = "https://stultus.in/post/"
-    weight = 1
+    weight = 2
   [[menu.main]]
     name = "projects"
     url = "https://stultus.in/projects/"
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = "now"
     url = "https://stultus.in/now/"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "about"
     url = "https://stultus.in/about/"
-    weight = 4
-  [[menu.main]]
-    name = "notes"
-    url = "https://stultus.in/notes/"
     weight = 5
 
 

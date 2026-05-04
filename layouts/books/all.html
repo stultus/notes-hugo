@@ -1,0 +1,34 @@
+{{ define "main" }}
+<div class="tag-page">
+
+    <header class="tag-header">
+        <a href="{{ "/notes/books/" | relURL }}" class="note-back">&larr; Books</a>
+        <h1 class="tag-title">📚 All Books</h1>
+        {{ with .Params.summary }}<p class="tag-count">{{ . }}</p>{{ end }}
+    </header>
+
+    {{- /* All book stubs (and any manual book notes), sorted by read date desc. */ -}}
+    {{- $section := site.GetPage "/books" -}}
+    {{- $books := slice -}}
+    {{- range $section.Pages -}}
+        {{- if ne .File.ContentBaseName "all" -}}
+            {{- $books = $books | append . -}}
+        {{- end -}}
+    {{- end -}}
+
+    <p class="tag-count">{{ len $books }} books</p>
+
+    <ul class="tag-notes-list">
+        {{- range (sort $books "Date" "desc") }}
+        <li class="tag-note-item">
+            <a href="{{ .RelPermalink }}">
+                <span class="status-dot status-dot-{{ .Params.status | default "seeding" }}"></span>
+                <span class="all-note-title">{{ .Title }}{{ with .Params.author }} — {{ . }}{{ end }}{{ with .Params.rating }} <span class="all-note-meta">★ {{ . }}</span>{{ end }}</span>
+            </a>
+            <span class="all-note-meta">{{ with .Params.read_date }}{{ dateFormat "Jan 2006" . }}{{ end }}</span>
+        </li>
+        {{- end }}
+    </ul>
+
+</div>
+{{ end }}

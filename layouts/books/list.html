@@ -9,6 +9,7 @@
 
     {{- /* Only list items with manual commentary; auto-stubs are filtered out. */ -}}
     {{ $manual := where .Pages "Params.stub" "!=" true }}
+    {{ $stubs := where .Pages "Params.stub" true }}
     {{ if gt (len $manual) 0 }}
     <ul class="tag-notes-list">
         {{ range $manual.ByDate.Reverse }}
@@ -26,6 +27,12 @@
     </ul>
     {{ else }}
     <p class="garden-empty">No book commentary written yet. Stubs exist for backlink resolution; once a note here gets a manual page it shows up in this list.</p>
+    {{ end }}
+
+    {{ if gt (len $stubs) 0 }}
+    <p class="garden-footer-link">
+        <a href="{{ "/notes/books/all/" | relURL }}">All {{ len $stubs }} books in the reading log &rarr;</a>
+    </p>
     {{ end }}
 
 </div>

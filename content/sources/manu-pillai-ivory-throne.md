@@ -2,7 +2,10 @@
 title: "The Ivory Throne by Manu S Pillai"
 date: 2025-12-02
 draft: false
-tags: ["book", "history", "india", "kerala", "travancore"]
+type: "source"
+author: "Manu S Pillai"
+source_type: "book"
+tags: ["source", "book", "history", "india", "kerala", "travancore"]
 status: "seeding"
 summary: "A historical account of the Travancore royal family and the life of Sethu Lakshmi Bayi, the last Maharani Regent of Travancore."
 ---

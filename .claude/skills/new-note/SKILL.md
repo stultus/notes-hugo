@@ -26,7 +26,7 @@ Follow these principles when writing every note:
    - `draft`: false (set to true only if explicitly asked)
    - `tags`: Relevant tags as a YAML list
    - `summary`: One-sentence description of the core idea
-   - `status`: "seeding" for stubs, "budding" for developed drafts, "evergreen" for polished notes
+   - `status`: "seeding" for stubs, "growing" for developed drafts, "evergreen" for polished notes
    - `type`: "note" (atomic idea), "essay" (long form), "moc" (map of content), "source" (external source material)
 3. Write the note body:
    - State the core idea clearly in the opening

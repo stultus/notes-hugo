@@ -31,6 +31,8 @@ Those with knowledge and responsibility but no mandate can't drive meaningful ch
 
 **Solution**: Those with mandate must know what they don't know and grow their org to take the lead.
 
+A common way to end up here: an experienced person is told to "figure it out" and gets handed an unresolved strategic decision without the authority to make it. See [Autonomy over execution is not authority over strategy](/notes/autonomy-over-execution-is-not-authority-over-strategy/).
+
 ### 3. Only Responsibility (Baby Parent)
 **Missing**: Knowledge, Mandate
 

@@ -27,6 +27,8 @@ Authority to make decisions and take action. This includes:
 - Authority to change processes
 - Control over outcomes
 
+Mandate over execution is not the same as mandate over strategy. Delegating the "how" while the "what" is still unresolved leaves people with a gap in authority. See [Autonomy over execution is not authority over strategy](/notes/autonomy-over-execution-is-not-authority-over-strategy/).
+
 ### Responsibility
 Accountability for consequences. This includes:
 - Being on-call for issues

@@ -29,6 +29,7 @@ There are reports that the game [Ingress](/notes/ingress/) was used to collect d
 ## Related Concepts
 - [Ingress](/notes/ingress/)
 - [Design of Experiments (DoE)](/notes/design-of-experiments/) — systematic approaches to data collection, as Google does with crowdsourced mapping
+- [A city's road network makes striking minimalist wall art](/notes/city-road-maps-as-wall-art/): map data stripped down to roads alone
 
 ## Resources
 - [Video demonstration of traffic data collection](https://www.youtube.com/shorts/BDIkUaknQw8)

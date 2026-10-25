@@ -1,5 +1,6 @@
 ---
 title: "സ്മാരകം (Smarakam) - Veerankutty"
+cardTitle: "Smarakam - Veerankutty"
 date: 2025-01-19
 draft: false
 type: "source"

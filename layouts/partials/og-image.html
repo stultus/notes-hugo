@@ -1,0 +1,42 @@
+{{- /*
+  Builds a 1200x630 share card for the current page: site name, page
+  title, status and the owl logo. Returns the image's absolute URL.
+  A page can set `cardTitle` when its title uses a script the card
+  font can't render (e.g. Malayalam).
+*/ -}}
+{{- $bold := resources.Get "og/JetBrainsMono-Bold.ttf" -}}
+{{- $regular := resources.Get "og/JetBrainsMono-Regular.ttf" -}}
+{{- $muted := "#6b7280" -}}
+
+{{- $title := .Params.cardTitle | default .Title -}}
+{{- if .IsHome }}{{ $title = site.Params.tagline | default site.Title }}{{ end -}}
+{{- with .Data.Term }}{{ $title = printf "#%s" . }}{{ end -}}
+
+{{- $len := len $title -}}
+{{- $size := 64 -}}
+{{- if gt $len 60 }}{{ $size = 44 }}{{ else if gt $len 30 }}{{ $size = 54 }}{{ end -}}
+
+{{- $text := resources.Get "og/textbox.png" | images.Filter (images.Text $title (dict
+    "font" $bold "size" $size "color" "#2e3440" "linespacing" (div $size 4)
+  )) -}}
+
+{{- $logo := (resources.Get "og/logo.png").Resize "300x" -}}
+
+{{- $filters := slice
+  (images.Text site.Title (dict "font" $regular "size" 28 "color" $muted "x" 72 "y" 64))
+  (images.Overlay $text 62 140)
+  (images.Overlay $logo 828 (div (sub 630 $logo.Height) 2))
+-}}
+
+{{- if .IsPage -}}
+  {{- $status := dict
+    "seeding" (dict "label" "Seedling" "color" "#d97706")
+    "growing" (dict "label" "Growing" "color" "#2563eb")
+    "evergreen" (dict "label" "Evergreen" "color" "#059669")
+  -}}
+  {{- $s := index $status (.Params.status | default "seeding") | default (index $status "seeding") -}}
+  {{- $filters = $filters | append (images.Text (printf "● %s" $s.label) (dict "font" $bold "size" 28 "color" $s.color "x" 72 "y" 536)) -}}
+{{- end -}}
+
+{{- $card := resources.Get "og/base.png" | images.Filter $filters -}}
+{{- return $card.Permalink -}}

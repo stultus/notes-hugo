@@ -13,7 +13,7 @@ A collection of digital gardens, blogs, and websites from friends and people I a
 - [Anish Sheela](https://anishsheela.com/)
 - [Ark Arjun](https://arkives.in/)
 - [Arun Sajeev](https://www.inspiredmonster.com/)
-- [Balasanjar C](https://balasankarc.in/)
+- [Balasankar C](https://balasankarc.in/)
 - [Ershad Kunnakkadan](https://blog.ershadk.com/)
 - [Hiran Venugopalan](https://hiran.in/)
 - [Jaseem KM](https://jaseem.dev/)

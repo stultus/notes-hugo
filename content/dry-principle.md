@@ -30,6 +30,8 @@ Not all repetition is bad. Consider [DAMP](/notes/damp-principle/) for:
 - Test code
 - Cases where readability matters more than uniqueness
 
+Data can break DRY on purpose too. [Modified Pre-order Tree Traversal (MPTT)](/notes/modified-preorder-tree-traversal/) stores tree boundaries that duplicate what `parent_id` already says, trading write complexity for faster reads.
+
 ## Related Concepts
 
 - [DAMP Principle](/notes/damp-principle/) — alternative approach for configuration

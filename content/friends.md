@@ -23,6 +23,7 @@ A collection of digital gardens, blogs, and websites from friends and people I a
 - [Kavya Manohar](https://kavyamanohar.com/)
 - [Mehar](https://wiki.meharmp.in/)
 - [Nandaja](https://nandaja.com/)
+- [Niyas](https://wiki.niyasv.com/)
 - [Rajeesh KV](https://rajeeshknambiar.wordpress.com/)
 - [Sanjay Krishna](https://sjaykh.in/)
 - [Santhosh Thottingal](https://thottingal.in/)
@@ -33,5 +34,5 @@ A collection of digital gardens, blogs, and websites from friends and people I a
 - [Scenius](/notes/scenius/) — the communal form of genius that emerges from creative communities
 
 ---
-*Last updated: November 27, 2025*
+*Last updated: October 26, 2026*
 

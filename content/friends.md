@@ -16,6 +16,7 @@ A collection of digital gardens, blogs, and websites from friends and people I a
 - [Balasankar C](https://balasankarc.in/)
 - [Ershad Kunnakkadan](https://blog.ershadk.com/)
 - [Hiran Venugopalan](https://hiran.in/)
+- [Jaisen Nedumpala](https://grandalstonia.wordpress.com/)
 - [Jaseem KM](https://jaseem.dev/)
 - [Jishnu Mohan](https://j15h.nu/)
 - [Jithin V Mohan](https://jithinvmohan.wordpress.com/)
@@ -34,5 +35,5 @@ A collection of digital gardens, blogs, and websites from friends and people I a
 - [Scenius](/notes/scenius/) — the communal form of genius that emerges from creative communities
 
 ---
-*Last updated: October 26, 2026*
+*Last updated: October 31, 2026*
 

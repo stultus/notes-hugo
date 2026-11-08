@@ -53,9 +53,12 @@ enableRobotsTXT = true
     link = "https://www.facebook.com/stultus.hrishi"
     icon = "fab fa-facebook"
 
+  # button = true renders the link as a button like "Random note".
   [[params.heroLinks]]
     name = "Fellow gardeners"
     url = "/notes/friends/"
+    button = true
+    icon = "✿"
 
   [[params.heroLinks]]
     name = "What is a digital garden?"

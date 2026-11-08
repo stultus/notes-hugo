@@ -96,10 +96,20 @@
           <span class="action-icon">&rarr;</span> Random note
         </button>
         {{ range .Site.Params.heroLinks }}
+        {{ if .button }}
+        <a href="{{ .url }}" class="garden-action-btn garden-action-btn-link">{{ with .icon }}<span class="action-icon">{{ . }}</span> {{ end }}{{ .name }}</a>
+        {{ else }}
         <a href="{{ .url }}" class="garden-action-link">{{ .name }}</a>
+        {{ end }}
         {{ end }}
       </div>
     </div>
+
+    {{- /* Links styled as buttons: drop the theme's link underline. */ -}}
+    <style>
+      .garden-action-btn-link, .garden-action-btn-link:hover { border-bottom: 1px solid var(--border); text-decoration: none; }
+      .garden-action-btn-link:hover { border-color: var(--accent); }
+    </style>
 
     {{- /* Random note data for JS */ -}}
     <script>

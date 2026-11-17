@@ -17,4 +17,5 @@ By doing so, the plaintiff seeks a legal remedy; if this search is successful, t
 
 ## Related Concepts
 - [Miranda Warning](/notes/miranda-warning/) — rights of the accused in the legal process
+- [Copyright Protects Expression, Not Ideas](/notes/copyright-protects-expression-not-ideas/) — a playwright as plaintiff in India's leading case on what copyright covers
 

@@ -20,11 +20,12 @@ According to this myth:
 
 ## Alternative: Scenius
 
-The reality is that great ideas emerge from [Scenius](/notes/scenius/)—collaborative creative communities where people support, learn from, and build upon each other's work.
+The reality is that great ideas emerge from [Scenius](/notes/scenius/)—collaborative creative communities where people support, learn from, and build upon each other's work. No one is "free of influences or precedent": [all creative work is derivative](/notes/all-creative-work-is-derivative/).
 
 ## Related Concepts
 
 - [Scenius](/notes/scenius/) — the collaborative reality of creativity
+- [All Creative Work Is Derivative](/notes/all-creative-work-is-derivative/) — every work builds on earlier work
 - [Growth Mindset vs Fixed Mindset](/notes/growth-mindset-vs-fixed-mindset/) — debunking fixed talent myths
 - [Amateur Mindset](/notes/amateur-mindset/) — embracing learning and imperfection
 

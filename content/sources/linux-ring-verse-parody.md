@@ -78,6 +78,8 @@ Transforms Tolkien's ominous verse about the One Ring's power into a celebration
 - Hacker ethic
 - Software freedom
 - [Engineering Strategy](../../engineering-strategy/)
+- [All Creative Work Is Derivative](../../all-creative-work-is-derivative/) — parody as a derivative work
+- [Memes Spread by Copying With Variation](../../memes-spread-by-copying-with-variation/) — a mutated copy of a famous verse, spread through email signatures
 
 ---
 *Parody by J. Scott Thayer, with apologies to J.R.R. Tolkien*

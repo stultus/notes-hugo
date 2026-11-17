@@ -37,7 +37,7 @@ The article described how:
 - Weblogging was an established part of the internet
 - These factors combined to create a "new boom in amateur radio"
 
-The term "podcasting" was one of several options Hammersley considered, alongside "audioblogging" and "GuerillaMedia", but it was "podcasting" that stuck and became the standard term.
+The term "podcasting" was one of several options Hammersley considered, alongside "audioblogging" and "GuerillaMedia", but it was "podcasting" that stuck and became the standard term. Several variants, and only one got copied: a textbook case of how [memes spread by copying with variation](/notes/memes-spread-by-copying-with-variation/).
 
 ## Source
 
@@ -48,4 +48,5 @@ The term "podcasting" was one of several options Hammersley considered, alongsid
 ## Related Concepts
 - [Amateur](/notes/amateur/) — Hammersley's accidental coinage embodies the amateur spirit of creating something without formal intent
 - [Scenius](/notes/scenius/) — the word emerged from a creative ecosystem of blogs, MP3 players, and free audio tools
+- [Memes Spread by Copying With Variation](/notes/memes-spread-by-copying-with-variation/) — of Hammersley's coinages, only "podcasting" got copied
 
